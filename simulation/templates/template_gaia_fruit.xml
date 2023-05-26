@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia">
+  <Footprint>
+    <Circle radius="3.0"/>
+    <Height>3.0</Height>
+  </Footprint>
+  <Identity>
+    <GenericName>Fruit</GenericName>
+    <Tooltip>Pick fruit for food.</Tooltip>
+    <Icon>gaia/flora_bush_berry.png</Icon>
+  </Identity>
+  <Minimap>
+    <Type>food</Type>
+    <Color r="155" g="204" b="102"/>
+  </Minimap>
+  <Obstruction>
+    <Static width="2.5" depth="2.5"/>
+    <!-- Delete as a workaround to facilitate wall placement. -->
+    <DeleteUponConstruction>true</DeleteUponConstruction>
+  </Obstruction>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Max>1</Max>
+    <Type>food.fruit</Type>
+    <MaxGatherers>8</MaxGatherers>
+    <Change>
+      <Regrowth>
+        <Value>1</Value>
+        <Interval>6000</Interval>
+      </Regrowth>
+    </Change>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/resource/sel_fruit.xml</select>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <BarWidth>3.0</BarWidth>
+    <BarHeight>0.5</BarHeight>
+    <HeightOffset>4.0</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <SelectionShape>
+      <Footprint/>
+    </SelectionShape>
+  </VisualActor>
+</Entity>

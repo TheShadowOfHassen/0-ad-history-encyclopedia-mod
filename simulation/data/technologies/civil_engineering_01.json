@@ -1,0 +1,30 @@
+{
+	"genericName": "Improved Construction",
+	"specificName": { "han": "Gōngchéng" },
+	"description": "",
+	"cost": {
+		"food": 0,
+		"wood": 300,
+		"stone": 300,
+		"metal": 0
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "work.png",
+	"researchTime": 40,
+	"tooltip": "All structures −10% build time and −10% cost.",
+	"modifications": [
+		{ "value": "Cost/BuildTime","multiply": 0.9 },
+		{ "value": "Cost/Resources/food", "multiply": 0.9 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.9 },
+		{ "value": "Cost/Resources/stone", "multiply": 0.9 },
+		{ "value": "Cost/Resources/metal", "multiply": 0.9 }
+	],
+	"affects": ["Structure"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

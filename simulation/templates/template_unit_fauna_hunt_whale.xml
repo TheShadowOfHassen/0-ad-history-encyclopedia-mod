@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna">
+  <Health>
+    <Unhealable>true</Unhealable>
+  </Health>
+  <Identity>
+    <Classes datatype="tokens">SeaCreature</Classes>
+    <Tooltip>Kill to butcher for food.</Tooltip>
+    <Icon>gaia/fauna_whale.png</Icon>
+  </Identity>
+  <Obstruction>
+    <BlockMovement>false</BlockMovement>
+    <BlockPathfinding>false</BlockPathfinding>
+  </Obstruction>
+  <Position>
+    <Anchor>upright</Anchor>
+    <Floating>true</Floating>
+    <FloatDepth>0.0</FloatDepth>
+  </Position>
+  <ResourceSupply>
+    <KillBeforeGather>true</KillBeforeGather>
+    <Max>2000</Max>
+    <Type>food.fish</Type>
+    <MaxGatherers>5</MaxGatherers>
+  </ResourceSupply>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/ellipse.png</MainTexture>
+        <MainTextureMask>128x512/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <StatusBars>
+    <BarWidth>4.0</BarWidth>
+    <BarHeight>0.666</BarHeight>
+    <HeightOffset>5.0</HeightOffset>
+  </StatusBars>
+  <UnitAI>
+    <DefaultStance>skittish</DefaultStance>
+    <RoamDistance>60.0</RoamDistance>
+    <FleeDistance>60.0</FleeDistance>
+    <RoamTimeMin>100000</RoamTimeMin>
+    <RoamTimeMax>300000</RoamTimeMax>
+    <FeedTimeMin>1</FeedTimeMin>
+    <FeedTimeMax>2</FeedTimeMax>
+  </UnitAI>
+  <Vision>
+    <Range>0</Range>
+  </Vision>
+  <UnitMotion>
+    <PassabilityClass>ship-small</PassabilityClass>
+    <WalkSpeed op="mul">1.8</WalkSpeed>
+    <RunMultiplier>1</RunMultiplier>
+    <Acceleration op="mul">1.8</Acceleration>
+    <Weight op="mul">5.0</Weight>
+  </UnitMotion>
+</Entity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_wall_short">
+  <Footprint>
+    <Square width="12" depth="6"/>
+    <Height>11.4</Height>
+  </Footprint>
+  <Identity>
+    <Civ>sele</Civ>
+    <SpecificName>Teichos</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="11" depth="5"/>
+  </Obstruction>
+  <StatusBars>
+    <HeightOffset>12.4</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>structures/seleucids/wall_short.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>11</Length>
+  </WallPiece>
+</Entity>

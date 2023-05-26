@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <!--
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>256x256/rectangle.png</MainTexture>
+        <MainTextureMask>256x256/rectangle_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  -->
+  <Formation>
+    <RequiredMemberCount>2</RequiredMemberCount>
+    <DisabledTooltip>Requires at least 2 Soldiers or Siege Engines.</DisabledTooltip>
+    <SpeedMultiplier>1</SpeedMultiplier>
+    <FormationShape>square</FormationShape>
+    <MaxTurningAngle>1</MaxTurningAngle>
+    <SortingClasses>Hero Champion Cavalry Melee Ranged</SortingClasses>
+    <ShiftRows>false</ShiftRows>
+    <UnitSeparationWidthMultiplier>1</UnitSeparationWidthMultiplier>
+    <UnitSeparationDepthMultiplier>1</UnitSeparationDepthMultiplier>
+    <WidthDepthRatio>1</WidthDepthRatio>
+    <Sloppiness>0</Sloppiness>
+    <AnimationVariants/>
+  </Formation>
+  <FormationAttack>
+    <CanAttackAsFormation>false</CanAttackAsFormation>
+  </FormationAttack>
+  <Identity>
+    <Civ/> <!-- Unused -->
+    <Classes datatype="tokens">Formation</Classes>
+    <Undeletable>true</Undeletable>
+  </Identity>
+  <Obstruction>
+    <Unit/>
+    <Active>true</Active>
+    <BlockMovement>false</BlockMovement>
+    <BlockPathfinding>false</BlockPathfinding>
+    <BlockFoundation>false</BlockFoundation>
+    <BlockConstruction>false</BlockConstruction>
+    <DisableBlockMovement>false</DisableBlockMovement>
+    <DisableBlockPathfinding>false</DisableBlockPathfinding>
+    <DeleteUponConstruction>false</DeleteUponConstruction>
+  </Obstruction>
+  <Ownership/>
+  <Position>
+    <Altitude>0</Altitude>
+    <Anchor>upright</Anchor>
+    <Floating>false</Floating>
+    <FloatDepth>0</FloatDepth>
+    <TurnRate>10</TurnRate>
+  </Position>
+  <Trader>
+    <GainMultiplier>0.75</GainMultiplier>
+  </Trader>
+  <UnitAI>
+    <DefaultStance>aggressive</DefaultStance>
+    <FormationController>true</FormationController>
+    <FleeDistance>12.0</FleeDistance>
+    <CanGuard>true</CanGuard>
+    <CanPatrol>true</CanPatrol>
+    <PatrolWaitTime>2</PatrolWaitTime>
+  </UnitAI>
+  <UnitMotion>
+    <FormationController>true</FormationController>
+    <WalkSpeed>1</WalkSpeed>
+    <RunMultiplier>100</RunMultiplier> <!-- = Max formation speed -->
+    <InstantTurnAngle>1.5</InstantTurnAngle>
+    <Acceleration>100</Acceleration> <!-- Unused -->
+    <PassabilityClass>large</PassabilityClass>
+    <Weight>100</Weight>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>props/units/standards/formation.xml</Actor>
+    <SilhouetteDisplay>true</SilhouetteDisplay>
+    <SilhouetteOccluder>false</SilhouetteOccluder>
+    <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
+  </VisualActor>
+</Entity>

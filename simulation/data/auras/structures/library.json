@@ -1,0 +1,13 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.85 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.85 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.85 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.85 },
+		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 0.85 }
+	],
+	"auraDescription": "Structures −15% technology resource costs and research time.",
+	"auraName": "Centre of Scholarship"
+}

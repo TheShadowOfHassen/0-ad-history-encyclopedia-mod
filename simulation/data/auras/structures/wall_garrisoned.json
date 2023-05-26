@@ -1,0 +1,12 @@
+{
+	"type": "turretedUnits",
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 3 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 3 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 3 },
+		{ "value": "Vision/Range", "add": 20 }
+	],
+	"auraName": "Wall Protection",
+	"auraDescription": "Turreted Soldiers +3 crush, hack, pierce resistance and +20 vision range."
+}

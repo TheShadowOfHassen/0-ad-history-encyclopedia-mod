@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Hero"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 0.95 }
+	],
+	"auraName": "Powerful Priesthood",
+	"auraDescription": "Heroes −5% health.",
+	"stackable": true
+}

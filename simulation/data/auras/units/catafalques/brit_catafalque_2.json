@@ -1,0 +1,9 @@
+{
+	"type": "global",
+	"affects": ["Javelineer"],
+	"modifications": [
+		{ "value": "Attack/Ranged/MaxRange", "multiply": 1.2 }
+	],
+	"auraName": "Skirmisher Harassment",
+	"auraDescription": "Cassivellaunus deployed fast-moving skirmishers to harass Roman troops and foragers.\nJavelineers +20% attack range."
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_fish">
+  <Identity>
+    <SpecificName>Tuna</SpecificName>
+    <Icon>gaia/fauna_fish.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>fauna/tuna_shoal.xml</Actor>
+  </VisualActor>
+</Entity>

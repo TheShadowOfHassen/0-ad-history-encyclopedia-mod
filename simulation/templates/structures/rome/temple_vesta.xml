@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_temple">
+  <Auras datatype="tokens">
+    structures/loyalty_regen
+  </Auras>
+  <BuildRestrictions>
+    <Category>TempleOfVesta</Category>
+  </BuildRestrictions>
+  <Footprint replace="">
+    <Circle radius="11.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>rome</Civ>
+    <GenericName>Temple of Vesta</GenericName>
+    <SpecificName>Aedēs Vestālis</SpecificName>
+    <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">TempleOfVesta</VisibleClasses>
+    <Icon>structures/temple_vesta.png</Icon>
+  </Identity>
+  <Obstruction>
+    <Static width="19.0" depth="19.0"/>
+  </Obstruction>
+  <VisualActor>
+    <Actor>structures/romans/temple_vesta.xml</Actor>
+    <FoundationActor>structures/fndn_5x5.xml</FoundationActor>
+  </VisualActor>
+</Entity>

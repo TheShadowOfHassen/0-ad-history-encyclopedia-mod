@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit">
+  <Cost>
+    <Population>0</Population>
+  </Cost>
+  <Footprint replace="">
+    <Square width="2.0" depth="4.0"/>
+    <Height>4.0</Height>
+  </Footprint>
+  <Guard disable=""/>
+  <Identity>
+    <Classes datatype="tokens">-ConquestCritical Animal</Classes>
+    <Icon>gaia/fauna_generic.png</Icon>
+  </Identity>
+  <Loot disable=""/>
+  <Minimap>
+    <Type>food</Type>
+    <Color r="227" g="130" b="141"/>
+  </Minimap>
+  <Position>
+    <TurnRate>4</TurnRate>
+  </Position>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x256/ellipse.png</MainTexture>
+        <MainTextureMask>128x256/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <TrainingRestrictions>
+    <Category>Animal</Category>
+  </TrainingRestrictions>
+  <TreasureCollector disable=""/>
+  <UnitAI>
+    <DefaultStance>passive</DefaultStance>
+    <CanGuard>false</CanGuard>
+    <CanPatrol>false</CanPatrol>
+    <RoamDistance>8.0</RoamDistance>
+    <FleeDistance>24.0</FleeDistance>
+    <RoamTimeMin>2000</RoamTimeMin>
+    <RoamTimeMax>8000</RoamTimeMax>
+    <FeedTimeMin>15000</FeedTimeMin>
+    <FeedTimeMax>60000</FeedTimeMax>
+    <Formations disable=""/>
+  </UnitAI>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.7</WalkSpeed>
+    <Acceleration op="mul">0.7</Acceleration>
+  </UnitMotion>
+  <Visibility>
+    <RetainInFog>true</RetainInFog>
+  </Visibility>
+  <Vision>
+    <Range>90</Range>
+  </Vision>
+</Entity>

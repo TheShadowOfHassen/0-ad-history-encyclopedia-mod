@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_elephant">
+  <Attack>
+    <Capture disable=""/>
+    <Melee>
+      <AttackName>Trunk</AttackName>
+      <Damage>
+        <Hack>30</Hack>
+        <Crush>30</Crush>
+      </Damage>
+      <Splash>
+        <Shape>Circular</Shape>
+        <Range>2</Range>
+        <FriendlyFire>true</FriendlyFire>
+        <Damage>
+          <Hack>30</Hack>
+          <Crush>30</Crush>
+        </Damage>
+      </Splash>
+      <MaxRange>5</MaxRange>
+      <PrepareTime>750</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <PreferredClasses datatype="tokens">!Ship</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Identity>
+    <VisibleClasses datatype="tokens">Melee</VisibleClasses>
+  </Identity>
+</Entity>

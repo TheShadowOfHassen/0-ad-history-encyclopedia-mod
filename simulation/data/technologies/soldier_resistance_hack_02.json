@@ -1,0 +1,26 @@
+{
+	"genericName": "Laminated Linen Body Armor",
+	"specificName": {
+		"athen": "Linothōrax",
+		"mace": "Linothōrax",
+		"ptol": "Linothōrax",
+		"sele": "Linothōrax",
+		"spart": "Linothōrax"
+	},
+	"description": "Body armor made from laminated linen.",
+	"cost": {
+		"food": 350,
+		"metal": 250
+	},
+	"supersedes": "soldier_resistance_hack_01",
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "armor_pteruges.png",
+	"researchTime": 50,
+	"tooltip": "Soldiers +1 hack resistance.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 }
+	],
+	"affects": ["Soldier"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

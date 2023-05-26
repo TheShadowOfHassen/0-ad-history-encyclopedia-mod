@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure">
+  <Footprint>
+    <Square width="1.6" depth="1.6"/>
+    <Height>4.0</Height>
+  </Footprint>
+  <Health>
+    <Max>200</Max>
+  </Health>
+  <Identity>
+    <Civ>sele</Civ>
+    <GenericName>Colonnade</GenericName>
+    <SpecificName>Corinthian Colonnade</SpecificName>
+    <Icon>structures/stoa.png</Icon>
+  </Identity>
+  <Loot>
+    <stone>20</stone>
+  </Loot>
+  <Obstruction>
+    <Static width="1.5" depth="1.5"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <Researcher disable=""/>
+  <StatusBars>
+    <HeightOffset>8.0</HeightOffset>
+  </StatusBars>
+  <Trainer disable=""/>
+  <VisualActor>
+    <Actor>props/special/eyecandy/sele_colonnade.xml</Actor>
+  </VisualActor>
+</Entity>

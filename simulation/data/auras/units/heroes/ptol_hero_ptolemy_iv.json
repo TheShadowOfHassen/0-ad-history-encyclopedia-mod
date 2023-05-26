@@ -1,0 +1,10 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Pikeman"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.4 }
+	],
+	"auraName": "Raphia",
+	"auraDescription": "Pikemen +40% health."
+}

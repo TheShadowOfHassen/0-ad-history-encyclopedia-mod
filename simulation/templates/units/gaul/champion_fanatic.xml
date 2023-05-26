@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_spearman">
+  <Cost>
+    <Resources>
+      <food>120</food>
+      <wood>100</wood>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>gaul</Civ>
+    <GenericName>Naked Fanatic</GenericName>
+    <SpecificName>Bariogaisatos</SpecificName>
+    <Icon>units/gaul/champion_fanatic.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city phase_town</Techs>
+    </Requirements>
+  </Identity>
+  <Loot>
+    <food>12</food>
+    <wood>10</wood>
+    <metal>0</metal>
+  </Loot>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-3</Hack>
+        <Pierce op="add">-4</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
+    <Acceleration op="mul">1.4</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/gauls/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+</Entity>

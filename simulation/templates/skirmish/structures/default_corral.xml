@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_resource_corral">
+  <Footprint>
+    <Square width="20.0" depth="22.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>skirm</Civ>
+  </Identity>
+  <Obstruction>
+    <Static width="18.0" depth="20.0"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <Researcher disable=""/>
+  <SkirmishReplacer>
+    <general>structures/{civ}/corral</general>
+  </SkirmishReplacer>
+  <Trainer disable=""/>
+  <VisualActor>
+    <Actor>structures/hellenes/corral.xml</Actor>
+  </VisualActor>
+</Entity>

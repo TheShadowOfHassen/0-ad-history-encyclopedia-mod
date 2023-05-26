@@ -1,0 +1,26 @@
+{
+	"genericName": "Intensive Training",
+	"specificName": { "han": "Guānliáo" },
+	"description": "",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"stone": 0,
+		"metal": 0
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "hospital.png",
+	"researchTime": 40,
+	"tooltip": "Ministers +50% health.",
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.5 }
+	],
+	"affects": ["Minister"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

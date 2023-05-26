@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_skittish">
+  <Footprint>
+    <Square width="2.5" depth="5.0"/>
+    <Height>3.5</Height>
+  </Footprint>
+  <Health>
+    <Max>50</Max>
+  </Health>
+  <Identity>
+    <GenericName>Muskox</GenericName>
+    <SpecificName>Ovibos moschatus</SpecificName>
+    <Icon>gaia/fauna_muskox.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>10</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>200</Max>
+  </ResourceSupply>
+  <StatusBars>
+    <HeightOffset>4.5</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/muskox.xml</Actor>
+  </VisualActor>
+</Entity>

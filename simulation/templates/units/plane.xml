@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit">
+  <Attack>
+    <Ranged>
+      <AttackName context="Name of an attack of a World War II fighter plane.">Machine Guns</AttackName>
+      <Damage>
+        <Pierce>100</Pierce>
+        <Crush>227</Crush>
+      </Damage>
+      <MaxRange>120</MaxRange>
+      <MinRange>80</MinRange>
+      <PrepareTime>0</PrepareTime>
+      <RepeatTime>10000</RepeatTime>
+      <Projectile>
+        <Speed>75</Speed>
+        <Spread>1</Spread>
+        <Gravity>9.81</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+    </Ranged>
+  </Attack>
+  <BuildingAI>
+    <DefaultArrowCount>3</DefaultArrowCount>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
+  </BuildingAI>
+  <Decay>
+    <SinkingAnim>true</SinkingAnim>
+    <DelayTime>0.0</DelayTime>
+    <SinkRate>3.0</SinkRate>
+    <SinkAccel>7.0</SinkAccel>
+  </Decay>
+  <GarrisonHolder>
+    <Max>1</Max>
+    <EjectHealth>0</EjectHealth>
+    <List datatype="tokens">Support Infantry</List>
+    <BuffHeal>1</BuffHeal>
+    <LoadingRange>5</LoadingRange>
+    <EjectClassesOnDestroy datatype="tokens"/>
+  </GarrisonHolder>
+  <Health>
+    <Max>100</Max>
+    <Unhealable>true</Unhealable>
+  </Health>
+  <Identity>
+    <SpecificName>P-51 Mustang</SpecificName>
+    <Tooltip>A World War II American fighter plane.</Tooltip>
+    <Icon>units/global/mustang.png</Icon>
+  </Identity>
+  <Obstruction disable=""/>
+  <Position>
+    <Anchor>upright</Anchor>
+    <Floating>true</Floating>
+    <FloatDepth>0</FloatDepth>
+    <TurnRate>1</TurnRate>
+  </Position>
+  <Repairable>
+    <RepairTimeRatio>3.0</RepairTimeRatio>
+  </Repairable>
+  <UnitAI>
+    <Formations datatype="tokens" replace=""/>
+  </UnitAI>
+  <UnitMotion disable=""/>
+  <UnitMotionFlying>
+    <MaxSpeed>60.0</MaxSpeed>
+    <TakeoffSpeed>50.0</TakeoffSpeed>
+    <LandingSpeed>40.0</LandingSpeed>
+    <AccelRate>25.0</AccelRate>
+    <SlowingRate>5.0</SlowingRate>
+    <BrakingRate>10.0</BrakingRate>
+    <TurnRate>2.0</TurnRate>
+    <OvershootTime>2.0</OvershootTime>
+    <FlyingHeight>50.0</FlyingHeight>
+    <ClimbRate>15.0</ClimbRate>
+    <DiesInWater>true</DiesInWater>
+    <PassabilityClass>unrestricted</PassabilityClass>
+  </UnitMotionFlying>
+  <Vision>
+    <Range>100</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>units/global/plane.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,8 @@
+{
+	"Name": "wololo",
+	"Data": {
+		"Action": "convertunit",
+		"DefaultParameter": -1,
+		"isNumeric": true
+	}
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="merc_inf|template_unit_champion_infantry_swordsman">
+  <Identity>
+    <GenericName>Samnite Swordsman</GenericName>
+    <SpecificName>Samnite Swordsman</SpecificName>
+    <Icon>units/samn/swordsman.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/carthaginians/infantry_swordsman_b.xml</Actor>
+  </VisualActor>
+</Entity>

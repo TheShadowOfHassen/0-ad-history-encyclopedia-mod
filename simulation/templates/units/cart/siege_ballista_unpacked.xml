@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/cart/siege_ballista_packed">
+  <Footprint>
+    <Square width="6.0" depth="12.0"/>
+  </Footprint>
+  <Identity>
+    <Icon>units/cart/siege_ballista.png</Icon>
+  </Identity>
+  <Pack>
+    <Entity>units/cart/siege_ballista_packed</Entity>
+    <State>unpacked</State>
+  </Pack>
+  <UnitMotion>
+    <WalkSpeed>0.001</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/carthaginians/siege_lithobolos_med.xml</Actor>
+  </VisualActor>
+</Entity>

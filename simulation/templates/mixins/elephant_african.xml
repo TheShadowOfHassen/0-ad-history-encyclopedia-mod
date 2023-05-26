@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Entity>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack op="mul">0.9</Hack>
+        <Pierce op="mul">0.9</Pierce>
+        <Crush op="mul">0.9</Crush>
+      </Damage>
+      <Splash>
+        <Damage>
+          <Hack op="mul">0.9</Hack>
+          <Pierce op="mul">0.9</Pierce>
+          <Crush op="mul">0.9</Crush>
+        </Damage>
+      </Splash>
+    </Melee>
+  </Attack>
+  <Cost>
+    <BuildTime op="mul">0.9</BuildTime>
+    <Resources>
+      <food op="mul_round">0.9</food>
+      <wood op="mul_round">0.9</wood>
+      <stone op="mul_round">0.9</stone>
+      <metal op="mul_round">0.9</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max op="mul">0.9</Max>
+  </Health>
+  <Identity>
+    <Classes datatype="tokens">AfricanElephant</Classes>
+  </Identity>
+  <Loot>
+    <food op="mul_round">0.9</food>
+    <wood op="mul_round">0.9</wood>
+    <stone op="mul_round">0.9</stone>
+    <metal op="mul_round">0.9</metal>
+    <xp op="mul_round">0.9</xp>
+  </Loot>
+</Entity>

@@ -1,0 +1,16 @@
+{
+	"TranslatedKeys": ["Title", "Description"],
+	"Data":
+	{
+		"Title": "Conquest Civic Centers",
+		"Description": "Defeat opponents by destroying all their fully built civic centers.",
+		"Scripts":
+		[
+			"scripts/TriggerHelper.js",
+			"scripts/ConquestCommon.js",
+			"scripts/ConquestCivicCentres.js"
+		],
+		"DisabledWhenChecked": ["conquest", "conquest_structures"],
+		"GUIOrder": 3
+	}
+}

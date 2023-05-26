@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_wild_passive">
+  <Footprint>
+    <Square width="2.0" depth="8.0"/>
+    <Height>2.5</Height>
+  </Footprint>
+  <Health>
+    <Max>150</Max>
+    <Unhealable>true</Unhealable>
+  </Health>
+  <Identity>
+    <GenericName>Great White Shark</GenericName>
+    <SpecificName>Carcharodon carcharias</SpecificName>
+    <Classes datatype="tokens">SeaCreature</Classes>
+    <Icon>gaia/fauna_shark.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>30</xp>
+  </Loot>
+  <Minimap disable=""/>
+  <Obstruction>
+    <BlockMovement>false</BlockMovement>
+    <BlockPathfinding>false</BlockPathfinding>
+  </Obstruction>
+  <Position>
+    <Altitude>-1</Altitude>
+    <Anchor>upright</Anchor>
+    <Floating>true</Floating>
+    <FloatDepth>0</FloatDepth>
+    <TurnRate>5</TurnRate>
+  </Position>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/ellipse.png</MainTexture>
+        <MainTextureMask>128x512/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <UnitAI>
+    <RoamDistance>100.0</RoamDistance>
+    <FleeDistance>60.0</FleeDistance>
+    <RoamTimeMin>100000</RoamTimeMin>
+    <RoamTimeMax>300000</RoamTimeMax>
+    <FeedTimeMin>1</FeedTimeMin>
+    <FeedTimeMax>2</FeedTimeMax>
+  </UnitAI>
+  <UnitMotion>
+    <PassabilityClass>ship-small</PassabilityClass>
+    <WalkSpeed op="mul">0.6</WalkSpeed>
+    <Acceleration op="mul">0.6</Acceleration>
+  </UnitMotion>
+  <Visibility>
+    <RetainInFog>false</RetainInFog>
+  </Visibility>
+  <VisualActor>
+    <Actor>fauna/shark.xml</Actor>
+  </VisualActor>
+</Entity>

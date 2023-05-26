@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_ranged">
+  <Attack>
+    <Ranged>
+      <AttackName>Crossbow</AttackName>
+      <Damage>
+        <Pierce>20</Pierce>
+      </Damage>
+      <MaxRange>50</MaxRange>
+      <PrepareTime>600</PrepareTime>
+      <RepeatTime>3000</RepeatTime>
+      <Projectile>
+        <Speed>80</Speed>
+        <Spread>3</Spread>
+        <Gravity>30</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="5"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Ranged>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>40</wood>
+    </Resources>
+  </Cost>
+  <Identity>
+    <GenericName>Cavalry Crossbowman</GenericName>
+    <VisibleClasses datatype="tokens">Crossbowman</VisibleClasses>
+  </Identity>
+  <Loot>
+    <wood>3</wood>
+    <metal>2</metal>
+  </Loot>
+  <Sound>
+    <SoundGroups>
+      <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
+      <attack_ranged>attack/weapon/bow_attack.xml</attack_ranged>
+    </SoundGroups>
+  </Sound>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.8</WalkSpeed>
+    <Acceleration op="mul">0.8</Acceleration>
+  </UnitMotion>
+</Entity>

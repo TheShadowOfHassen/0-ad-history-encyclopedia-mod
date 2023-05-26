@@ -1,0 +1,23 @@
+{
+	"genericName": "Crossbow Training",
+	"description": "The Han had a penchant for using massed crossbowmen in battle.",
+	"cost": {
+		"food": 400,
+		"wood": 400
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "armor_plates_ranged.png",
+	"researchTime": 40,
+	"tooltip": "Crossbow Infantry −20% train time.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.8 }
+	],
+	"affects": ["Crossbowman"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

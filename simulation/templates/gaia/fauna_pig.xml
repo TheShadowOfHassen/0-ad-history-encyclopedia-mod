@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_herd_domestic">
+  <Auras datatype="tokens">
+    structures/corral_garrison_medium
+  </Auras>
+  <Cost>
+    <BuildTime>50</BuildTime>
+    <Resources>
+      <food>75</food>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="2.0" depth="4.0"/>
+    <Height>1.5</Height>
+  </Footprint>
+  <Health>
+    <Max>75</Max>
+  </Health>
+  <Identity>
+    <GenericName>Pig</GenericName>
+    <SpecificName>Sus scrofa domesticus</SpecificName>
+    <Icon>gaia/fauna_pig.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>15</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>150</Max>
+    <MaxGatherers>4</MaxGatherers>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/pig_select.xml</select>
+      <order_walk>actor/fauna/animal/pig_order.xml</order_walk>
+      <death>actor/fauna/animal/pig.xml</death>
+      <trained>actor/fauna/animal/pig_trained.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>2.5</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.45</WalkSpeed>
+    <Acceleration op="mul">0.45</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>fauna/pig1.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,11 @@
+{
+	"type": "global",
+	"affects": ["Human", "Structure"],
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+	],
+	"auraName": "Shield of Rome",
+	"auraDescription": "Humans and Structures +1 crush, hack, pierce resistance."
+}

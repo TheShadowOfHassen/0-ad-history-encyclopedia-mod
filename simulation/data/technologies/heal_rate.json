@@ -1,0 +1,25 @@
+{
+	"genericName": "Healing Rate",
+	"specificName": {
+		"athen": "Sphagia",
+		"mace": "Sphagia",
+		"ptol": "Sphagia",
+		"sele": "Sphagia",
+		"spart": "Sphagia"
+	},
+	"description": "Increases the healing rate of all healers.",
+	"cost": {
+		"food": 200,
+		"metal": 100
+	},
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "healing_rate_01.png",
+	"researchTime": 40,
+	"tooltip": "Healers −20% healing time.",
+	"modifications": [
+		{ "value": "Heal/Interval", "multiply": 0.8 }
+	],
+	"affects": ["Healer"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

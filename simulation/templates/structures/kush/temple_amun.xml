@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_temple">
+  <Auras datatype="tokens">
+    structures/kush_temple_amun
+  </Auras>
+  <BuildRestrictions>
+    <Category>TempleOfAmun</Category>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime op="mul">2</BuildTime>
+    <Resources>
+      <stone op="mul">2</stone>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="32.0" depth="62.0"/>
+  </Footprint>
+  <GarrisonHolder>
+    <Max op="mul">2</Max>
+  </GarrisonHolder>
+  <Health>
+    <Max op="mul">2</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>kush</Civ>
+    <GenericName>Grand Temple of Amun</GenericName>
+    <SpecificName>Pr-ʿImn</SpecificName>
+    <Tooltip>Train Amun Champions and Elite Healers. Research healing technologies.</Tooltip>
+    <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">-Town City TempleOfAmun</VisibleClasses>
+    <Icon>structures/temple_epic.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_town phase_city</Techs>
+    </Requirements>
+  </Identity>
+  <Loot>
+    <stone op="mul">2</stone>
+  </Loot>
+  <Obstruction>
+    <Static width="28" depth="56.0"/>
+  </Obstruction>
+  <TerritoryInfluence>
+    <Radius op="mul">2</Radius>
+  </TerritoryInfluence>
+  <Trainer>
+    <Entities datatype="tokens">
+      -units/{civ}/support_healer_b
+      units/{civ}/support_healer_e
+      units/{civ}/champion_infantry_amun
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/kushites/temple_amun.xml</Actor>
+    <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
+  </VisualActor>
+</Entity>

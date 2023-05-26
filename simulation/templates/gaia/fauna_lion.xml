@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_wild_defensive">
+  <Attack>
+    <Melee>
+      <AttackName>Paws</AttackName>
+      <Damage>
+        <Hack>20</Hack>
+      </Damage>
+      <MaxRange>3</MaxRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="2.0" depth="4.0"/>
+    <Height>3.0</Height>
+  </Footprint>
+  <Health>
+    <Max>50</Max>
+  </Health>
+  <Identity>
+    <GenericName>Lion</GenericName>
+    <SpecificName>Panthera leo</SpecificName>
+    <Icon>gaia/fauna_lion.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>10</xp>
+  </Loot>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/lion_select.xml</select>
+      <attack_melee>actor/fauna/animal/lion_attack.xml</attack_melee>
+      <death>actor/fauna/animal/lion_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>4.0</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.45</WalkSpeed>
+    <Acceleration op="mul">0.45</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>fauna/lion.xml</Actor>
+  </VisualActor>
+</Entity>

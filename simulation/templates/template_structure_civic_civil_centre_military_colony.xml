@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre">
+  <BuildRestrictions>
+    <Territory>own neutral</Territory>
+    <Category>Colony</Category>
+    <Distance>
+      <FromClass>CivilCentre</FromClass>
+      <MinDistance>120</MinDistance>
+    </Distance>
+  </BuildRestrictions>
+  <BuildingAI>
+    <DefaultArrowCount>1</DefaultArrowCount>
+  </BuildingAI>
+  <Cost>
+    <BuildTime>300</BuildTime>
+    <Resources>
+      <wood>200</wood>
+      <stone>200</stone>
+      <metal>150</metal>
+    </Resources>
+  </Cost>
+  <Health>
+    <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Military Colony</GenericName>
+    <SelectionGroupName>template_structure_civic_civil_centre_military_colony</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Colony</VisibleClasses>
+    <Icon>structures/military_settlement.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
+  </Identity>
+  <Loot>
+    <wood>40</wood>
+    <stone>40</stone>
+    <metal>30</metal>
+  </Loot>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -phase_town_{civ}
+      -phase_city_{civ}
+      -hellenistic_metropolis
+    </Technologies>
+  </Researcher>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_gymnasium.xml</select>
+      <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Radius>75</Radius>
+  </TerritoryInfluence>
+</Entity>

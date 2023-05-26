@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_passive-defensive_elephant">
+  <Attack>
+    <Melee>
+      <AttackName>Trunk</AttackName>
+      <Damage>
+        <Hack>25</Hack>
+        <Pierce>10</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+      <MaxRange>5</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="4.0" depth="8.0"/>
+    <Height>7.0</Height>
+  </Footprint>
+  <Health>
+    <Max>250</Max>
+  </Health>
+  <Identity>
+    <GenericName>Asian Elephant</GenericName>
+    <SpecificName>Elephas maximus</SpecificName>
+    <Icon>gaia/fauna_elephant_asian.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>50</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>650</Max>
+  </ResourceSupply>
+  <StatusBars>
+    <HeightOffset>8.0</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/elephant_asian.xml</Actor>
+  </VisualActor>
+</Entity>

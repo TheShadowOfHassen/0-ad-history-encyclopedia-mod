@@ -1,0 +1,23 @@
+{
+	"genericName": "Healing Range 2",
+	"specificName": {
+		"athen": "Akadēmeia"
+	},
+	"description": "Increases the healing and vision range of all healers.",
+	"cost": {
+		"food": 300,
+		"metal": 150
+	},
+	"supersedes": "heal_range",
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "healing_range_02.png",
+	"researchTime": 40,
+	"tooltip": "Healers +5 healing range.",
+	"modifications": [
+		{ "value": "Heal/Range", "add": 5 },
+		{ "value": "Vision/Range", "add": 5 }
+	],
+	"affects": ["Healer"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

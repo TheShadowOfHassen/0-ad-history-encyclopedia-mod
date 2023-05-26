@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_tower_stone">
+  <Footprint>
+    <Square depth="10.5" width="10.0"/>
+    <Height>15.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <List datatype="tokens">Minister</List>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>han</Civ>
+    <SpecificName>Fángyù Tǎ</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static depth="8.0" width="7.0"/>
+  </Obstruction>
+  <StatusBars>
+    <HeightOffset>22.0</HeightOffset>
+  </StatusBars>
+  <Upgrade>
+    <GreatArcheryTower>
+      <Entity>structures/{civ}/defense_tower_great</Entity>
+      <Tooltip>This tower has greater range, greater attack, greater health, and is twice as difficult to capture.</Tooltip>
+      <Cost>
+        <stone>200</stone>
+      </Cost>
+      <Time>40</Time>
+      <Variant>upgrading</Variant>
+      <Requirements>
+        <Techs datatype="tokens">phase_city</Techs>
+      </Requirements>
+    </GreatArcheryTower>
+  </Upgrade>
+  <VisualActor>
+    <Actor>structures/han/tower_large.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive">
+  <BuildRestrictions>
+    <PlacementType>land-shore</PlacementType>
+    <Territory>own neutral</Territory>
+    <Category>Wall</Category>
+  </BuildRestrictions>
+  <Health>
+    <Max>1000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <GenericName>Palisade</GenericName>
+    <SelectionGroupName>template_structure_defensive_palisade</SelectionGroupName>
+    <Tooltip>Wall off an area. Build in own or neutral territory.</Tooltip>
+    <VisibleClasses datatype="tokens">Palisade</VisibleClasses>
+    <Icon>structures/palisade_wall.png</Icon>
+  </Identity>
+  <RallyPoint disable=""/>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>4</Hack>
+        <Pierce>25</Pierce>
+        <Crush>2</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_wall.xml</select>
+      <constructed>interface/complete/building/complete_wall.xml</constructed>
+    </SoundGroups>
+  </Sound>
+</Entity>

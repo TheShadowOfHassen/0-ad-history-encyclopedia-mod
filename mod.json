@@ -1,0 +1,8 @@
+{
+	"name": "History mod",
+	"version": "0",
+	"label": "A mod that adds history",
+	"url": "",
+	"description": "History",
+	"dependencies": ["0ad>=0.0.26"]
+}

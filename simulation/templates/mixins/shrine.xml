@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity>
+  <BuildRestrictions>
+    <Territory>own neutral ally</Territory>
+  </BuildRestrictions>
+  <Footprint>
+    <Square width="24.0" depth="25.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health disable=""/>
+  <Identity>
+    <GenericName>Shrine</GenericName>
+    <SpecificName>Shrine</SpecificName>
+    <VisibleClasses datatype="tokens">
+      Shrine
+    </VisibleClasses>
+    <Undeletable>true</Undeletable>
+  </Identity>
+  <Minimap>
+    <Type>structure</Type>
+    <Icon size="16.0">other.png</Icon>
+  </Minimap>
+  <Obstruction>
+    <Static width="20" depth="21"/>
+  </Obstruction>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -heal_range
+      -heal_range_2
+      -heal_rate
+      -heal_rate_2
+      -garrison_heal
+      -health_regen_units
+    </Technologies>
+  </Researcher>
+  <Resistance replace=""/>
+  <Selectable>
+    <Overlay>
+      <Outline>
+        <LineTexture>outline_border_02.png</LineTexture>
+        <LineTextureMask>outline_border_02_mask.png</LineTextureMask>
+        <LineThickness>0.5</LineThickness>
+      </Outline>
+    </Overlay>
+  </Selectable>
+  <StatusBars>
+    <HeightOffset>15.0</HeightOffset>
+  </StatusBars>
+  <TerritoryDecay disable=""/>
+  <TerritoryInfluence disable=""/>
+  <Trainer>
+    <Entities datatype="tokens">
+      -units/{civ}/support_healer_b
+      units/{native}/support_healer_e
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <FoundationActor>structures/fndn_4x4.xml</FoundationActor>
+  </VisualActor>
+</Entity>

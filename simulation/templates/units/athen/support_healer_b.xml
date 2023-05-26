@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="civ/athen|template_unit_support_healer">
+  <Identity>
+    <GenericName>Surgeon</GenericName>
+    <SpecificName>Iatros</SpecificName>
+    <Icon>units/hele/support_healer.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/athen/support_healer_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/athenians/healer.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,75 @@
+{
+	"Code": "athen",
+	"Culture": "hele",
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Silver Owls",
+			"History": "The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl.",
+			"Description": "Workers +10% metal gather rate per phase advance."
+		}
+	],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/athen/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/athen/civil_centre"
+		},
+		{
+			"Template": "units/athen/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/athen/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/athen/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/athen/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Themistocles",
+		"Pericles",
+		"Cimon",
+		"Aristides",
+		"Xenophon",
+		"Hippias",
+		"Cleisthenes",
+		"Thucydides",
+		"Alcibiades",
+		"Miltiades",
+		"Cleon",
+		"Cleophon",
+		"Thrasybulus",
+		"Iphicrates",
+		"Demosthenes"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/athen/infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre">
+  <Footprint>
+    <Square depth="35.0" width="43.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <List datatype="tokens">Minister</List>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>han</Civ>
+    <SpecificName>Guān Shǔ</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static depth="33.0" width="41.0"/>
+  </Obstruction>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -unlock_spies
+      -spy_counter
+    </Technologies>
+  </Researcher>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_crossbowman_b
+      units/{civ}/cavalry_swordsman_b
+    </Entities>
+  </Trainer>
+  <Upgrade>
+    <ImperialCourt>
+      <Entity>structures/{civ}/civil_centre_court</Entity>
+      <Tooltip>Enable training of heroes, reduce the batch training times and greatly increase the health, capture resistance and garrison capacity of this specific Civic Center.</Tooltip>
+      <Cost>
+        <stone>300</stone>
+        <wood>300</wood>
+      </Cost>
+      <Time>40</Time>
+      <Variant>upgrading</Variant>
+      <Requirements>
+        <Techs datatype="tokens">phase_city</Techs>
+      </Requirements>
+    </ImperialCourt>
+  </Upgrade>
+  <VisualActor>
+    <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
+    <Actor>structures/han/civil_centre.xml</Actor>
+  </VisualActor>
+</Entity>

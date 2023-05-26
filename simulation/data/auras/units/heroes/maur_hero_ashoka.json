@@ -1,0 +1,17 @@
+{
+	"type": "global",
+	"affects": ["Temple"],
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.5 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.5 },
+		{ "value": "Cost/Resources/stone", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 0.5 }
+	],
+	"auraDescription": "Temples −50% resource costs and build time. Temple technologies −50% resource costs and research time.",
+	"auraName": "Buddhism",
+	"overlayIcon": "art/textures/ui/session/auras/build_bonus.png"
+}

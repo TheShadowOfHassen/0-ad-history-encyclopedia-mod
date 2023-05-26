@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Citizen Infantry Javelineer"],
+	"modifications": [
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.25 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+	],
+	"auraName": "Helot Reforms",
+	"auraDescription": "Citizen Infantry Javelineers +1 crush, hack, pierce resistance, +25% ranged attack pierce damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

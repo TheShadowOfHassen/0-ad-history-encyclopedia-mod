@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_defensive">
+  <Attack>
+    <Melee>
+      <AttackName>Tusks</AttackName>
+      <Damage>
+        <Hack>12</Hack>
+        <Pierce>12</Pierce>
+      </Damage>
+      <MaxRange>4</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="3.0" depth="6.0"/>
+    <Height>3.5</Height>
+  </Footprint>
+  <Health>
+    <Max>200</Max>
+  </Health>
+  <Identity>
+    <GenericName>Hippopotamus</GenericName>
+    <SpecificName>Hippopotamus amphibius</SpecificName>
+    <Icon>gaia/fauna_hippopotamus.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>40</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>400</Max>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/lion_select.xml</select>
+      <attack_melee>actor/fauna/animal/lion_attack.xml</attack_melee>
+      <death>actor/fauna/animal/lion_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>4.5</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/hippopotamus.xml</Actor>
+  </VisualActor>
+</Entity>

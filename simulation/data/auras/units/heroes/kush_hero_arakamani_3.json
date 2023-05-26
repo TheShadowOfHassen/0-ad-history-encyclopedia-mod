@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Healer"],
+	"affectedPlayers": ["Enemy"],
+	"modifications": [
+		{ "value": "Heal/HP", "multiply": 0.5 }
+	],
+	"auraName": "Slaughter of the Faithful",
+	"auraDescription": "Enemy Healers −50% healing strength.",
+	"overlayIcon": "art/textures/ui/session/auras/damage.png"
+}

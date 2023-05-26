@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Footprint replace="">
+    <Circle radius="17.0"/>
+    <Height>18.0</Height>
+  </Footprint>
+  <Health>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>brit</Civ>
+    <SpecificName>Dunon</SpecificName>
+    <Tooltip>Train Heroes. Garrison Soldiers for additional arrows.</Tooltip>
+  </Identity>
+  <Obstruction>
+    <Static width="29.0" depth="29.0"/>
+  </Obstruction>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_broch.xml</select>
+      <constructed>interface/complete/building/complete_broch.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/hero_boudicca
+      units/{civ}/hero_caratacos
+      units/{civ}/hero_cunobelin
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/britons/fortress.xml</Actor>
+    <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
+  </VisualActor>
+  <WallPiece>
+    <Length>28</Length>
+  </WallPiece>
+</Entity>

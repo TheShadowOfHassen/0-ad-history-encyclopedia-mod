@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_civil_centre">
+  <Identity>
+    <Civ>skirm</Civ>
+  </Identity>
+  <ProductionQueue disable=""/>
+  <Researcher disable=""/>
+  <SkirmishReplacer>
+    <general>structures/{civ}/civil_centre</general>
+  </SkirmishReplacer>
+  <Trainer disable=""/>
+  <VisualActor>
+    <Actor>structures/athenians/civil_centre.xml</Actor>
+  </VisualActor>
+</Entity>

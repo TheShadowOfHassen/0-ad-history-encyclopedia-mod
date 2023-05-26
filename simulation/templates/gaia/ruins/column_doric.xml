@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_ruins">
+  <Footprint>
+    <Circle radius="3.0"/>
+    <Height>2.5</Height>
+  </Footprint>
+  <Identity>
+    <SpecificName>Doric Column</SpecificName>
+  </Identity>
+  <ResourceSupply>
+    <Max>500</Max>
+  </ResourceSupply>
+  <VisualActor>
+    <Actor>props/special/eyecandy/column_doric_fallen.xml</Actor>
+  </VisualActor>
+</Entity>

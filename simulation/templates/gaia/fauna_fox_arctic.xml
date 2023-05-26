@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_wild_defensive">
+  <Attack>
+    <Melee>
+      <AttackName>Fangs</AttackName>
+      <Damage>
+        <Hack>2.5</Hack>
+        <Pierce>5</Pierce>
+      </Damage>
+      <MaxRange>2</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="1.0" depth="2.0"/>
+    <Height>1.5</Height>
+  </Footprint>
+  <Health>
+    <Max>20</Max>
+  </Health>
+  <Identity>
+    <GenericName>Arctic Fox</GenericName>
+    <SpecificName>Vulpes lagopus</SpecificName>
+    <Icon>gaia/fauna_fox_arctic.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>4</xp>
+  </Loot>
+  <StatusBars>
+    <HeightOffset>2.5</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/fox_arctic.xml</Actor>
+  </VisualActor>
+</Entity>

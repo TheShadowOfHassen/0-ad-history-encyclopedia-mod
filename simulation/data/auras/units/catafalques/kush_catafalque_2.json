@@ -1,0 +1,10 @@
+{
+	"type": "range",
+	"radius": 80,
+	"affects": ["Temple"],
+	"modifications": [
+		{ "value": "GarrisonHolder/BuffHeal", "add": 1 }
+	],
+	"auraName": "Temple at Naqa",
+	"auraDescription": "As in all cultures, religion played a significant part in Kush. Shanakdakheto had the temple built around 160 BC as a symbol of the advancedness of Meroë.\nTemples +1 garrison heal rate."
+}

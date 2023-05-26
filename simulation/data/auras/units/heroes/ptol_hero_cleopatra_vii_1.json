@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Soldier", "Siege"],
+	"modifications": [
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.8 },
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.8 }
+	],
+	"auraName": "Patriot",
+	"auraDescription": "Soldiers and Siege Engines −20% melee and ranged attack repeat time.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

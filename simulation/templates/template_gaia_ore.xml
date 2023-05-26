@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia">
+  <Footprint>
+    <Circle radius="5.0"/>
+    <Height>3.5</Height>
+  </Footprint>
+  <Identity>
+    <GenericName>Metal Mine</GenericName>
+    <Tooltip>Mine ore for metal.</Tooltip>
+    <Icon>gaia/geology_metal.png</Icon>
+  </Identity>
+  <Minimap>
+    <Type>metal</Type>
+    <Color r="227" g="159" b="12"/>
+    <Icon size="16.0">metal.png</Icon>
+  </Minimap>
+  <Obstruction>
+    <Static width="7.0" depth="7.0"/>
+  </Obstruction>
+  <Position>
+    <Anchor>pitch-roll</Anchor>
+  </Position>
+  <ResourceSupply>
+    <KillBeforeGather>false</KillBeforeGather>
+    <Max>1000</Max>
+    <Type>metal.ore</Type>
+    <MaxGatherers>12</MaxGatherers>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/resource/sel_metal.xml</select>
+    </SoundGroups>
+  </Sound>
+</Entity>

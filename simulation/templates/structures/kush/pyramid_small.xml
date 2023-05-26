@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic">
+  <Auras datatype="tokens">
+    structures/kush_pyramids_economic
+  </Auras>
+  <Cost>
+    <BuildTime>120</BuildTime>
+    <Resources>
+      <stone>150</stone>
+      <metal>75</metal>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="18.0" depth="18.0"/>
+    <Height>15.0</Height>
+  </Footprint>
+  <Health>
+    <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x4</SpawnEntityOnDeath>
+  </Health>
+  <Identity>
+    <Civ>kush</Civ>
+    <GenericName>Small Pyramid</GenericName>
+    <SpecificName>mr</SpecificName>
+    <Classes datatype="tokens">-ConquestCritical CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Village Pyramid</VisibleClasses>
+    <Icon>structures/kush_pyramid_small.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_village</Techs>
+    </Requirements>
+  </Identity>
+  <Loot>
+    <stone>30</stone>
+    <metal>15</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="16.0" depth="16.0"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <Researcher disable=""/>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_temple_10.xml</select>
+      <constructed>interface/complete/building/complete_iber_monument.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>30</Radius>
+    <Weight>30000</Weight>
+  </TerritoryInfluence>
+  <Trainer disable=""/>
+  <Vision>
+    <Range>30</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/kushites/pyramid_small.xml</Actor>
+    <FoundationActor>structures/fndn_4x5.xml</FoundationActor>
+  </VisualActor>
+</Entity>

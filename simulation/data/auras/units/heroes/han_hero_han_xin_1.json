@@ -1,0 +1,11 @@
+{
+	"type": "range",
+	"radius": 30,
+	"affects": ["CitizenSoldier"],
+	"modifications": [
+		{ "value": "Promotion/RequiredXp", "multiply": 0.8 }
+	],
+	"auraName": "Northern Army",
+	"auraDescription": "Soldiers −20% promotion experience.",
+	"overlayIcon": "art/textures/ui/session/auras/xp.png"
+}

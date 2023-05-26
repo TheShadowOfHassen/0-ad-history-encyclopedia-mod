@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>gaul</Civ>
+    <SpecificName>Soliduros</SpecificName>
+    <Icon>units/gaul/champion_infantry.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
+  </Identity>
+  <VisualActor>
+    <Actor>units/gauls/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,14 @@
+{
+	"genericName": "Espionage",
+	"description": "Merchants' first goal was trading, but they also gathered information about the countries they crossed.",
+	"cost": {
+		"food": 500,
+		"metal": 500
+	},
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "spy_trader.png",
+	"researchTime": 60,
+	"tooltip": "Allows bribing the units of other players in order to share their vision.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

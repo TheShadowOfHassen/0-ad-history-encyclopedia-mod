@@ -1,0 +1,17 @@
+{
+	"TranslatedKeys": ["Title", "Description"],
+	"Data":
+	{
+		"Title": "Conquest",
+		"Description": "Defeat opponents by killing all their units and destroying all their structures.",
+		"Scripts":
+		[
+			"scripts/TriggerHelper.js",
+			"scripts/ConquestCommon.js",
+			"scripts/Conquest.js"
+		],
+		"Default": true,
+		"DisabledWhenChecked": ["conquest_units", "conquest_structures", "conquest_civic_centers"],
+		"GUIOrder": 0
+	}
+}

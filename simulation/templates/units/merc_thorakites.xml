@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="merc_inf|template_unit_champion_infantry_swordsman">
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack op="add">-2</Hack>
+      </Damage>
+    </Melee>
+  </Attack>
+  <Identity>
+    <Lang>greek</Lang>
+    <GenericName>Armored Swordsman</GenericName>
+    <SpecificName>Thōrakitēs</SpecificName>
+    <Icon>units/mace/thorakites.png</Icon>
+  </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <VisualActor>
+    <Actor>units/hellenes/infantry_swordsman_c_thorakites.xml</Actor>
+  </VisualActor>
+</Entity>

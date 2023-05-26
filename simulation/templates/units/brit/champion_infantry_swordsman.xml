@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>brit</Civ>
+    <GenericName>Brythonic Champion</GenericName>
+    <SpecificName>Argos</SpecificName>
+    <Icon>units/brit/champion_infantry.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
+  </Identity>
+  <VisualActor>
+    <Actor>units/britons/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>

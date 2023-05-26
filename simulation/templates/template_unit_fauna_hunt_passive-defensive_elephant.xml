@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_passive-defensive">
+  <Identity>
+    <VisibleClasses datatype="tokens">Elephant</VisibleClasses>
+  </Identity>
+  <Position>
+    <TurnRate>4</TurnRate>
+  </Position>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/elephant_select.xml</select>
+      <order_walk>actor/fauna/animal/elephant_order.xml</order_walk>
+      <attack_melee>actor/fauna/animal/elephant_attack.xml</attack_melee>
+      <death>actor/fauna/animal/elephant_death.xml</death>
+      <trained>actor/fauna/animal/elephant_trained.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <UnitMotion>
+    <PassabilityClass>large</PassabilityClass>
+    <WalkSpeed op="mul">0.5</WalkSpeed>
+    <Acceleration op="mul">0.25</Acceleration>
+    <Weight op="mul">5.0</Weight>
+  </UnitMotion>
+</Entity>

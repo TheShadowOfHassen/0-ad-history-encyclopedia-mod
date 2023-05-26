@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_tree">
+  <Footprint>
+    <Circle radius="7.0"/>
+    <Height>15.0</Height>
+  </Footprint>
+  <Identity>
+    <SpecificName>Strangler Fig</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="5.0" depth="5.0"/>
+  </Obstruction>
+  <ResourceSupply>
+    <Max>500</Max>
+    <MaxGatherers>10</MaxGatherers>
+  </ResourceSupply>
+  <VisualActor>
+    <Actor>flora/trees/strangler.xml</Actor>
+  </VisualActor>
+</Entity>

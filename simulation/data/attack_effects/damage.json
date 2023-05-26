@@ -1,0 +1,8 @@
+{
+	"code": "Damage",
+	"description": "Reduces the health of a target.",
+	"IID": "IID_Health",
+	"method": "TakeDamage",
+	"name": "Damage",
+	"order": 1
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_treasure">
+  <Footprint replace="">
+    <Circle radius="1.5"/>
+    <Height>2.5</Height>
+  </Footprint>
+  <Identity>
+    <SpecificName>Food Treasure</SpecificName>
+    <Icon>gaia/special_treasure_food.png</Icon>
+  </Identity>
+  <Selectable replace="">
+    <Overlay>
+      <Texture>
+        <MainTexture>128x128/ellipse.png</MainTexture>
+        <MainTextureMask>128x128/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Treasure>
+    <Resources>
+      <food>100</food>
+    </Resources>
+  </Treasure>
+  <VisualActor>
+    <Actor>props/special/eyecandy/barrel_a.xml</Actor>
+  </VisualActor>
+</Entity>

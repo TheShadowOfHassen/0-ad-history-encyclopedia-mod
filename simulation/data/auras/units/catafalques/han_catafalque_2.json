@@ -1,0 +1,13 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 0.5 }
+	],
+	"auraName": "Imperial Music Bureau",
+	"auraDescription": "The Music Bureau was charged directly by Emperor Wu to perform various tasks related to music, poetry, entertainment, or religious worship.\nTechnologies −50% resource cost and research time."
+}

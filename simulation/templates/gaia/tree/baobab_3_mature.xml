@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia_tree">
+  <Footprint>
+    <Circle radius="8.0"/>
+    <Height>15.0</Height>
+  </Footprint>
+  <Identity>
+    <SpecificName>Baobab</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="6.0" depth="6.0"/>
+  </Obstruction>
+  <ResourceSupply>
+    <Max>600</Max>
+    <MaxGatherers>12</MaxGatherers>
+  </ResourceSupply>
+  <VisualActor>
+    <Actor>flora/trees/baobab_new.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,18 @@
+{
+	"genericName": "Handicraft",
+	"description": "The progress in handicraft improves the trading profit.",
+	"cost": {
+		"wood": 150,
+		"metal": 150
+	},
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "amphore.png",
+	"researchTime": 40,
+	"tooltip": "Traders +15% trade gain.",
+	"modifications": [
+		{ "value": "Trader/GainMultiplier", "multiply": 1.15 }
+	],
+	"affects": ["Trader"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

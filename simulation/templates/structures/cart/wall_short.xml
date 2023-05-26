@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_wall_short">
+  <Footprint>
+    <Square width="13" depth="8"/>
+    <Height>13</Height>
+  </Footprint>
+  <Identity>
+    <Civ>cart</Civ>
+    <SpecificName>Homah</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="12" depth="7"/>
+  </Obstruction>
+  <StatusBars>
+    <HeightOffset>14</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>structures/carthaginians/wall_short.xml</Actor>
+    <FoundationActor>structures/carthaginians/fndn_wall_short.xml</FoundationActor>
+  </VisualActor>
+</Entity>

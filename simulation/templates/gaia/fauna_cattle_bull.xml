@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_passive-defensive_bull">
+  <Attack>
+    <Melee>
+      <AttackName>Horns</AttackName>
+      <Damage>
+        <Hack>1</Hack>
+        <Pierce>5</Pierce>
+        <Crush>2</Crush>
+      </Damage>
+      <MaxRange>3</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="2.0" depth="4.0"/>
+    <Height>3.5</Height>
+  </Footprint>
+  <Health>
+    <Max>150</Max>
+  </Health>
+  <Identity>
+    <GenericName>Bull</GenericName>
+    <SpecificName>Bos taurus taurus</SpecificName>
+    <Icon>gaia/fauna_bull.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>30</xp>
+  </Loot>
+  <StatusBars>
+    <HeightOffset>4.5</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/bull.xml</Actor>
+  </VisualActor>
+</Entity>

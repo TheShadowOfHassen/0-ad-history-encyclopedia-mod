@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_defensive">
+  <Attack>
+    <Melee>
+      <AttackName>Horn</AttackName>
+      <Damage>
+        <Hack>20</Hack>
+        <Crush>20</Crush>
+      </Damage>
+      <MaxRange>4</MaxRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="3.0" depth="6.0"/>
+    <Height>3.0</Height>
+  </Footprint>
+  <Health>
+    <Max>160</Max>
+  </Health>
+  <Identity>
+    <GenericName>White Rhinoceros</GenericName>
+    <SpecificName>Ceratotherium simum</SpecificName>
+    <Icon>gaia/fauna_rhino.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>32</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>300</Max>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/lion_select.xml</select>
+      <attack_melee>actor/fauna/animal/lion_attack.xml</attack_melee>
+      <death>actor/fauna/animal/lion_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>4.0</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/rhino.xml</Actor>
+  </VisualActor>
+</Entity>

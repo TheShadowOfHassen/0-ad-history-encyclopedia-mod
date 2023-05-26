@@ -1,0 +1,13 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.90 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.90 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.90 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.90 },
+		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 0.50 }
+	],
+	"auraName": "Scholarship and the Arts",
+	"auraDescription": "Technologies −10% resource costs, −50% research time."
+}

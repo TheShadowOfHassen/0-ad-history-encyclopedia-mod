@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+  <Auras datatype="tokens">
+    structures/theater
+  </Auras>
+  <BuildRestrictions>
+    <Category>Theater</Category>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>500</BuildTime>
+    <Resources>
+      <wood>200</wood>
+      <stone>600</stone>
+      <metal>200</metal>
+    </Resources>
+  </Cost>
+  <Footprint replace="">
+    <Circle radius="25"/>
+    <Height>10.0</Height>
+  </Footprint>
+  <Health>
+    <Max>3000</Max>
+  </Health>
+  <Identity>
+    <GenericName>Theater</GenericName>
+    <SelectionGroupName>template_structure_special_theater</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Theater</VisibleClasses>
+    <Icon>structures/theater.png</Icon>
+  </Identity>
+  <Loot>
+    <wood>40</wood>
+    <stone>120</stone>
+    <metal>40</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="40" depth="46"/>
+  </Obstruction>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_greek_theater.xml</select>
+      <constructed>interface/complete/building/complete_greek_theater.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>100</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+</Entity>

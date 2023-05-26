@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_passive-defensive_elephant">
+  <Attack>
+    <Melee>
+      <AttackName>Trunk</AttackName>
+      <Damage>
+        <Hack>25</Hack>
+        <Pierce>10</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+      <MaxRange>6</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="5.0" depth="10.0"/>
+    <Height>9.0</Height>
+  </Footprint>
+  <Health>
+    <Max>300</Max>
+  </Health>
+  <Identity>
+    <GenericName>African Bush Elephant</GenericName>
+    <SpecificName>Loxodonta africana</SpecificName>
+    <Icon>gaia/fauna_elephant_african_bush.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>60</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>800</Max>
+  </ResourceSupply>
+  <StatusBars>
+    <HeightOffset>10.0</HeightOffset>
+  </StatusBars>
+  <VisualActor>
+    <Actor>fauna/elephant_african_bush.xml</Actor>
+  </VisualActor>
+</Entity>

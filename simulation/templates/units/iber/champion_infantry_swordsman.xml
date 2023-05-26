@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Attack>
+    <Melee>
+      <AttackName context="Name of an attack using a single-edged sword.">Sword</AttackName>
+    </Melee>
+  </Attack>
+  <Identity>
+    <Civ>iber</Civ>
+    <SpecificName>Leial Ezpatari</SpecificName>
+    <Icon>units/iber/champion_infantry.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city unlock_champion_infantry</Techs>
+    </Requirements>
+  </Identity>
+  <VisualActor>
+    <Actor>units/iberians/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>

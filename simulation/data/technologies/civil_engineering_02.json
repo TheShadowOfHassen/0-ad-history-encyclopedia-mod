@@ -1,0 +1,26 @@
+{
+	"genericName": "Robust Architecture",
+	"specificName": { "han": "Gōngchéng" },
+	"description": "",
+	"cost": {
+		"food": 0,
+		"wood": 300,
+		"stone": 300,
+		"metal": 0
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "blocks_three.png",
+	"researchTime": 40,
+	"tooltip": "All structures +20% health.",
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.2 }
+	],
+	"affects": ["Structure"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

@@ -1,0 +1,20 @@
+{
+	"genericName": "Improved Fletching",
+	"description": "Improving the fletching of arrows increases their stability and speed, and thus their penetration.",
+	"cost": {
+		"wood": 200,
+		"metal": 100
+	},
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "arrow_01.png",
+	"researchTime": 40,
+	"tooltip": "Soldiers +15% ranged attack damage.",
+	"modifications": [
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15 }
+	],
+	"affects": ["Soldier"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

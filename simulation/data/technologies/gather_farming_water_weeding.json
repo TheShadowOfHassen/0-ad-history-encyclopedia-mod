@@ -1,0 +1,24 @@
+{
+	"genericName": "Water Weeding",
+	"description": "Remove water weeds to preserve nutrients for the rice plants.",
+	"cost": {
+		"wood": 300,
+		"metal": 200
+	},
+	"supersedes": "gather_farming_seed_drill",
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "irrigation.png",
+	"researchTime": 60,
+	"tooltip": "Workers +20% grain gather rate.",
+	"modifications": [
+		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 1.2 }
+	],
+	"affects": ["Worker"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

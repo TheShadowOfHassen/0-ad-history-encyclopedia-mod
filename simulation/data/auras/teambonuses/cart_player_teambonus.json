@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Mercenary Infantry"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.5 }
+	],
+	"auraName": "Mercenary Transports",
+	"auraDescription": "Mercenaries −50% train time."
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_gaia">
+  <Footprint replace="">
+    <Square width="2.0" depth="2.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <Identity>
+    <GenericName>Treasure</GenericName>
+    <Tooltip>Collect treasures for resources.</Tooltip>
+    <Icon>gaia/special_treasure.png</Icon>
+  </Identity>
+  <Minimap>
+    <Type>metal</Type>
+    <Color r="250" g="250" b="250"/>
+  </Minimap>
+  <Obstruction>
+    <Static width="1.5" depth="1.5"/>
+  </Obstruction>
+  <Selectable>
+    <Overlay>
+      <Outline>
+        <LineThickness>0.3</LineThickness>
+      </Outline>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_universal.xml</select>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>3.75</HeightOffset>
+  </StatusBars>
+  <Treasure>
+    <CollectTime>1000</CollectTime>
+  </Treasure>
+</Entity>

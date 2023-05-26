@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_wild_defensive">
+  <Attack>
+    <Melee>
+      <AttackName>Teeth</AttackName>
+      <Damage>
+        <Hack>30</Hack>
+      </Damage>
+      <MaxRange>7</MaxRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Footprint>
+    <Square width="3.0" depth="12.0"/>
+    <Height>2.0</Height>
+  </Footprint>
+  <Health>
+    <Max>100</Max>
+  </Health>
+  <Identity>
+    <GenericName>Nile Crocodile</GenericName>
+    <SpecificName>Crocodylus niloticus</SpecificName>
+    <Icon>gaia/fauna_crocodile.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>20</xp>
+  </Loot>
+  <Position>
+    <Anchor>pitch-roll</Anchor>
+  </Position>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/ellipse.png</MainTexture>
+        <MainTextureMask>128x512/ellipse_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/lion_select.xml</select>
+      <attack_melee>actor/fauna/animal/lion_attack.xml</attack_melee>
+      <death>actor/fauna/animal/lion_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>3.0</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.3</WalkSpeed>
+    <Acceleration op="mul">0.3</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>fauna/crocodile.xml</Actor>
+  </VisualActor>
+</Entity>

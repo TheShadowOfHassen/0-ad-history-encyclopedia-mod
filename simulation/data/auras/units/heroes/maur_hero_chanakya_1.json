@@ -1,0 +1,14 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.8 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.8 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.8 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.8 },
+		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 0.7 }
+	],
+	"auraDescription": "All technologies have −20% resource cost and −30% research time.",
+	"auraName": "Teacher",
+	"overlayIcon": "art/textures/ui/session/auras/build_bonus.png"
+}

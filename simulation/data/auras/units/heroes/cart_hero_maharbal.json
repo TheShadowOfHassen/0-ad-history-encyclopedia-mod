@@ -1,0 +1,13 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Melee Cavalry"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.3 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.3 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.3 }
+	],
+	"auraName": "Cavalry Commander",
+	"auraDescription": "Melee Cavalry +30% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

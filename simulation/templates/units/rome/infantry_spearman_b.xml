@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/rome/army_camp
+      structures/rome/temple_vesta
+    </Entities>
+  </Builder>
+  <Health>
+    <DamageVariants>
+      <lightdamage>0.85</lightdamage>
+      <mediumdamage>0.45</mediumdamage>
+    </DamageVariants>
+  </Health>
+  <Identity>
+    <Civ>rome</Civ>
+    <Lang>latin</Lang>
+    <SelectionGroupName>units/rome/infantry_spearman_b</SelectionGroupName>
+    <GenericName>Veteran Spearman</GenericName>
+    <SpecificName>Triārius</SpecificName>
+    <Icon>units/rome/infantry_spearman.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
+    <Tooltip>Elite rank Spearmen can be promoted to champion Centurions.</Tooltip>
+  </Identity>
+  <Promotion>
+    <Entity>units/rome/infantry_spearman_a</Entity>
+  </Promotion>
+  <UnitAI>
+    <Formations datatype="tokens">
+      special/formations/anti_cavalry
+    </Formations>
+  </UnitAI>
+  <VisualActor>
+    <Actor>units/romans/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

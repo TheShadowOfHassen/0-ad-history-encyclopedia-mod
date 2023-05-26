@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_skittish">
+  <Footprint>
+    <Square width="1.5" depth="3.0"/>
+    <Height>3.0</Height>
+  </Footprint>
+  <Health>
+    <Max>25</Max>
+  </Health>
+  <Identity>
+    <GenericName>Thomson's Gazelle</GenericName>
+    <SpecificName>Eudorcas thomsonii</SpecificName>
+    <Icon>gaia/fauna_gazelle.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>5</xp>
+  </Loot>
+  <StatusBars>
+    <HeightOffset>4.0</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.6</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>fauna/gazelle.xml</Actor>
+  </VisualActor>
+</Entity>

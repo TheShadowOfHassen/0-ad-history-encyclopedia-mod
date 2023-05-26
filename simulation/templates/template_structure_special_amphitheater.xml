@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+  <Cost>
+    <BuildTime>500</BuildTime>
+    <Resources>
+      <stone>500</stone>
+      <metal>500</metal>
+    </Resources>
+  </Cost>
+  <Footprint replace="">
+    <Square width="66.0" depth="90.0"/>
+    <Height>20.0</Height>
+  </Footprint>
+  <Health>
+    <Max>2000</Max>
+  </Health>
+  <Identity>
+    <GenericName>Amphitheater</GenericName>
+    <SelectionGroupName>template_structure_special_amphitheater</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Amphitheater</VisibleClasses>
+    <Icon>structures/theater.png</Icon>
+  </Identity>
+  <Loot>
+    <stone>100</stone>
+    <metal>100</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="62" depth="86"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_tholos.xml</select>
+      <constructed>interface/complete/building/complete_tholos.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>100</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry_spear_gladiator
+      units/{civ}/champion_infantry_sword_gladiator
+    </Entities>
+  </Trainer>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
+  </VisualActor>
+</Entity>

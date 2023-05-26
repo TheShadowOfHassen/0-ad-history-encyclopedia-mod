@@ -1,0 +1,71 @@
+{
+	"Code": "gaul",
+	"Culture": "celt",
+	"Music": [
+		{
+			"File": "Celtic_Pride.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Cisalpine_Gaul.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Water's_Edge.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Sunrise.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Harvest_Moon.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/gaul/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/gaul/civil_centre"
+		},
+		{
+			"Template": "units/gaul/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/gaul/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/gaul/infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/gaul/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Viridomarus",
+		"Brennus",
+		"Cativolcus",
+		"Cingetorix",
+		"Vercingetorix",
+		"Divico",
+		"Ambiorix",
+		"Liscus",
+		"Valetiacus",
+		"Viridovix"
+	],
+	"SkirmishReplacements": {
+		"skirmish/structures/default_house_5": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}

@@ -1,0 +1,17 @@
+{
+	"type": "range",
+	"radius": 30,
+	"affectedPlayers": ["Enemy"],
+	"affects": ["Soldier", "Structure"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack","multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.9 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.9 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.9 }
+	],
+	"auraName": "Undefeated",
+	"auraDescription": "Enemy Soldiers, Structures −10% attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
+}

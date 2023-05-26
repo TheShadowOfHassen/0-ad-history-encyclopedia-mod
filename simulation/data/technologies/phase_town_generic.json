@@ -1,0 +1,32 @@
+{
+	"genericName": "Town Phase",
+	"specificName": {
+		"han": "Xìan",
+		"mace": "Kōmopolis",
+		"ptol": "Kōmopolis",
+		"sele": "Kōmopolis",
+		"spart": "Kōmopolis"
+	},
+	"description": "Advances from a small village to a bustling town, ready to expand rapidly.",
+	"cost": {
+		"food": 500,
+		"wood": 500
+	},
+	"requirements": {
+		"entity": {
+			"class": "Village",
+			"number": 5
+		}
+	},
+	"requirementsTooltip": "Requires five Village Structures.",
+	"supersedes": "phase_village",
+	"replaces": ["phase_town"],
+	"icon": "town_phase.png",
+	"researchTime": 30,
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius. Structures +0.5 capture points regeneration rate for garrisoned units.",
+	"modifications": [
+		{ "value": "Capturable/GarrisonRegenRate", "add": 0.5, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" }
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

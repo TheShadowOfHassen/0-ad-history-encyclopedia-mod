@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house">
+  <BuildRestrictions>
+    <Territory>own neutral enemy</Territory>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>30</BuildTime>
+    <Resources>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="11.0" depth="11.0"/>
+    <Height>5.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>5</Max>
+  </GarrisonHolder>
+  <Health>
+    <Max>200</Max>
+  </Health>
+  <Identity>
+    <Civ>rome</Civ>
+    <GenericName>Tent</GenericName>
+    <SpecificName>Tabernāculum</SpecificName>
+    <VisibleClasses datatype="tokens">-Village</VisibleClasses>
+    <Tooltip>A temporary shelter for soldiers.</Tooltip>
+  </Identity>
+  <Loot>
+    <wood>10</wood>
+  </Loot>
+  <Obstruction>
+    <Static width="8.0" depth="8.0"/>
+  </Obstruction>
+  <ProductionQueue disable=""/>
+  <Researcher disable=""/>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_universal.xml</select>
+      <constructed>interface/complete/building/complete_universal.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryDecay>
+    <DecayRate>1</DecayRate>
+  </TerritoryDecay>
+  <TerritoryInfluence disable=""/>
+  <Trainer disable=""/>
+  <VisualActor>
+    <Actor>props/structures/romans/rome_tent.xml</Actor>
+  </VisualActor>
+</Entity>

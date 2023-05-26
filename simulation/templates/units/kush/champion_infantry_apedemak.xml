@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_axeman">
+  <Identity>
+    <Civ>kush</Civ>
+    <Lang>napatan</Lang>
+    <GenericName>Meroitic Temple Guard</GenericName>
+    <SpecificName>rs ʿIprmk</SpecificName>
+    <Classes datatype="tokens">ApedemakGuard</Classes>
+    <Icon>units/kush/champion_apedemak.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/kushites/infantry_axeman_c.xml</Actor>
+  </VisualActor>
+</Entity>

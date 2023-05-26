@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Entity parent="mercenary">
+  <Cost>
+    <Resources>
+      <metal>90</metal>
+      <food>20</food>
+    </Resources>
+  </Cost>
+  <Loot>
+    <metal>9</metal>
+  </Loot>
+  <Promotion>
+    <RequiredXp>300</RequiredXp>
+  </Promotion>
+</Entity>

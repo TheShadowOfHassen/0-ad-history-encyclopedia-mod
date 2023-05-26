@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_fauna_hunt_skittish">
+  <Auras datatype="tokens">
+    structures/corral_garrison_medium
+  </Auras>
+  <Footprint>
+    <Square width="3.0" depth="6.0"/>
+    <Height>4.0</Height>
+  </Footprint>
+  <Health>
+    <Max>50</Max>
+  </Health>
+  <Identity>
+    <GenericName>Horse</GenericName>
+    <SpecificName>Equus ferus caballus</SpecificName>
+    <Icon>gaia/fauna_horse.png</Icon>
+  </Identity>
+  <Loot>
+    <xp>10</xp>
+  </Loot>
+  <ResourceSupply>
+    <Max>200</Max>
+  </ResourceSupply>
+  <Sound>
+    <SoundGroups>
+      <select>actor/fauna/animal/horse_select.xml</select>
+      <order_walk>actor/fauna/animal/horse_order.xml</order_walk>
+      <death>actor/fauna/animal/horse_death.xml</death>
+      <trained>actor/fauna/animal/horse_trained.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>5.0</HeightOffset>
+  </StatusBars>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.8</WalkSpeed>
+    <Acceleration op="mul">0.8</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>fauna/horse.xml</Actor>
+  </VisualActor>
+</Entity>
