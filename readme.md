@@ -15,3 +15,11 @@ https://wildfiregames.com/forum/topic/107400-0-ads-built-in-encyclopedia/#commen
 Use <History> </History> Inside the <Identity> tag.
 
 We're writing for en_US. It really doesn't matter what you use but a tool like LanguageTool will help greatly with spellchecking.
+
+Also put sources that you use for information in the sources folder in a file for the suspific unit group. I.E. we'll have one for sparta and another for Animals.
+
+RUNNING:
+put the : 0-ad-history-mod-package in the subdirectory with the rest of your mods.
+
+
+
