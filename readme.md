@@ -6,6 +6,7 @@ It explains every detail, technology, building and unit.
 
 The encyclopedia is included in the game. It gives a simple and short summary of the topics covered.
 
+This is the updated version of the encyclopedia that used to be in the 0 A.D. revision: https://trac.wildfiregames.com/browser/ps/trunk/binaries/data/mods/public/simulation/templates/units?rev=19959&order=name However we need
 
 CONTRIBUTING:
 
