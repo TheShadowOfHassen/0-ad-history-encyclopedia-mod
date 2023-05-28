@@ -7,5 +7,7 @@
   <VisualActor>
     <Actor>fauna/fish_generic.xml</Actor>
   </VisualActor>
-  <History>Tilapia is the common name for almost a hundred species of freshwater fish. Who were fished everywhere, from the Nile to the Sea of Galilee.</History>
+  <History>
+      Tilapia is the common name for almost a hundred species of freshwater fish. Who were fished everywhere, from the Nile to the Sea of Galilee.
+  </History>
 </Entity>
