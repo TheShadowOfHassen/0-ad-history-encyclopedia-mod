@@ -22,5 +22,8 @@
   <Identity>
     <GenericName>Phalanx</GenericName>
     <Icon>formations/phalanx.png</Icon>
+    <History>
+        Created by the Sumerians, adopted by the Greeks and improved by Phillip II and his son, Alexander the Great, the Phalanx is one of the most famous formations in history. It was comrpised of anywhere from six to sixteen rows of Hoplites. The front row protected the soldier on their left with their large shields. While the formation was well defended and impressive sight, the Phalanx did have some drawbacks. It was slow to maneuver and could be flanked. And in order for it to work all the men had to hold their ground. If only a few soldiers broke ranks it was little better than a mob.
+    </History>
   </Identity>
 </Entity>

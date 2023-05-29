@@ -3,6 +3,9 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Oikos</SpecificName>
+    <History>
+        Spartan houses were simple thanks to Lycurgus's reforms. The lawgiver of Sparta regulated that roofs of their houses could only be constructed with an axe, and doors could be only made with saws. This resulted in both objects being rather simple and so most Spartans furnished their homes with plain furniture to match them. 
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/spartans/house.xml</Actor>

@@ -13,7 +13,10 @@ CONTRIBUTING:
 We'll discuss this mod on the forum here:  
 https://wildfiregames.com/forum/topic/107400-0-ads-built-in-encyclopedia/#comment-552231
 
-Use <History> </History> Inside the <Identity> tag.
+Use <History> </History> Inside the <Identity> tag and make sure to indent each paragraph with four spaces. For example:
+  <History>
+      Fishing has always been a good way to gather food. Not only are fish high in important nutrients, but they are abundant in most large bodies of water.
+  s</History>
 
 We're writing for en_US. It really doesn't matter what you use but a tool like LanguageTool will help greatly with spellchecking. See 0 A.D.'s style guide here: https://trac.wildfiregames.com/wiki/EnglishStyleGuide
   
