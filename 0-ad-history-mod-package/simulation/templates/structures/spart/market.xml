@@ -3,6 +3,9 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Emporion</SpecificName>
+    <History>
+        Lycurgus made certain that all Spartan men would be in the military, however people still needed basic goods. The Helots and other foreigners produced these goods and like it was done at all other Greek cities they sold them at the Emporion. Seeing that the iron was declared the currency of Sparta, they had to except it, even though it was useless outside the city state.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/spartans/market.xml</Actor>

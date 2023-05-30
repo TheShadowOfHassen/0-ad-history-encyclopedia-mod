@@ -8,6 +8,9 @@
     <Civ>spart</Civ>
     <SpecificName>Émporos Períoikos</SpecificName>
     <Icon>units/hele/support_trader.png</Icon>
+    <History>
+        Lycurgus when he reformed Sparta replaced their currency with iron soaked in vinegar(which Plutarch says made the iron useless.), Lycurgus also passed laws forbidding Spartans from producing handcrafts. These laws aren't really conducive with trading because no one outside Sparta would accept the currency. On top of that, Spartans government actively discouraged contact with other countries. So, except from between Spartan cities there wasn't that much trade.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/spartans/trader.xml</Actor>
