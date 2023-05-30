@@ -4,5 +4,5 @@
 	"label": "A mod that adds history",
 	"url": "",
 	"description": "History",
-	"dependencies": ["0ad>=0.0.26"]
+	"dependencies": ["0ad>=0.0.27"]
 }
