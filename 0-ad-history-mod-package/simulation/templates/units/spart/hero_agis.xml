@@ -6,6 +6,11 @@
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
     <Icon>units/spart/hero_agis.png</Icon>
+    <History>
+            Agis III was the 21st Eurypontid king of Sparta, who ruled from 338 B.C. to 331 B.C. He inherited a weakened Sparta that had lost many territories to its rivals after the Battle of Leuctra in 371 B.C. 
+Agis III resisted the Macedonian domination of Greece under Philip II and his son Alexander the Great and refused to join the League of Corinth, a coalition of Greek states allied with Macedonia.
+In 331 B.C., Agis III formed a coalition with Elis, Achaea and Arcadia, and declared war on Macedonia. After he won a decisive victory over a Macedonian army in the Peloponnese, he besieged Megalopolis, a city founded by the Thebans to counter Sparta. However, he was confronted by Antipater, Alexander the Great's regent in Europe, who came to defend Megalopolis with a larger force. In the deciding Battle of Megalopolis, Agis III and his army were outnumbered and outmatched by the Macedonian troops and were defeated. Agis III himself died a heroic death whilst trying to cover the retreat of his surviving men. He was the last king trying to restore Sparta's glory and independence and his death marked the beginning of Sparta's decline as a major power in Greece.
+    <History> 
   </Identity>
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
