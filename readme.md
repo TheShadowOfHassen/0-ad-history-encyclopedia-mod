@@ -22,7 +22,8 @@ We're writing for en_US. It really doesn't matter what you use but a tool like L
   
 for consistancy use B.C. and A.D. for the dates not BC and CE
 
-Also put sources that you use for information in the sources folder in a file for the suspific unit group. I.E. we'll have one for sparta and another for Animals.
+Also put sources that you use for information in the sources folder in a file for the suspific unit group. I.E. we'll have one for sparta and another for Animals.'
+Also when you add your sources. Add your 0 A.D. Handle at the end so we can contact you later if we have any questions.
 
 RUNNING:
 put the : 0-ad-history-mod-package in the subdirectory with the rest of your mods.
