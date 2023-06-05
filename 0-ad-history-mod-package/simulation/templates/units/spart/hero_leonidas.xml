@@ -13,7 +13,7 @@
         Leonidas I was king of Sparta in the 5th century B.C. In 480 B.C., when Persian King Xerxes I invaded Greece with a massive army in the Second Persian War, Leonidas decided to lead a much smaller army consisting of 300 Spartans and other Greeks to the narrow pass of Thermopylae.
         He and his army were heavily outnumbered and faced the Persians in a suicidal fight in hopes of delaying the Persians and giving the allied Athenians time to evacuate Athens. When the Persians eventually found a path around the pass and surrounded the Greeks, Leonidas told most of his troops to retreat while he and about 1,000 other soldiers stayed behind to fight until death.
         In total they delayed the Persians by an entire week, killing thousands of Persian soldiers and even killing two of Xerxes' brothers. He became a symbol for bravery, loyalty and sacrifice. As one Greek poet wrote about Leonidas: "Go tell to Sparta, thou who passest by, that here, obedient to her laws, we lie."
-    <History>
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_leonidas.xml</Actor>
