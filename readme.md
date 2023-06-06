@@ -16,11 +16,13 @@ https://wildfiregames.com/forum/topic/107400-0-ads-built-in-encyclopedia/#commen
 Use <History> </History> Inside the <Identity> tag and make sure to indent each paragraph with four spaces. For example:
   <History>
       Fishing has always been a good way to gather food. Not only are fish high in important nutrients, but they are abundant in most large bodies of water.
-  s</History>
+  </History>
 
 We're writing for en_US. It really doesn't matter what you use but a tool like LanguageTool will help greatly with spellchecking. See 0 A.D.'s style guide here: https://trac.wildfiregames.com/wiki/EnglishStyleGuide
+
+Please use the US Customary system for measurements. I.E. feet not meters.
   
-for consistancy use B.C. and A.D. for the dates not BC and CE
+for consistency use B.C. and A.D. for the dates not BC and CE
 
 Also put sources that you use for information in the sources folder in a file for the suspific unit group. I.E. we'll have one for sparta and another for Animals.'
 Also when you add your sources. Add your 0 A.D. Handle at the end so we can contact you later if we have any questions.
