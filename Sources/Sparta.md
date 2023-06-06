@@ -1,3 +1,8 @@
+Houses: Adapted from the old 0 A.D. houses.xml
+Female Citizens: Plutarch
+Market: https://www.spartapedia.com/reforms-lycurgus/ Plutarch: https://www.gutenberg.org/cache/epub/14033/pg14033-images.html#LIFE_OF_LYKURGUS By ShadowOfHassen
+Trader: Same as market By ShadowofHassen
+Ship Merchant: Same as market By ShadowOfHassen
 Houses: Adapted from the old 0 A.D. houses.xml By ShadowOfHassen
 Female Citizens: Plutarch By ShadowOfHassen
 Agis: https://en.wikipedia.org/wiki/Agis_III https://www.britannica.com/biography/Agis  By Vantha 
