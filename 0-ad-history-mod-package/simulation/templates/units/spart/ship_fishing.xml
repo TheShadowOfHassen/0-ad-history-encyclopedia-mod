@@ -8,6 +8,9 @@
     <Civ>spart</Civ>
     <SpecificName>Ploîon Halieutikón</SpecificName>
     <Icon>units/hele/ship_fishing.png</Icon>
+    <History>
+        Fish were caught on the south-eastern shore of the Peloponnese peninsula and possibly also along the river of Evrótas, that lead to the city Sparta.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/fishing_boat.xml</Actor>
