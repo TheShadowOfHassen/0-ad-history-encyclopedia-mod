@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
     <History>
-        A deciduous bush commonly found in temperate forests and fields. It is winter and the bushe's limbs are bare and covered with snow. 
+        A deciduous bush commonly found in temperate forests and fields. It is winter and the bush's limbs are bare and covered with snow. 
     </History>
   <ResourceSupply>
     <Max>50</Max>
