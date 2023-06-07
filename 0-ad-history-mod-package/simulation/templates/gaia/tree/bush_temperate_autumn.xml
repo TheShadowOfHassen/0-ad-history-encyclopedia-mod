@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
+  <Identity>
+    <History>
+        A deciduous bush commonly found in temperate forests and fields. Slowly, some of the bushes are changing colors, in preparation for shedding leaves.
+    </History>
+  </Identity>
   <VisualActor>
     <Actor>props/flora/bush_temperate_autumn.xml</Actor>
   </VisualActor>

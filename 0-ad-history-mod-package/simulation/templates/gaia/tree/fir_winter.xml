@@ -2,6 +2,10 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Fir</SpecificName>
+    <History>
+        A conifer, the Fir is an evergreen. It ranges from France to the Alps and down to the Balkans. It can grow over 160 feet.
+        This fir's needles are covered with powdered snow.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

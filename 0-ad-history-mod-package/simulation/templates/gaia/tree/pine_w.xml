@@ -2,6 +2,10 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Pine</SpecificName>
+    <History>
+        There are over 100 different kinds of pine (Species Pinna). They are usually tall, thin conifers usually with a sticky sap in with the wood.
+        These pines are covered in crisp, white snow.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

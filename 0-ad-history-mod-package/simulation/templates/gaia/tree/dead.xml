@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Deciduous Tree</SpecificName>
+    <History>
+        Trees dying is part of the ecosystem. The dead wood provides shelter for bugs and small animals, and when the wood decays further it provides fertilizer for the surrounding plants.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Rainforest Tree</SpecificName>
+    <History>
+        These tree’s wide canopies of leaves will not fall off at autumn. Also these trees will be given at least 100 inches of rain a year.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

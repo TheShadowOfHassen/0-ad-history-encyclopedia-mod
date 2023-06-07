@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Maritime Pine</SpecificName>
+    <History>
+       The Maritime Pine, (Pinus pinaster) as the name says, can survive in coastal locations. The Maritime Pine is even resistant to salt water. It can grow up to 130 feet, however, in exposed conditions it becomes twisted and stunted.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>
