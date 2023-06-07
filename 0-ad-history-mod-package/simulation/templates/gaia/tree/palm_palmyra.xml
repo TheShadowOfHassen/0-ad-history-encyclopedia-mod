@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Palmyra Palm</SpecificName>
+    <History>
+        The Palmyra Palm (Borassus flabellifer) is also known by many other names. It grows up to 98 ft tall and produces palmyra fruit which is usually eaten unripe and tastes like coconut.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

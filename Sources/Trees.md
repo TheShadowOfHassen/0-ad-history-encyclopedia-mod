@@ -2,7 +2,7 @@ Acadia: Adapted from old history and supplemented by Hermes House's Trees Of The
 Ancient Acadia: Taken from Acadia's text: By ShadowOfHassen
 Aleppo Pine: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Bamboo: Academic American Encyclopedia copyright 1993 Grolier inc. By ShadowOfHassen
-Dragon Bamboo: Same as Bamboo: By ShadowOfHassen
+Dragon Bamboo: https://en.wikipedia.org/wiki/Dendrocalamus_giganteus: By ShadowOfHassen
 Single Bamboo: Same as Bamboo: By ShadowOfHassen
 Banyan Tree:  Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters and Academic American Encyclopedia copyright 1993 Grolier inc.: By ShadowOfHassen
 Baobab: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters and Academic American Encyclopedia copyright 1993 Grolier inc.: By ShadowOfHassen
@@ -28,27 +28,23 @@ Holly Oak (All Variants): Hermes House's Trees Of The World by Tony Rustle, Cath
 Olive Tree: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 
 TODO OTHER PALMS
-
+Doum Palm: https://en.wikipedia.org/wiki/Hyphaene_thebaica: ByShadowOFHassen
+Palmyra Palm: https://en.wikipedia.org/wiki/Borassus_flabellifer: ShadowOfHassen
 Palm Tropic & Palm Tropical: Adapted from old History, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 
 Pine & Winter Pine: Adapted from old history, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-
-
-BLACK PINE HERE
-
+Black Pine: Same as normal Pine: By ShadowOfHassen
 Pine Maritime( Both short and normal): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Poplars and Poplar Lombardy: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-
-SENGAL DATE PALM HERE
-
-STRANGLER TREE HERE
+Sengal Date Palm: https://en.wikipedia.org/wiki/Phoenix_reclinata: ByShadowOfHassen
+Strangler Fig: https://en.wikipedia.org/wiki/Strangler_fig: by ShadowOfHassen
 Tamarix: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 
-TEAK HERE
+Teak: https://en.wikipedia.org/wiki/Teak: by ShadowOfHassen
 
 Temperate Trees: By ShadowOfHassen
 
-TOONA HERE
+Toona Trees: https://en.wikipedia.org/wiki/Toona: ShadowOfHassen
 
 Topic rainforest: By ShadowOFHassen
 

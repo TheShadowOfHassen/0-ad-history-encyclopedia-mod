@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Doum Palm</SpecificName>
+    <History>
+        The Doum Palm (Hyphaene thebacia) grows up to 56 feet high. It is well situated for growing in hot, dry climates.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>
