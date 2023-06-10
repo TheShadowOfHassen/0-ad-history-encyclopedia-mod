@@ -7,6 +7,9 @@
     <GenericName>Perioikoi Cavalryman</GenericName>
     <SpecificName>Pródromos Perioïkós</SpecificName>
     <Icon>units/spart/cavalry_javelinist.png</Icon>
+    <History>
+        The Spartans specialised in melee infantry combat. The soldiers had to buy their own equipment and most could not afford horses. Because of that the Spartans hardly used any cavalry in battles for centuries. Horsemen in the Spartan army where either allies or mercenaries. 
+        The Spartans did recruit a few light-ranged cavalry units carrying javelins (mounted Perioikoi) themselves. However, they were neither well trained nor equipped. Without allied or mercenary units, cavalry always was a very weak part of the Spartan formation.
   </Identity>
   <Promotion>
     <Entity>units/spart/cavalry_javelineer_a</Entity>
