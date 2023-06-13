@@ -2,6 +2,10 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Atlas Cedar Sapling</SpecificName>
+    <History>
+        The Atlas Cedar is native to the atlas mountains. This evergreen grows along the snow line over 4,000 feet above sea level.
+        This cedar is just a sapling.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>50</Max>

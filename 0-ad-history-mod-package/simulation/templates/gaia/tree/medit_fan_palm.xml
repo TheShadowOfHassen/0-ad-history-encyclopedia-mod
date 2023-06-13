@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Mediterranean Fan Palm</SpecificName>
+    <History>
+        The Mediterranean Fan Palm is common throughout low-lying areas around the Mediterranean Sea.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Toona</SpecificName>
+    <History>
+        Toona, commonly known as red cedar is a genus of the mahogany family. It grows all over southeastern Asia.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

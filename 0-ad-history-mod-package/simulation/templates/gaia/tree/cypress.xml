@@ -2,6 +2,10 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Cypress</SpecificName>
+    <History>
+        The Italian Cypress (Cupressus sempervirens) is a unique tree that can keep a tight, columnar shape. Despite its name, the tree ranges along the entire north coast of the Mediterranean. It has gray bark and grows larger than most cypresses, growing up to 60 ft. Unlike other cypresses it’s needles has no noticeable scent when crushed. 
+        This cypress has been neatly trimmed by some careful hand.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

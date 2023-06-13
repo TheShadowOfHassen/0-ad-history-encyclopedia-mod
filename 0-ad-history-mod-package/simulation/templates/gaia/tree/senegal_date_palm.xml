@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Senegal Date Palm</SpecificName>
+    <History>
+        The Senegal Date Palm (Phoenix reclinata) is a native to northern Africa. It is a hearty tree that provides more than one source of food. Its dates can be picked, and it is also one of the few palms that inner core is not poisonous.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

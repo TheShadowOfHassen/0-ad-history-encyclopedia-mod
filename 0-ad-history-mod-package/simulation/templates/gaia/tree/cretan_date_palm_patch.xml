@@ -6,6 +6,10 @@
   </Footprint>
   <Identity>
     <SpecificName>Cretan Date Palm</SpecificName>
+    <History>
+        The Cretan Date Palm is a palm tree generally found on the island of Crete. However, in ancient times it’s range spanned the entire coast of the Aegean Sea. 
+        This is a patch of these palms.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="4.0" depth="4.0"/>
