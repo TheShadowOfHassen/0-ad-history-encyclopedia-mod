@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Strangler Fig</SpecificName>
+    <History>
+        Stranglers figs is the common name for several plant species that grow by climbing a host tree and then stealing its nutrients.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="5.0" depth="5.0"/>

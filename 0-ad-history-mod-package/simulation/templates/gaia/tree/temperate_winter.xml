@@ -2,6 +2,19 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Deciduous Tree</SpecificName>
+    <History>
+        Winter has come, and each skeletal branch of each temperate tree (whatever that means) is covered in either a blanket of crisp snow or glistening icicles.
+
+
+
+
+
+    
+    
+    
+    
+        How many people actually read these? Let us know in the forums!
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

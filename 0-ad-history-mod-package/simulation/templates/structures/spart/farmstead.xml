@@ -9,6 +9,9 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Epoikion</SpecificName>
+    <History>
+       Grain wasn't plentiful in Greece, which is why it was carefully stored in granaries so that there would be some for times of famine or siege.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="16.0" depth="11.0"/>

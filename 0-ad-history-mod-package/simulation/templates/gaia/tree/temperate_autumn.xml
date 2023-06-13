@@ -2,6 +2,19 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Deciduous Tree</SpecificName>
+    <History>
+       The once green leaves of these temperate, template trees have faded into a variety of orange and red hues. Soon the trees will shed their leaves and be ready to weather the coming winter.
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       I'm pretty sure one of them just moved.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>

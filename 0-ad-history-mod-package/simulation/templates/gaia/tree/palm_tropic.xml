@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Palm</SpecificName>
+    <History>
+        Tropical areas are home to many different kinds of palm trees. Most palms have a hard upright trunk and arching leaves. Many palms provide important products including food, timbers, waxes and oils.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>
