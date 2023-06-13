@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Baobab</SpecificName>
+    <History>
+        The Baobab tree (Adansonia digitata) grows throughout tropical Africa. The inside of its trunk and lower limbs are filled with a soft, spongy material which absorbs water for the African dry season. Baobabs grow up to 80 feet tall, but the oldest trees are some of the widest in the world, with trunks up to 30 ft in diameter. As the tree ages the trunk becomes hollow and can hold around 320 gallons of water.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="3.0" depth="3.0"/>

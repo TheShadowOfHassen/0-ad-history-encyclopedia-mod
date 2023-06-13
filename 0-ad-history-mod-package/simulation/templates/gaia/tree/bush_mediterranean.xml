@@ -2,6 +2,9 @@
 <Entity parent="bush|template_gaia_tree">
   <Identity>
     <SpecificName>Scrub</SpecificName>
+    <History>
+         Various scrub growing around the Mediterranean.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>50</Max>

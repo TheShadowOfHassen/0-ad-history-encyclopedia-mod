@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Black Poplar</SpecificName>
+    <History>
+        The Black Poplar (Poplus nigra) is a large, deciduous tree that grows across Europe and Asia. The standard black Poplar grows up to 100 feet tall.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>200</Max>
