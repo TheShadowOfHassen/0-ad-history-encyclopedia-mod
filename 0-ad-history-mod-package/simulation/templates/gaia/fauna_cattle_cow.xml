@@ -20,6 +20,8 @@
     <GenericName>Cow</GenericName>
     <SpecificName>Bos taurus taurus</SpecificName>
     <Icon>gaia/fauna_cow.png</Icon>
+    <History>
+    </History>
   </Identity>
   <Loot>
     <xp>30</xp>
