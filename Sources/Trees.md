@@ -26,12 +26,9 @@ Oak(all Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine C
 Hungarian Oak (All Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Holly Oak (All Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Olive Tree: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-
-TODO OTHER PALMS
 Doum Palm: https://en.wikipedia.org/wiki/Hyphaene_thebaica: ByShadowOFHassen
 Palmyra Palm: https://en.wikipedia.org/wiki/Borassus_flabellifer: ShadowOfHassen
 Palm Tropic & Palm Tropical: Adapted from old History, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-
 Pine & Winter Pine: Adapted from old history, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Black Pine: Same as normal Pine: By ShadowOfHassen
 Pine Maritime( Both short and normal): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
