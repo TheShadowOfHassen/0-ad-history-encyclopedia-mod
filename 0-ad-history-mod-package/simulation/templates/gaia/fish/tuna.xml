@@ -3,11 +3,12 @@
   <Identity>
     <SpecificName>Tuna</SpecificName>
     <Icon>gaia/fauna_fish.png</Icon>
+    <History>
+        Tuna are fish that belong to the tribe Thunnini. They live in warm saltwater and have sizes ranging from 1.6 feet to 15 feet. They are one of the few species of fish that can regulate their own temperature.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>fauna/tuna_shoal.xml</Actor>
   </VisualActor>
-  <History>
-      Tuna are fish that belong to the tribe Thunnini. They live in warm saltwater and have sizes ranging from 1.6 feet to 15 feet. They are one of the few species of fish that can regulate their own temperature.
-  </History>
+
 </Entity>
