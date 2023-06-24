@@ -21,6 +21,12 @@
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
+    <History>
+        The Skiritai were a people who lived in northern Laconia. While they weren't Spartan citizens, they were free and treated similarly to the Perioikoi. In war, they formed a strong and dangerous elite corps of about 600 men in the Spartan army. However, they did not blend into the Spartan formation and always fought separately. The equipment and role of the Skiritai in the battle are unclear and have most likely changed over time.
+        They were first mentioned by Thucydides as fighting on the left wing of the Spartan army, which was a very important strategic position. In this role, they were probably equipped as hoplites.
+        Xenophon later described the Skiritai as scouting troops who also guarded the camp at night. This suggests they were equipped as light-ranged infantry and shows the trust of the Spartans in the Skiritai's loyalty and skill.
+        Later, Diodorus Siculus said they were used as a mobile and flexible squad in battle that helped out wherever necessary, which indicates they might have been light cavalry units.
+      </History>
   </Identity>
   <Loot>
     <metal op="add">3</metal>

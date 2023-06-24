@@ -6,6 +6,11 @@
     <GenericName>Spartan Hoplite</GenericName>
     <SpecificName>Spartiátēs</SpecificName>
     <Icon>units/spart/champion_infantry_spear.png</Icon>
+    <History>
+        The Spartan government forced all male citizens to become professional soldiers. Most were trained as Hoplites (Spartiates).
+        Hoplites were equipped with a large round shield with the Greek letter Λ (lambda) for Lacedaemon written on it. Their main weapon was a long spear, but they also carried a short sword as a secondary weapon for close-range melee combat. Those who could afford it also wore different parts of body armor. 
+        Because Spartan Hoplites were so well-trained and well-equipped, they had the reputation of being one of the best and deadliest soldiers in the ancient world. They formed the core of every Spartan army and were the reason Sparta was able to stay a dominant force in Ancient Greece for centuries, despite their small numbers.
+      </History>
   </Identity>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>

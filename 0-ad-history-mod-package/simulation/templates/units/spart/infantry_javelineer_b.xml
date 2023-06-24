@@ -13,6 +13,10 @@
     <GenericName>Helot Skirmisher</GenericName>
     <SpecificName>Akontistḗs Heílōs</SpecificName>
     <Icon>units/spart/infantry_javelinist.png</Icon>
+    <History>
+        The biggest part of the Lacedaemonian population consisted of Helots. Helots were slaves and formed the lowest level in the Spartan society. They were heavily mistreated by the Spartans. 
+        In wartime, they were forced to fight for Sparta and made up the biggest part of the Spartan army. Because Spartan citizens and Perioikoi were Hoplites and the Spartan army also needed ranged infantry, Helots were lightly equipped carrying javelins.
+      </History>
   </Identity>
   <Promotion>
     <Entity>units/spart/infantry_javelineer_a</Entity>
