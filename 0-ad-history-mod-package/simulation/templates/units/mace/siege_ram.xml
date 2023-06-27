@@ -7,12 +7,12 @@
     <Civ>mace</Civ>
     <SpecificName>Krios</SpecificName>
     <Icon>units/mace/siege_ram.png</Icon>
-    <Identity>
+    <History>
          Philip II of Macedon saw the great potential in siege engines and had engineers actively develop weapons like battering rams and catapults for his newly reformed army. Especially the Thessalian engineer Polyidus built many kinds of siege engines for Philip. These new advanced siege engines completely revolutionized siege warfare and provided the Macedonian army with a huge advantage over any enemy. Alexander the Great (Philip II's successor) later developed the Macedonian siege weapons further and used them in his conquest of Persia.
          The krios (battering ram) was one of the most popular siege weapons in ancient Greece, including Macedon, and was used to damage walls or make them collapse, which was basically impossible without it.
          A 65- to 150-foot-long pole was hung by ropes on a horizontal beam. It was pulled back, released, and then swung forward, hitting the wall at maximum speed. The people operating the ram were protected by a roofed shell. The whole construction rolled on wheels because it was too heavy to be carried.
          Defenders tried to stop battering rams by throwing heavy rocks at them or trying to set them on fire.
-    <Identity>
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/macedonians/siege_ram.xml</Actor>
