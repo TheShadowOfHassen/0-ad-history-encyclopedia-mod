@@ -1,14 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><Entity parent="template_unit_siege_ram">  <Footprint>    <Square width="8.0" depth="12.0"/>
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_siege_ram">  
+  <Footprint>    
+    <Square width="8.0" depth="12.0"/>
   </Footprint>
   <Identity>
     <Civ>mace</Civ>
     <SpecificName>Krios</SpecificName>
     <Icon>units/mace/siege_ram.png</Icon>
     <History>
-Philip II saw great potential in siege engines and had engineers develop weapons like battering rams and catapults for his army. His engineers built many kinds of siege engines. These new advanced engines completely revolutionized siege warfare and provided the Macedonian army with a huge advantage over any enemy.  Later, Alexander the Great (Philip II's successor) developed the Macedonian siege weapons further, and among other devices, he also used the krios (Greek battering ram) in his conquest of Persia.
+        Philip II saw great potential in siege engines and had engineers develop weapons like battering rams and catapults for his army. His engineers built many kinds of siege engines. These new advanced engines completely revolutionized siege warfare and provided the Macedonian army with a huge advantage over any enemy.  Later, Alexander the Great (Philip II's successor) developed the Macedonian siege weapons further, and among other devices, he also used the krios (Greek battering ram) in his conquest of Persia.
         The krios (battering ram) was one of the most popular siege weapons in Ancient Greece, and was used to damage walls or make them collapse.
         A 65- to 150-foot-long pole was hung by ropes on a horizontal beam. It was pulled back and released. The pole swung forward, hitting the wall at maximum speed. The people operating the ram were protected by a roofed shell. The whole construction rolled on wheels because it was too heavy to be carried.
-         Defenders tried to stop battering rams by throwing heavy rocks at them or trying to set them on fire.
+        Defenders tried to stop battering rams by throwing heavy rocks at them or trying to set them on fire.
     </History>
   </Identity>
   <VisualActor>
