@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Date Palm</SpecificName>
+    <History>
+        The Date Palm is found all over the Southern and Eastern Mediterranean. Their fruit, the date, is an important food crop in ancient and modern times.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>400</Max>

@@ -5,6 +5,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Banana</SpecificName>
+    <History>
+        The Banana fruit of some of the plants in the Genus Musa, and are now an extremely popular food. In Ancient times however, they were less popular, ranging only in southwest Asia.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>400</Max>

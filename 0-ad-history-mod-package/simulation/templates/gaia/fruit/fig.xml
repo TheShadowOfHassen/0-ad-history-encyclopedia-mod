@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Fig</SpecificName>
+    <History>
+         Figs are found in the Mediterranean and was eaten by the Greek and Romans. It is a sweet fruit that can be eaten raw but it was usually dried because the fruit did not keep well.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="5.0" depth="5.0"/>
