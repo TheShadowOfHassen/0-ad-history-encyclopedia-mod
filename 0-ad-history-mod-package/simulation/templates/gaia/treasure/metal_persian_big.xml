@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Persian Wares</SpecificName>
+    <History>
+        Bolts of cloth, rugs and other high-quality textiles. Such crafts can be sold in the bazars of Persia, and across the ancient world.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="7.0" depth="7.0"/>

@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Food Treasure</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        A bin of foood.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="2.0" depth="3.0"/>

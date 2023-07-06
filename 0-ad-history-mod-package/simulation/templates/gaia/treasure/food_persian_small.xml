@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Persian Food Treasure</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        A display of food, straight from the finest bazars of Persia.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="5.0" depth="5.0"/>

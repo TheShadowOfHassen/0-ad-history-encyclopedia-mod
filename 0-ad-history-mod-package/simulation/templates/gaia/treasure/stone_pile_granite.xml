@@ -2,6 +2,9 @@
 <Entity parent="template_gaia_treasure">
   <Identity>
     <SpecificName>Cut Granite</SpecificName>
+    <History>
+        A pile of granite roughly cut into bricks.
+    </History>
   </Identity>
   <Treasure>
     <Resources>

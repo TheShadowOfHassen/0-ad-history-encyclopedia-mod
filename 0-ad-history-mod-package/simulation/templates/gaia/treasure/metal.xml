@@ -6,6 +6,10 @@
   </Footprint>
   <Identity>
     <SpecificName>Secret Box</SpecificName>
+    <Histrory>
+        It's a barrel of metal.
+        There. I ruined the secret.
+    </History>
   </Identity>
   <Sound>
     <SoundGroups>

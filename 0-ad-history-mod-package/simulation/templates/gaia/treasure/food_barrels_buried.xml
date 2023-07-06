@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Half-buried Barrels</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        A long forgotten cache of food. They were buried for safekeeping. However, over time, the soil has eroded, exposing them. Seeing that the original owners are long gone, it is probably best that you put the resources to good use, before one of your opponents do.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="7.0" depth="7.0"/>

@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Milled Lumber</SpecificName>
+    <History>
+        A pile of roughly hewn lumber, ready to be used for building
+    </History>
   </Identity>
   <Obstruction>
     <Static width="3.5" depth="6.5"/>

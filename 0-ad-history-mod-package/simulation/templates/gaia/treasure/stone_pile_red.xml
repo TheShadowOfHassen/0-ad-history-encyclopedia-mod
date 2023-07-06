@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Cut Sandstone</SpecificName>
     <Icon>gaia/geology_stone_2.png</Icon>
+    <History>
+        A pile of red sandstone roughly cut into bricks.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="6.5" depth="6.5"/>
