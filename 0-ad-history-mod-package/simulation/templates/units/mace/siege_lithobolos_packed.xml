@@ -4,6 +4,13 @@
     <Civ>mace</Civ>
     <SpecificName>Lithobólos</SpecificName>
     <Icon>units/hele/siege_lithobolos_packed.png</Icon>
+    <History>
+        Philip II saw great potential in siege engines and had engineers develop weapons like battering rams and catapults for his army. His engineers built many kinds of siege engines. These new advanced engines completely revolutionized siege warfare and provided the Macedonian army with a huge advantage over any enemy.  Later, Alexander the Great (Philip II's successor) developed the Macedonian siege weapons further, and among other devices, he also used the lithobolos (Greek catapult) in his conquest of Persia.
+        The lithobolos was developed in the early 4th century B.C. during Dionysius of Syracuse's expedition against the Carthaginians.
+        Unlike many weapons at the time, the lithobolos was powered by a torsion mechanism. Torsion-based weapons can store and release energy more efficiently than tension-based weapons (like bows and crossbows).
+        Compared to the oxybeles (Greek bolt shooter), the lithobolos was bigger, heavier, and more powerful and just had one single arm facing forward. One end of the arm was attached to the torsion mechanism. As the arm was rotated backwards, a bundle of sinew, skein, or fiber was twisted. A projectile was loaded and the lithobolos was fired. When the arm was released, the bundle unwound, launching the projectile at a 45-degree angle upward. The lithobolos could throw 150-pound stones hundreds of yards away. It was used to damage defensive structures such as walls or towers.
+        Because catapults were bulky, they were carried in pieces and assembled on the battlefield.
+    </History>
   </Identity>
   <Pack>
     <Entity>units/mace/siege_lithobolos_unpacked</Entity>

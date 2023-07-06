@@ -4,6 +4,14 @@
     <Civ>mace</Civ>
     <SpecificName>Helépolis</SpecificName>
     <Icon>units/hele/siege_tower.png</Icon>
+    <History>
+        Philip II of Macedon saw the great potential in siege engines and had engineers actively develop weapons like battering rams and catapults for his newly reformed army.
+        These newn advanced siege engines completely revolutionized siege warfare and provided the Macedonian army with a huge advantage over any enemy. 
+        Without a doubt, the biggest and most impressive seige tower was was the Helepolis ("Taker of Cities"). It was invented by Polyidus of Thessaly for the Macedonian army under Philip II in the 4th century B.C. Later it was significantly improved by Epimachus of Athens for Demetrius I ("The Besieger").
+        The Helepolis was by far the biggest, most fearsome, and intimidating war machine in the ancient world. It was more than 100 feet tall and 50 feet wide. On the outside the walls were covered in metal plates and wet sheets of leather to prevent it from catching on fire. Only the back side facing away from the defenders was open. On the inside, the Helepolis had up to nine floors connected with ladders. 
+        It carried many stone, bolt, and arrow-launching devices that fired through small holes in the wall. Because the whole tower weighed about 160 tons, 3400 men working in relays were required to propel the tower on its eight wheels. Once the siege tower was close to the walls, it could unfold a bridge, leading the soldiers inside the tower directly onto the enemy's wall.
+        Even though the Helepolis seemed invincible, it never succeeded in taking a city. It was just too slow. The defenders easily stopped iy. Eventually the Helepolis was abandoned by its inventors.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/siege_tower.xml</Actor>
