@@ -7,6 +7,12 @@
     <Civ>ptol</Civ>
     <SpecificName>Krios</SpecificName>
     <Icon>units/mace/siege_ram.png</Icon>
+    <History>
+        The krios (battering ram) was one of the most popular siege weapons in Ancient Greece, and was used to damage walls or make them collapse.
+        A 65- to 150-foot-long pole was hung by ropes on a horizontal beam. It was pulled back and released. The pole swung forward, hitting the wall at maximum speed. The people operating the ram were protected by a roofed shell. The whole construction rolled on wheels because it was too heavy to be carried.
+        Defenders tried to stop battering rams by throwing heavy rocks at them or trying to set them on fire.
+        The Ptolemaic army adopted the fighting style of the Macedonians and used Greek (or Macedonian) siege engines, including battering rams, for example, in the naval battle of Salamis in 306 B.C.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/macedonians/siege_ram.xml</Actor>
