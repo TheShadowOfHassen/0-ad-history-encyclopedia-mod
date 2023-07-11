@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Food Treasure</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        A crate of food, packed as if it was going to be taken on a boat for a long journey.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="1.75" depth="1.75"/>

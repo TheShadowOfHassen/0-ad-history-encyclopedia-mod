@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Celtic Standing Stone</SpecificName>
+    <History>
+        A stone inscribed with mysterious symbols. They were placed for unknown reasons by ancient Britons.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="2.0" depth="2.0"/>

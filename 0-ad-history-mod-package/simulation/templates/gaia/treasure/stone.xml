@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Stone Treasure</SpecificName>
+    <History>
+        A pile of stone roughly cut into bricks.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="6.5" depth="6.5"/>

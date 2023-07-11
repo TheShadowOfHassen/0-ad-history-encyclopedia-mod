@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Food Treasure</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        Food safely stored inside clay jars.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="6.5" depth="6.5"/>

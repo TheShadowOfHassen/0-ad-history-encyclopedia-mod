@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Golden Fleece</SpecificName>
+    <History>
+        There are legends about sheep with golden wool. One was sent by Zeus to fly Phrixus to safety when his father was going to kill him. Another was found in the flock of Atreus. Both were extremely valuable, and undoubtedly this one is too.
+    </History>
   </Identity>
   <Treasure>
     <Resources>

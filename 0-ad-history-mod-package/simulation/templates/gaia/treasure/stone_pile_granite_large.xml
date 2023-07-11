@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Cut Stone</SpecificName>
+    <History>
+        A large pile of stone roughly cut into bricks.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="4.0" depth="4.0"/>

@@ -6,7 +6,10 @@
   </Footprint>
   <Identity>
     <SpecificName>Persian Rugs</SpecificName>
-  </Identity>
+     <History>
+        Bolts of cloth, rugs and other high-quality textiles. Such crafts can be sold in the bazars of Persia, and across the ancient world.
+    </History>
+   </Identity>
   <Obstruction>
     <Static width="5.0" depth="3.0"/>
   </Obstruction>
