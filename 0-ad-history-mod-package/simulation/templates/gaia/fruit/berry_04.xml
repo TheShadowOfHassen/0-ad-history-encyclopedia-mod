@@ -7,9 +7,6 @@
         These berries have not ripened until autumn.
     </History>
   </Identity>
-  <ResourceSupply>
-    <Max>200</Max>
-  </ResourceSupply>
   <VisualActor>
     <Actor>props/flora/berry_bush_autumn_01.xml</Actor>
   </VisualActor>
