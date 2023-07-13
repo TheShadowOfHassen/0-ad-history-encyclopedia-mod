@@ -30,6 +30,10 @@
     <Tooltip>Build in own or neutral territory.</Tooltip>
     <VisibleClasses datatype="tokens">Outpost</VisibleClasses>
     <Icon>structures/outpost.png</Icon>
+    <History>
+        In ancient warfare, knowing your enemy’s position could be the difference between victory and defeat. Whether it be a temporary construction so that the commanders could get a better view of the battle, or a string of permanent constructions watching the border, watch towers were important. It didn’t matter how durable they were for they allowed those inside to see the enemy coming and that alone could turn the tide of a battle.
+
+    </History>
   </Identity>
   <Loot>
     <wood>12</wood>
