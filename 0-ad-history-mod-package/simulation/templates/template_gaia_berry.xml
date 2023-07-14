@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_gaia_berry">
+<Entity parent="template_gaia_fruit">
   <Identity>
+    <SpecificName>Berries</SpecificName>
     <History>
         Since ancient times, wild berries have been a viable source of food. While caution had to be taken so that poisonous fruit were not gathered, the berries, whether they be strawberries, raspberries, or blackberries, were one of the few sources of sweetness. Not limited to consumption whilst fresh, berries could be dried or squashed and their juice fermented.
-        These berries have not ripened until autumn.
     </History>
   </Identity>
-  <VisualActor>
-    <Actor>props/flora/berry_bush_autumn_01.xml</Actor>
-  </VisualActor>
+  <ResourceSupply>
+    <Max>200</Max>
+  </ResourceSupply>
 </Entity>
