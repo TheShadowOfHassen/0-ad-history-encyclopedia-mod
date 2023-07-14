@@ -10,3 +10,6 @@ https://www.hellenicaworld.com/Greece/Technology/en/RepCatapult.html
 https://youtu.be/didC-R3P3u4
 https://en.m.wikipedia.org/wiki/Helepolis.  
 by Vantha
+
+
+Theaters: https://www.metmuseum.org/toah/hd/thtr/hd_thtr.htm, https://www.britannica.com/art/Western-theatre/Ancient-Greece, https://historylink101.com/2/greece3/theater.htm, https://en.wikipedia.org/wiki/Greek_tragedy, https://en.wikipedia.org/wiki/Ancient_Greek_comedy, https://en.wikipedia.org/wiki/Satyr_play (I used more than these sources, but this is the source I directly consulted whilst writing): By ShadowOfHassen 
