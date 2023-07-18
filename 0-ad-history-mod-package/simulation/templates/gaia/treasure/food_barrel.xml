@@ -7,6 +7,11 @@
   <Identity>
     <SpecificName>Food Treasure</SpecificName>
     <Icon>gaia/special_treasure_food.png</Icon>
+    <History>
+        This is a barrel of food.
+        
+        Wooden barrels were and still are an excellent way for storing both wet and dry foodstuffs.
+    </History>
   </Identity>
   <Selectable replace="">
     <Overlay>

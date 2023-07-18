@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Iron Weapons</SpecificName>
+    <History>
+        A stash of weapons. Even if your soldiers have plenty of arms, the metal is good and could be used for other purposes.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="2.75" depth="2.75"/>
