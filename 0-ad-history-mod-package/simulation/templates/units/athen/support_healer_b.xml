@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="civ/athen|template_unit_support_healer">
+<Entity parent="civ/athen|template_unit_support_healer_greek">
   <Identity>
     <GenericName>Surgeon</GenericName>
     <SpecificName>Iatros</SpecificName>
