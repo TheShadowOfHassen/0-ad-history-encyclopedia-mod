@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="civ/athen|template_unit_support_healer_greek">
+<Entity parent="civ/athen|template_unit_support_healer">
   <Identity>
     <GenericName>Surgeon</GenericName>
     <SpecificName>Iatros</SpecificName>
     <Icon>units/hele/support_healer.png</Icon>
+    <History>
+        Like most other ancient civilizations, the Ancient Greeks held gods responsible for health and illness. They saw diseases as punishments and believed that healing was a divine gift that required prayers and sacrifices.
+        Hippocrates of Cos was the first to question the supernatural origin of illnesses and to clearly separate religion from medicine. He focused treatment on the human behind an illness, observing and adjusting his patient's lifestyle to try to find the cause rather than just treating the symptoms.
+        The Corpus Hippocraticum is a collection of medical texts covering topics like anatomy, hygiene, and surgery, allegedly written by Hippocrates. The most famous of them all is the Hippocratic Oath, which sets rules and ethical standards for doctors to follow. A similar oath is still in use to this day. Today, we know that most of these texts, including the Hippocratic Oath, were probably written by his followers rather than Hippocrates himself.
+        By establishing important principles like diagnosis and prognosis, Hippocrates laid the foundation for a more scientific approach to medicine, which is why today he is often called "the father of modern medicine".
+        The Roman author Hyginus tells the story of another important historical figure in the field of medicine: Agnodice of Athens, the "first female physician" in history. 
+        After she had studied medicine in disguise as a man, since women were prohibited from doing so at that time, she worked as the first female midwife in Athens. Only to her female patients she would disclose herself as a woman. 
+        However, eventually her true gender was exposed, and she was tried for having practiced medicine as a woman. Because she was so popular among her patients, influential women in Athens, whom she had treated, defended her. The law prohibiting women from studying medicine and performing medical treatment was repealed shortly after. 
+        The historical existence of Agnodice, however, remains uncertain.
+    </History>
   </Identity>
   <Promotion>
     <Entity>units/athen/support_healer_a</Entity>
