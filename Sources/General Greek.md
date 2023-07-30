@@ -21,3 +21,8 @@ https://en.wikipedia.org/wiki/Penteconter (not the source I actually used, I los
 bireme:
 https://en.wikipedia.org/wiki/Bireme
 by Vantha
+
+Triremes:
+https://www.hellenicaworld.com/Greece/Technology/en/Trireme.html
+by Vantha
+
