@@ -5,6 +5,10 @@
     <Height>10.0</Height>
   </Footprint>
   <Identity>
+    <History>
+        The hemiolos (Greek:"one and a half") was a light and fast warship developed in the 4th century B.C., used by the Macedonians and Romans.
+        It was a variation of a triaconter (Greek vessel with thirty rowers), but had, as the name suggests, one and a half banks of oarsmen one each side, with the extra half bank located amidships. Because the hemiolos required comparatively few oars, it was often used for troop transport, since it was too small and light to directly fight with enemy vessels
+    </History>
     <Civ>mace</Civ>
     <SpecificName>Hemiolos</SpecificName>
     <Icon>units/hele/ship_bireme.png</Icon>
