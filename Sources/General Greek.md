@@ -16,3 +16,8 @@ Theaters: https://www.metmuseum.org/toah/hd/thtr/hd_thtr.htm, https://www.britan
 
 Penteconters:
 https://en.wikipedia.org/wiki/Penteconter (not the source I actually used, I lost the link of my original source and couldn't find it, but this Wikipedia article has all the same information used in the text) by Vantha
+
+
+bireme:
+https://en.wikipedia.org/wiki/Bireme
+by Vantha
