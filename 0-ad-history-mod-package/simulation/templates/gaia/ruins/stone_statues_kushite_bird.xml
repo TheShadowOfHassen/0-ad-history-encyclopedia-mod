@@ -9,6 +9,9 @@
     <GenericName>Stone Resource</GenericName>
     <SpecificName>Kushite Bird Statue</SpecificName>
     <Icon>gaia/geology_stone_1.png</Icon>
+    <History>
+        This is an ancient Kushite statue of a bird. Its materials could easily be reused in other constructions.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="1.5" depth="3.5"/>

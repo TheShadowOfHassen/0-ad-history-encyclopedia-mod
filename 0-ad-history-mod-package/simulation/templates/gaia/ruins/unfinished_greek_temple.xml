@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Unfinished Greek Temple</SpecificName>
+    <History>
+        The Greeks were good masons and when completed their structures will last for ages. Unfortunately, this temple was abandoned before it was finished, and now is little more than a pile of stone waiting to be repurposed
+    </History>
   </Identity>
   <Obstruction>
     <Static width="17.5" depth="30.0"/>
