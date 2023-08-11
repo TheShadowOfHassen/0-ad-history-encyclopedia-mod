@@ -24,6 +24,10 @@
     <GenericName>Arctic Fox</GenericName>
     <SpecificName>Vulpes lagopus</SpecificName>
     <Icon>gaia/fauna_fox_arctic.png</Icon>
+    <History>
+    In winter, the arctic fox’s white coat is one of the warmest fur of any animal on the planet. Come summer their coats change to a gray-brown color. Arctic fox’s length range from 20-30 inches not counting their tail. That gives them an extra 10-17 inches.
+    Arctic foxes dig complex burrow systems for shelter and child-rearing, and they are shared by many mating pairs over many generations.
+    </History>
   </Identity>
   <Loot>
     <xp>4</xp>

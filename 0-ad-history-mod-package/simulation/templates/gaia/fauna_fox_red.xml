@@ -24,6 +24,10 @@
     <GenericName>Red Fox</GenericName>
     <SpecificName>Vulpes vulpes</SpecificName>
     <Icon>gaia/fauna_fox_red.png</Icon>
+    <History>
+        The red fox is a wide spread species thanks to their varied diet, which helps them survive in all different kinds of biomes. Their fur (obviously) is usually a reddish brown. There body length can get up to 35 inches long, but their tail can be anywhere from 11-19½ inches longer.
+        Red foxes make their home in a den be it a hole, cave, or the underside of some building and a male (dog) and female (vixen) share the den and the surrounding territory. Although, sometimes younger vixens live there also and help raise the pair’s children.
+    </History>
   </Identity>
   <Loot>
     <xp>4</xp>
