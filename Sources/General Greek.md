@@ -1,5 +1,4 @@
-Daily Life of Ancient Greeks by Robert Garland
-Daily life in the Hellenistic age from Alexander to Cleopatra/ Jame Allan Evans
+Daily Life of Ancient Greeks by Robert GarlandDaily life in the Hellenistic age from Alexander to Cleopatra/ Jame Allan Evans
 
 Krios, Oxybeles, Polybolos, Lithobolos, Helepolis: https://www.academia.edu/29962085/THE_SIEGE_ENGINES_IN_ANCIENT_GREECE_%CE%91_DESCRIPTIVE_APPROACH_TO_THEIR_CHARACTERISTIC_FEATURES_pdf
 https://www.academia.edu/27886124/The_Catapult_And_Other_War_Machines_Of_Ancient_Greece
@@ -26,3 +25,5 @@ Triremes:
 https://www.hellenicaworld.com/Greece/Technology/en/Trireme.html
 by Vantha
 
+Athenian, Macedonian, Spartan healers:  https://www.britannica.com/biography/Hippocrates 
+by Vantha
