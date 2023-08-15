@@ -23,6 +23,10 @@
     <GenericName>Wild Boar</GenericName>
     <SpecificName>Sus scrofa</SpecificName>
     <Icon>gaia/fauna_boar.png</Icon>
+    <History>
+        The wild boar has a wide-ranging habitat from Europe to Asia to even Northern Africa. Large and sturdy, these close relatives of domesticated pigs can grow up to 6 feet tall and can weigh over 100 pounds. They primarily live off the leaves and roots of their forest habitat but will, on occasion, eat anything from eggs and small mammals to carrion.
+        Wild boars can be very destructive. They use their broad snouts to forage, and they would be just as happy wandering through a vineyard or orchard as a forest. Wild boars were hunted not only for their destructive nature, but also for their meat and the sport. Not that it wasn’t dangerous. Male boars had tusks which could and would cut. In the Odyssey, Odysseus was identified by the scar on his hip, which he had gotten during a boar hunt.
+    </History>
   </Identity>
   <Loot>
     <xp>10</xp>
