@@ -8,5 +8,6 @@ Great White Shark: DK Smithsonian Animal the Definitive Guide copyright 2022 Dor
 Rabbit: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 White Rhinoceros:  Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Sheep: Nature's Children Sheep by Dan Doyle Grolier Books ;Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
+Walrus: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Whale: Nature's Children Whales by Judy Ross Grolier Books, Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Wolf: Nature's Children Wolves by Judy Ross Grolier Books, Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
