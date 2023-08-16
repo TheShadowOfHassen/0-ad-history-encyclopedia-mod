@@ -23,6 +23,12 @@
     <GenericName>Lion</GenericName>
     <SpecificName>Panthera leo</SpecificName>
     <Icon>gaia/fauna_lion.png</Icon>
+    <History>
+        The lion is the only species of the cat felid with complex social group. The well known one is the pride. A pride contains anywhere from four to ten female lions along with their children. The females work together with both hunting and cub raising. Sometimes the lionesses will nurses each others cubs.
+        The second social group is compromised of the males and is less frequent because sometimes the male lion prefers to live alone. This group is called a collation. Both collations and solitary males lay stake to a territory and all the prides inside it.
+        Male lions are larger than their female counterparts averaging  400 lb instead of the lioness's 330 lb.
+        Lions were prevalent in ancient times, however they became less prevalent due to the many of them that were captured and hunted in the roman coliseum. 
+    </History>
   </Identity>
   <Loot>
     <xp>10</xp>

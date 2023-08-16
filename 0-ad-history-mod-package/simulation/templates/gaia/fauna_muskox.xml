@@ -11,6 +11,9 @@
     <GenericName>Muskox</GenericName>
     <SpecificName>Ovibos moschatus</SpecificName>
     <Icon>gaia/fauna_muskox.png</Icon>
+    <History>
+        Large bodied and brad horned, the Muskox is a bovine animal that ranges only the northeast parts of America. They have thick dark brown fur covering their body which not only keeps them warm but protects them from the many insects that swarm during the summer. 
+    </History>
   </Identity>
   <Loot>
     <xp>10</xp>

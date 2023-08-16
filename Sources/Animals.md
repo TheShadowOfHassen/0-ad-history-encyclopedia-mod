@@ -5,6 +5,8 @@ Deer: Hermies House Animals of the world & DK Smithsonian Animal the Definitive 
 Fauna Boar: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Hippopotamus: Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Great White Shark: DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
+Lion: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
+Muskox: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Rabbit: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Tiger: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 White Rhinoceros:  Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
