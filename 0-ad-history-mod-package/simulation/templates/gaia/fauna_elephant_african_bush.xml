@@ -25,6 +25,11 @@
     <GenericName>African Bush Elephant</GenericName>
     <SpecificName>Loxodonta africana</SpecificName>
     <Icon>gaia/fauna_elephant_african_bush.png</Icon>
+    <History>
+        The African bush elephant, also known as the African Savanna elephant or just the savanna elephant is the biggest of the three elephant species, and also is the biggest land species on the earth. Growing up to 16 ft tall and weighing up 5.2 tons! It ranges in the savannas and grasslands of Africa.
+        Both male and females of the African bush elephant has forward curving tusks. In between its tusks is its trunk which, thanks to two fingerlike growth on the end called processes, can be used almost like a 5th limb to pull grass and branches, pick up logs and for squirting both dust and water.
+        African brush elephants live in herds, lead by the eldest female who is called the matriarch.
+    </History>
   </Identity>
   <Loot>
     <xp>60</xp>
