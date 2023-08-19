@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Celtic Standing Stone</SpecificName>
+    <History>
+        A Celtic stone inscribed with mysterious markings. What could it be, a property marker? A monument? A secret message? Or is it just a lump of stone that you can reuse?
+    </History>
   </Identity>
   <Obstruction>
     <Static width="2.0" depth="2.0"/>

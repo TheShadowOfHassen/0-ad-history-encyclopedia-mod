@@ -9,6 +9,9 @@
     <GenericName>Stone Resource</GenericName>
     <SpecificName>Ammon-Ra Ram Statue</SpecificName>
     <Icon>gaia/geology_stone_1.png</Icon>
+    <History>
+        In ancient Kush, Rams were the icon of their supreme god, Amun. Its materials could easily be reused in other constructions.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="1.5" depth="3.5"/>

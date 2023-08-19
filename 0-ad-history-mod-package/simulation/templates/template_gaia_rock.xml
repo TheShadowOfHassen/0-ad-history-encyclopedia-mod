@@ -8,6 +8,10 @@
     <GenericName>Stone Quarry</GenericName>
     <Tooltip>Quarry rock for stone.</Tooltip>
     <Icon>gaia/geology_stone.png</Icon>
+    <History>
+        While it wasn’t exactly necessary, sturdy stone buildings are an easy indicator of an advanced civilization. It was a better building material than wood, just because it was far more durable, not only against the wear of time but also against attacks.
+        Stone was gathered, typically by slaves, at quarries where workers cut blocks that would be used for construction. However, even smaller stones could be dug out of the ground and used as well.
+    </History>
   </Identity>
   <Minimap>
     <Type>stone</Type>

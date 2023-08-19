@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Roman Statue</SpecificName>
+    <History>
+        Various stone statues of Roman of royalty and religion. Its materials could easily be reused in other constructions.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="3.5" depth="3.5"/>

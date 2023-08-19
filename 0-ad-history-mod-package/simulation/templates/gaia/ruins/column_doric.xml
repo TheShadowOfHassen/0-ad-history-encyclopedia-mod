@@ -6,6 +6,9 @@
   </Footprint>
   <Identity>
     <SpecificName>Doric Column</SpecificName>
+    <History>
+        A ruined Doric column that fell off of some building. There is little else to do but reuse the materials.
+    </History>
   </Identity>
   <ResourceSupply>
     <Max>500</Max>

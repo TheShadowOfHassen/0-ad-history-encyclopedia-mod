@@ -8,6 +8,9 @@
     <Civ>gaia</Civ>
     <GenericName>Stone Resource</GenericName>
     <SpecificName>Ruined Structure</SpecificName>
+    <History>
+        These ruins have been so destroyed that it is impossible to find what they once were. What the stone will be is a more pressing question.
+    </History>
     <Icon>gaia/geology_stone_1.png</Icon>
   </Identity>
   <Obstruction>

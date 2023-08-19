@@ -7,6 +7,9 @@
   <Identity>
     <SpecificName>Minor Pyramid</SpecificName>
     <Icon>gaia/geology_stone_1.png</Icon>
+    <History>
+        Here stands a monument and tomb for some great person. It also is precisely where you wanted to build and so will have to be moved.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="34.0" depth="34.0"/>
