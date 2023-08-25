@@ -31,6 +31,8 @@ We use the US customary system for the measurements, and please do not abbreviat
 
 As for content, some parts of history can be gruesome but try to keep the writing fairly clean no please no gruesome tortures, or sacrifice rites.
 Also, History is some complicated so write in a clear, polite style that tries to see everything in context of the history and place.
+ Use the English version of any name, of there is one, for example: Plutarch (English) instead of Plutarchus (Latin) or Ploutarchos (Greek). If there is no English version, use Athenaeus(the Latin version) instead of Athenaios (Greek). If there is no Latin version, use the Greek version, like Xerxes (Greek) instead of the Persian version. For most names there is either a Greek or Latin version. If not, then use the name in the original language (can't think of an example). Names of People must always be capitalised. Same  for names of groups of people (like Helots, Hoplites)
+
 
 
 Also put sources that you use for information in the sources folder in a file for the suspific unit group. I.E. we'll have one for sparta and another for Animals.'
