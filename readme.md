@@ -26,7 +26,6 @@ for consistency use BC and AD for the dates not BCE and CE
 
 Keep numbers simple. You can write One to Nine out or ones like Million but everything else write as numerals I.E. 12345 Instead of Twelve-Thousand Three hundred and Forty Five
 Likewise, all dates should be numerals. I.E. 100 AD
-Also, AD and BC not ACE and BCE.
 Finally, we can use decimals instead of fractions ie. 1.5 instead 1 and 1/2 likewise use 2 to 3 instead of 2-3
 We use the US customary system for the measurements, and please do not abbreviate them.
 
