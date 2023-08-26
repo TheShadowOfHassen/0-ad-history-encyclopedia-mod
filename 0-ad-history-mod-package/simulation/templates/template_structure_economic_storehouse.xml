@@ -30,6 +30,7 @@
     <Requirements>
       <Techs datatype="tokens">phase_village</Techs>
     </Requirements>
+    <History>While the size, and shape didn’t exactly match the structures in game, all ancient civilization stored resources and building materials in warehouses.</History>
   </Identity>
   <Loot>
     <wood>20</wood>
