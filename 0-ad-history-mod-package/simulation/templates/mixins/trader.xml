@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_warship_light">
+  <Identity>
+    <History>
+        Trade was a dangerous, but lucrative activity that involved the exchange of goods and services across vast distances. In antiquity, trade networks spanned across all known continents and oceans, connecting even very distant civilizations. Traders, who were usually affluent, sought to acquire valuable commodities such as metals, textiles, animals, spices and slaves to sell them in other parts. Not only was trade a means of economic gain, but also a way of cultural diffusion; traders transmitted their beliefs, customs and knowledge to the people they encountered, thus enriching and transforming the societies they interacted with. Just like today, trade was a vital aspect of every ancient civilization, as it fostered development and innovation.
+    </History>
+  </Identity>
+</Entity>
