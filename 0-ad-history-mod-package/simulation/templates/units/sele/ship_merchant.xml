@@ -8,6 +8,9 @@
     <Civ>sele</Civ>
     <SpecificName>Ploîon Phortēgikón</SpecificName>
     <Icon>units/hele/ship_merchant.png</Icon>
+    <History>
+        The Seleucids extensively engaged in maritime trade, maritime commerce was critical for the Empire's economy. They profited from controlling major ports along important trade routes. Local goods, raw materials, textiles and agricultural products were exported. Seleucid merchant fleets were active participants in the maritime trade network of the Eastern Mediterranean. Some Seleucid merchants also reached the Indian Ocean and imported exotic luxury items such as spices, jewels and ivory, bringing wealth to many harbour cities along the main trade routes. 
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/merchant.xml</Actor>
