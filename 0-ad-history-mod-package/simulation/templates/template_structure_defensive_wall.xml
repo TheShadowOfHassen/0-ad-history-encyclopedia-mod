@@ -17,10 +17,6 @@
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
-    <History>
-    Cities were often protected by sturdy, stone walls. Usually the fortifications were expensive, large quantities of stone were required as well as trained masons, and even with them it took years to construct. However, the cost and time was worth it. The sentries stationed on them could keep watch for attacks, and when one came the walls didn’t just physically keep the enemy out, the bulwarks on the top allowed the defenders to shoot at the attackers with at least some defense.
-    Walls were such a pivotal the point of a cities defenses, that to deter rebellion, the walls would often be destroyed by the attacking army. If they did not, however, the walls could keep a city safe for hundreds of years.
-    </History>
   </Identity>
   <Obstruction>
     <Static width="6.0" depth="6.0"/>
