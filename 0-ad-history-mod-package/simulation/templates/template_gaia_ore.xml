@@ -8,6 +8,9 @@
     <GenericName>Metal Mine</GenericName>
     <Tooltip>Mine ore for metal.</Tooltip>
     <Icon>gaia/geology_metal.png</Icon>
+    <History>
+        Be it a valuable like gold or silver or something more durable like copper or iron, ore was an important part of civilization. It was dug out of the ground and carried to where it could be refined. Ore, be it gold, silver, copper, tin, or iron, was important, and wars were waged over a city’s mines.
+    </History>
   </Identity>
   <Minimap>
     <Type>metal</Type>
