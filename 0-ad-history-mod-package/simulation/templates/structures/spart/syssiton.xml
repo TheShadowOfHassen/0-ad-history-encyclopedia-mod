@@ -26,6 +26,12 @@
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Syssiton</VisibleClasses>
     <Icon>structures/syssition.png</Icon>
+      <!-- The quotes are taken from Plutarch life of Lykurgus paragraph 11 -->
+    <History>
+    A syssition was not just a mess hall for the Spartan warriors, belonging to a syssition was qualification for spartan citizenship. A spartan warrior could not join a syssition until he was 30 years old. Plutarch says that the syssition contained up to 15 men but, more modern estimates put it much higher. Spartan men didn’t just dine with their syssition. When they marched into battle, it was with their syssition.
+    In order for a man to enter a a syssition, Plutarch says that the current members would vote, throwing bread into a vase, if the majority of the bread was uncrushed, the new member was welcomed.There were dues as Plutarch says: “Each member contributed per month a medimnus of barley, eight measures of wine, five minas' weight of cheese, and half as much of figs; and in addition to this a very small sum of money to buy fish and other luxuries for a relish to the bread.” The only reasons a man could be absent from his syssition was because he was at a sacrifice or had gone hunting. In both cases he was supposed to sent a portion of the meat to the syssition.
+    Syssitions were not only for dining Plutarch reports that they were a source of comradely discussion. However what was talked in the syssition stayed in the syssition, or as plutarch reports: "As they came in, the eldest present said to each man, pointing to the door, "Through this no tale passes.""
+    </History>
   </Identity>
   <Loot>
     <stone>40</stone>
