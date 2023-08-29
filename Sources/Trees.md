@@ -36,14 +36,9 @@ Poplars and Poplar Lombardy: Hermes House's Trees Of The World by Tony Rustle, C
 Sengal Date Palm: https://en.wikipedia.org/wiki/Phoenix_reclinata: ByShadowOfHassen
 Strangler Fig: https://en.wikipedia.org/wiki/Strangler_fig: by ShadowOfHassen
 Tamarix: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-
 Teak: https://en.wikipedia.org/wiki/Teak: by ShadowOfHassen
-
 Temperate Trees: By ShadowOfHassen
-
 Toona Trees: https://en.wikipedia.org/wiki/Toona: ShadowOfHassen
-
 Topic rainforest: By ShadowOFHassen
-
 Generic Temperate trees: By ShadowOfHassen
 
