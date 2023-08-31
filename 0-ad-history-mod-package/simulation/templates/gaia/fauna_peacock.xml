@@ -11,6 +11,9 @@
     <GenericName>Peacock</GenericName>
     <SpecificName>Pavo cristatus</SpecificName>
     <Icon>gaia/fauna_peacock.png</Icon>
+    <History>
+        Thanks to their plumed tails, these male Indian Peafowl are one of the most recognizable birds on the planet. Peafowl, or peacocks as they are usually called, can grow up to 7.5 feet long and weigh anywhere from, 8 to 13 pounds. Like many birds, males and females look drastically different. The male is a bold blue and it has colorful "eyes" on its tail, which it uses to attract a mate. The female is more drab and, after mating, raises the brood herself.
+    </History>
   </Identity>
   <Loot>
     <xp>2</xp>
