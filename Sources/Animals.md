@@ -24,3 +24,4 @@ Whale: Nature's Children Whales by Judy Ross Grolier Books, Academic American En
 White Rhinoceros:  Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Walrus: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Wolf: Nature's Children Wolves by Judy Ross Grolier Books, Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
+Zebra: https://en.wikipedia.org/wiki/Plains_zebra https://animalfactguide.com/animal-facts/plains-zebra/ :By ShadowOfHassen
