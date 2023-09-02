@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_ship_warship_light">
+<Entity>
   <Identity>
     <History>
         The Dierēs (Greek bireme) was a type of ancient ship that had two rows of oars on each side, with one rower per oar. It was developed around the 7th century B.C., probably by the Phonecians, and adapted by the Greeks.
