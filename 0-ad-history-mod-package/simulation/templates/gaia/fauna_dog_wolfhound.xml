@@ -24,6 +24,9 @@
     <GenericName>Wolfhound</GenericName>
     <SpecificName>Canis lupus familiaris</SpecificName>
     <Icon>units/brit/wolfhound.png</Icon>
+    <History>
+        The Irish wolfhound is the tallest dog breed known today, males reaching up to 32 inches tall at the shoulder. An ancient breed kept both in Ireland and Britan the Irish wolfhound was bred in for one thing, Hunting wolves. They were so successful at this that, on Ireland the wolf is extinct. The Irish wolfhounds has a shaggy coat which is usually gray but can also be black, red, or brown.
+    </History>
   </Identity>
   <Loot>
     <xp>8</xp>
