@@ -2,6 +2,8 @@ Black Bear: Hermies House Animals of the world & DK Smithsonian Animal the Defin
 Brown Bear: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Polar Bear: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Camel: Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
+Cattle & Bull: https://www.britannica.com/animal/cow#ref1242588 &https://en.wikipedia.org/wiki/Cattle
+Cattle_Senga:https://en.wikipedia.org//wiki/Sanga_cattle: By ShadowOfHassen
 Cattle_Zebu: Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Chicken: Nature's Children Farm Birds by Edward C. Haggerty Grolier Books ;Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Crocodile: Heroditous histories volume one (from project gutenburg); Getting to Know Nature's Children Crocodiles by Peter Carver Grolier Books;  Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
@@ -18,11 +20,13 @@ Fox Red: Hermies House Animals of the world & DK Smithsonian Animal the Definiti
 Giraffe: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Goat:Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Great White Shark: DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
+Horse: https://www.thecollector.com/history-of-ancient-horses/ https://en.wikipedia.org/wiki/Horse
 Hippopotamus: Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Lion: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Muskox: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Peacock: DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Pig: Academic American Encyclopedia copyright 1993 Grolier inc: By ShadowOfHassen
+Flaming Pig:https://en.wikipedia.org/wiki/War_pig#:~:text=Both%20writers%20reported%20that%20Antigonus,the%20enemy's%20massed%20war%20elephants.& https://www.ancient-origins.net/history-ancient-traditions/flaming-war-pigs-0017170: By ShadowOfHassen
 Rabbit: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Sheep: Nature's Children Sheep by Dan Doyle Grolier Books ;Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Tiger: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
