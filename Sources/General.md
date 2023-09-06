@@ -3,3 +3,5 @@ Note: This is for general items that pertain across the entire game. They are do
 template_structure_defensive_palisade.xml (all the palisades): by ShadowOfHassen
 
 template_structure_economic_storehouse: Adapted from the old encyclopedia article (all the palisades): by ShadowOfHassen
+
+trader mixin: by Vantha
