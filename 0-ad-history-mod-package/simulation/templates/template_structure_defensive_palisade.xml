@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_defensive">
+<Entity parent="template_structure_defensive|encyclopedia_palisade">
   <BuildRestrictions>
     <PlacementType>land-shore</PlacementType>
     <Territory>own neutral</Territory>
@@ -15,9 +15,7 @@
     <Tooltip>Wall off an area. Build in own or neutral territory.</Tooltip>
     <VisibleClasses datatype="tokens">Palisade</VisibleClasses>
     <Icon>structures/palisade_wall.png</Icon>
-    <History>
-        Villages situated in resource rich areas naturally grew in both size and wealth. In accordance so did the interest of outside eyes. Soldiers could easily raid or even conquer an undefended village. So when most villages grew defenses sprung up around them, if there was a good supply of wood, a palisade was a viable choice. While they weren’t nearly as durable as stone walls, palisades could be built quicker and without the help of trained craftsmen.
-    </History>
+
   </Identity>
   <RallyPoint disable=""/>
   <Resistance>

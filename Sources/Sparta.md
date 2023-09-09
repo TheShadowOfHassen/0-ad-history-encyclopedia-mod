@@ -16,3 +16,4 @@ farmstead: Adapted from old history: by ShadowOfHassen
 corral: https://historylink101.com/2/greece3/jobs-farming.htm andhttps://www.greekboston.com/culture/ancient-history/agriculture/: by ShadowOfHassen
 Dock: Plutarch's Lives By ShadowOfHassen
 Fishing Boat: By ShadowOfHassen
+Syssition: Daily Life of the Ancient Greek by Robert Garland Plutarch: https://www.gutenberg.org/cache/epub/14033/pg14033-images.html#LIFE_OF_LYKURGUS: By ShadowOfHassen
