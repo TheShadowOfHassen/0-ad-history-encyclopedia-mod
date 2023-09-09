@@ -3,6 +3,9 @@
   <Identity>
     <Civ>sele</Civ>
     <SpecificName>Emporion</SpecificName>
+    <History>
+        As an extensive territory connecting major overland trade routes, the Seleucid empire relied significantly on commerce and occasionally even had to import wheat from neighboring countries to make up for shortages and feed the populace. Seleucid merchants engaged in trade with nomadic tribes located in contemporary Arabia, China and India. Through these networks, merchants bought exotic foods, spices, gems and ivory from the East and disseminated these goods throughout provinces in the Hellenistic world and beyond into Europe. 
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/seleucids/market.xml</Actor>
