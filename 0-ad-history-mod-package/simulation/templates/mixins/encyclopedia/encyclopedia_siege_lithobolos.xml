@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_healer">
+<Entity>
   <Identity>
     <History>
         Although the earliest mentions of stone throwing machines reach back much earlier, the first Greek catapult (Lithobolos) was developed in the early 4th century B.C. during Dionysius of Syracuse's expedition against the Carthaginians.
