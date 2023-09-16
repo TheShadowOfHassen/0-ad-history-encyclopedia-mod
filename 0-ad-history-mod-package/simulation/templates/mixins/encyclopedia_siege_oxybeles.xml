@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_healer">
+  <Identity>
+    <History>
+        Engineers in Ancient Greece, trying to improve the traditional bow, developed the gastraphetes, a crossbow. However, they wanted an even more powerful weapon, and in the 4th century B.C., the oxybeles was invented.
+        The oxybeles was just a very big gastraphetes (crossbow). It was mounted on a tripod with a swivel joint and fired big arrows or javelins. Just like the gastraphetes, the oxybeles was made from horn, wood, and sinew. Even though it had greater power, range, and accuracy than most weapons at that time, it was not strong enough to take down buildings or walls. But still, the oxybeles was a very dangerous weapon, and it could pierce any soldier's shield and armor from hundreds of feet away.
+    </History>
+  </Identity>
+</Entity>
