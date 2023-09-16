@@ -8,6 +8,9 @@
     <Civ>ptol</Civ>
     <SpecificName>Ploîon Phortēgikón</SpecificName>
     <Icon>units/ptol/ship_merchant.png</Icon>
+    <History>
+        The Ptolemies were known for their extensive sea trading activities and their preoccupation with maritime networks, which played a key role in their economy. The Ptolemaic sea empire built huge numbers of merchant vessels and brought major sea routes under control, not only in the Mediterranean but also in the Red Sea, the Persian Gulf, and the Indian Ocean. Ptolemaic merchants extensively traded in Africa, India and other parts of Asia. Exporting agricultural products such as grain, wine and olive oil, textile, precious stones and spices in exchange for metals and exotic items, brought the Ptolemies wealth and luxury.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/ptolemies/merchant_ship.xml</Actor>
