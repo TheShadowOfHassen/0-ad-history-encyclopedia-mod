@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_trader">
+<Entity parent="encyclopedia_trader|template_unit_support_trader">
   <Footprint replace="">
     <Square depth="8.0" width="4.0"/>
     <Height>3.0</Height>

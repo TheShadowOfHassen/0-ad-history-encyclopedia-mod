@@ -7,6 +7,11 @@
   <Identity>
     <Civ>sele</Civ>
     <SpecificName>Limēn</SpecificName>
+    <History>
+        Though not a big naval power like the Ptolemaic Kingdom, the Seleucid Kingdom profited from their coastal access to engage in seaborne trade and controlled major harbor cities like Seleucia Pieria, Laodicea, and Antioch in Susiana that were integrated into maritime trade networks.
+        To protect themselves against external threats, they did maintain small fleets, however, the Seleucid navy never matched the strength of their massive land armies. Their main rivals, the Ptolemaic Kingdom, held naval supremacy throughout the Seleucids' existence.
+        Only a few naval battles are recorded with the Seleucid navy involved, that all ended in defeats against the Rhodians or Romans during the Roman-Seleucid war. 
+    </History>
   </Identity>
   <Obstruction>
     <Static width="22.0" depth="26.0"/>
