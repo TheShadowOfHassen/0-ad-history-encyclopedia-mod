@@ -20,6 +20,9 @@
     <GenericName>Zebu</GenericName>
     <SpecificName>Bos taurus indicus</SpecificName>
     <Icon>gaia/fauna_zebu.png</Icon>
+    <History>
+        Originating in India, the zebu is a hardy breed of cattle that is used as a beast of burden. It has large horns and a fatty hump on its back. It is a hearty beast, able to endure both heat and many diseases. Unfortunately, its meat and milk are very poor.
+    </History>
   </Identity>
   <Loot>
     <xp>30</xp>

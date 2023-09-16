@@ -14,6 +14,9 @@
     <GenericName>Horse</GenericName>
     <SpecificName>Equus ferus caballus</SpecificName>
     <Icon>gaia/fauna_horse.png</Icon>
+    <History>
+    Horses, while often performing lowly tasks such as plowing fields, were regarded as majestic creatures and were the mount of choice for kings. Horse size, shape, and color differed widely, as did their use. However, almost always, the horse was not used for meat or milk but mostly for riding or pulling.
+    </History>
   </Identity>
   <Loot>
     <xp>10</xp>
