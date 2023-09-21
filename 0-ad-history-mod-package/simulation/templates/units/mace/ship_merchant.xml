@@ -8,6 +8,9 @@
     <Civ>mace</Civ>
     <SpecificName>Ploîon Phortēgikón</SpecificName>
     <Icon>units/hele/ship_merchant.png</Icon>
+    <History>
+        Not much is known about Macedonian maritime activities. The Macedonian Kingdom had a strategically good position on the Thermaic Gulf and access to abundant natural resources on its land, such as timber and metals. It is likely that, just like many city-states, Macedon engaged in trade along the vast routes that connected the coasts of the Mediterranean and Aegean seas, as well as the shores of Asia Minor and the Black Sea. These routes linked the Greek city-states on the mainland and the Greek colonies in Asia Minor.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/merchant.xml</Actor>

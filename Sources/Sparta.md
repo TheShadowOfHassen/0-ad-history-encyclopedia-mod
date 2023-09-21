@@ -17,8 +17,12 @@ corral: https://historylink101.com/2/greece3/jobs-farming.htm andhttps://www.gre
 Dock: Plutarch's Lives By ShadowOfHassen
 Fishing Boat: By ShadowOfHassen
 Syssition: Daily Life of the Ancient Greek by Robert Garland Plutarch: https://www.gutenberg.org/cache/epub/14033/pg14033-images.html#LIFE_OF_LYKURGUS: By ShadowOfHassen
+
 Agoge (barracks):
 https://www.spartapedia.com/classical-agoge/
 https://youtu.be/Z2Kss_y6JqU?si=_RWxqucFD_QKRSxM
 
+
+
+Temple: Daily Life of the Ancient Greek by Robert Garland &https://www.legendsandchronicles.com/ancient-civilizations/ancient-sparta/spartan-religion/&https://ancientspartaltau.weebly.com/religion.html: By ShadowOfHassen
 
