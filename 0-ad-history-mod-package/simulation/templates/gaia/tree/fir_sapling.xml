@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Fir Sapling</SpecificName>
     <History>
-        A conifer, the Fir is an evergreen. It ranges from France to the Alps and down to the Balkans. It can grow over 160 feet.
+        A conifer, the Fir is an evergreen. It ranges from France to the Alps and down to the Balkans. It can grow over 160 feet (48.76 meters).
         This fir is still only a sapling.
     </History>
   </Identity>

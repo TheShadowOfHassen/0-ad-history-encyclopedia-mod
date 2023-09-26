@@ -6,6 +6,9 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Agora</SpecificName>
+    <History>
+        The state of Sparta did not have a monarchy, like many ancient civilizations, nor did they have a republic like Athens, but a mixture of the two forms of government. Sparta did not just have one king, but two, and likewise a council of 28 elders called the ephorate, and an assembly of citizens who could veto laws. This form of government was said to have been instituted by Sparta’s great reformer, Lycurgus. As time went on, however, more power was shifted from the kings to the elected ephorate, until the two kings were little more than war leaders. Remarkably, unlike the pure democracy of Athens, Sparta managed to keep this form of government for around 400 years without corruption.
+    </History>
   </Identity>
   <Trainer>
     <Entities datatype="tokens">
