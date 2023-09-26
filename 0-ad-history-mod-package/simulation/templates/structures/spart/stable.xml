@@ -3,6 +3,9 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Hippōn</SpecificName>
+    <History>
+        Cavalry for a long time was a weak spot in Sparta’s military. For the longest time, their only force was the Hippeis, a force of 300 mounted infantry who would guard the kings and perform in religious ceremonies. In 424 BC, the Spartans started putting those deemed unfit to fight on horses to ride as scouts. The amount of Spartans who were cavalry only ever amounted to only 60 per mora (Xenophon wrote that a mora contained around 600 men). Sparta also bolstered their ranks with mercenaries.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/spartans/stable.xml</Actor>
