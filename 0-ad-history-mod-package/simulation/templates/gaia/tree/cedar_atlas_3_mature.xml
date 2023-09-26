@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Atlas Cedar</SpecificName>
     <History>
-        The Atlas Cedar is native to the atlas mountains. This evergreen grows along the snow line over 4,000 feet above sea level.
-        This cedar is full grown.
+        The Atlas Cedar is native to the atlas mountains. This evergreen grows along the snow line over 4,000 feet (1,219.2 meters) above sea level.
+        This cedar is full-grown.
     </History>
   </Identity>
   <ResourceSupply>

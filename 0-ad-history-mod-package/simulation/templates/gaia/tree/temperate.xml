@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Deciduous Tree</SpecificName>
@@ -14,7 +14,7 @@
         
         
         
-        Honestly, your guess is as good as mine as to what these actuallaly are.
+        Honestly, your guess is as good as mine as to what these actually are.
     </History>
   </Identity>
   <ResourceSupply>

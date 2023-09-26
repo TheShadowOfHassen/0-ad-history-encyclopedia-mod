@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
   <Identity>
     <History>
-         Various bushes dotting the land of southeastern Europe or Asia.
+         This is merely one of the various bushes dotting the land of southeastern Europe or Asia.
     </History>
   </Identity>
   <Footprint>
