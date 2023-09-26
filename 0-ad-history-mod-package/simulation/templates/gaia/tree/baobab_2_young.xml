@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Young Baobab</SpecificName>
     <History>
-        The Baobab tree (Adansonia digitata) grows throughout tropical Africa. The inside of its trunk and lower limbs are filled with a soft, spongy material which absorbs water for the African dry season. Baobabs grow up to 80 feet tall, but the oldest trees are some of the widest in the world, with trunks up to 30 ft in diameter. As the tree ages the trunk becomes hollow and can hold around 320 gallons of water.
+        The Baobab tree (Adansonia digitata) grows throughout tropical Africa. The inside of its trunk and lower limbs are filled with a soft, spongy material which absorbs water for the African dry season. Baobabs grow up to 80 feet (24.38 meters) tall, but the oldest trees are some of the widest in the world, with trunks up to 30 feet (9.14 meters) in diameter. As the tree ages the trunk becomes hollow and can hold around 320 gallons (1,211 liters) of water.
         While this baobab is starting to grow its wide trunk, its size is nowhere close to that of a mature baobab.
     </History>
   </Identity>

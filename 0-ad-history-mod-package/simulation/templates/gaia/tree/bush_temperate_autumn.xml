@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
   <Identity>
     <History>
-        A deciduous bush commonly found in temperate forests and fields. Slowly, some of the bushes are changing colors, in preparation for shedding leaves.
+        A deciduous bush commonly found in temperate forests and fields. Slowly, some of the bush’s leaves are changing colors.
     </History>
   </Identity>
   <VisualActor>

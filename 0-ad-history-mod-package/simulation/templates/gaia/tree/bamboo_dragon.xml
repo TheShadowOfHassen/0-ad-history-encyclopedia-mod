@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Footprint>
     <Circle radius="8.0"/>
@@ -7,7 +7,7 @@
   <Identity>
     <SpecificName>Dragon Bamboo</SpecificName>
     <History>
-         Dragon Bamboo (Dendrocalamus giganteus), also known as Giant Bamboo, is an especially large variety of bamboo that can grow around 98 feet.
+         Dragon Bamboo (Dendrocalamus giganteus), also known as Giant Bamboo, is an especially large variety of bamboo that can grow around 98 feet (29.87 meters).
     </History>
   </Identity>
   <Obstruction>

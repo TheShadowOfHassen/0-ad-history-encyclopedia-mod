@@ -71,6 +71,9 @@
     <Requirements>
       <Techs datatype="tokens">phase_city</Techs>
     </Requirements>
+    <History>
+        Fortresses were large, heavily fortified structures, garrisoned by a force of men, and usually well stocked in case of a siege. While fortifications like forts could be constructed around a city, usually a fort was a separate entity, constructed to defend a strategic point, such as a narrow pass or a rich deposit of resources.
+    </History>
   </Identity>
   <Loot>
     <wood>60</wood>
