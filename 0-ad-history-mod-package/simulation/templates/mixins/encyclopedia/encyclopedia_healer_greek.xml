@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_support_healer">
+<Entity>
   <Identity>
     <History>
       Like most other ancient civilizations, the Ancient Greeks held gods responsible for health and illness. They saw diseases as punishments and believed that healing was a divine gift that required prayers and sacrifices.

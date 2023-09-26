@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="encyclopedia_siege_oxybeles|template_unit_siege_boltshooter">
+<Entity parent="encyclopedia/encyclopedia_siege_oxybeles|template_unit_siege_boltshooter">
   <Identity>
     <Civ>mace</Civ>
     <SpecificName>Oxybelḗs</SpecificName>

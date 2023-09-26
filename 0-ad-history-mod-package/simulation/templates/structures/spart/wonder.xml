@@ -7,6 +7,11 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Hieron tēs Artemidos Orthias</SpecificName>
+    <History>
+        Hieron tēs Artemidos Orthias, or the Sanctuary of Artemis Orthias, was a place where many religious festivals were held, including a coming-of-age rite where some boys would try to steal cheese from the altar, and other boys would try to catch them and beat them.
+        Archaeological evidence is scarce, but it is thought that originally this site was dedicated to a goddess named Orthias, who seemed to be a fertility goddess who watched over children. Over time, however, her character was closer and closer associated to the Greek godess Artemis, and later inscriptions read Artemis Orthias before eventually just reading Artemis.
+        The sanctuary had been destroyed and rebuilt over the years, but its use was continued into the fourth century AD.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="34.0" depth="63.0"/>
