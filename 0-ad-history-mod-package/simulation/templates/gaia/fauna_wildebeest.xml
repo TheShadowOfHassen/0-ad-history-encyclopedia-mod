@@ -11,6 +11,9 @@
     <GenericName>Blue Wildebeest</GenericName>
     <SpecificName>Connochaetes taurinus</SpecificName>
     <Icon>gaia/fauna_wildebeest.png</Icon>
+    <History>
+        The Blue Wildebeest, or the common wildebeest, or brindled gnu (gnu not GNU although their pictures look similar) is a relative to the antelope. It has long horns and a coat that ranges from bluish to brownish gray. They live in Southern Africa.
+    </History>
   </Identity>
   <Loot>
     <xp>10</xp>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_fauna_hunt_whale">
   <Footprint>
     <Square width="5.0" depth="20.0"/>
@@ -12,9 +12,9 @@
     <SpecificName>Balaenoptera physalus</SpecificName>
     <Icon>gaia/fauna_fish.png</Icon>
     <History>
-        Whales are not only the biggest creature in the water but the biggest mammal and the biggest animal in the world. This whale is a baleen whale, which means it has no teeth. Instead it uses plates in its mouth (also called baleen) to filter plankton and small fish out of the water and eat them.
+        Whales are not only the biggest creature in the water but the biggest mammal and the biggest animal in the world. This whale is a baleen whale, which means it has no teeth. Instead, it uses plates in its mouth (also called baleen) to filter plankton and small fish out of the water and eat them.
         Because whales are mammals, they do not have gills like fish to breath, they hold their breath underwater and have to come up for air every so often.
-        This whale is a Fin whale evident of the fin on its back. Fin whales are the second largest whale growing up to 89 feet long and almost weighing up to 90 tons.
+        This whale is a Fin whale evident of the fin on its back. Fin whales are the second-largest whale growing up to 89 feet (27.13 meters) long and almost weighing up to 90 tons (81.64 metric tons).
     </History>
   </Identity>
   <Loot>
