@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Deciduous Tree</SpecificName>
     <History>
           <!-- "Temperate,template" is a joke. Translators,If you can't translate it in your language just use temperate it's fine. -->
-       The once green leaves of these temperate, template trees have faded into a variety of orange and red hues. Soon the trees will shed their leaves and be ready to weather the coming winter.
+       The once green leaves of these temperate, template trees have faded into a variety of orange and red hues. Soon the trees will shed their leaves in preparation for the coming winter.
        
        
        

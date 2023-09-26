@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_defensive_tower|encyclopedia_towers">
+<Entity parent="template_structure_defensive_tower|encyclopedia/encyclopedia_towers">
   <Attack>
     <Ranged>
       <AttackName>Bolt</AttackName>

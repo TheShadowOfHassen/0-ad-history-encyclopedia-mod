@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Hungarian Oak</SpecificName>
     <History>
-        The Hungarian Oak (Quercus frainetto) is an oak native to southeastern Europe including Greece. It has rough, dark gray bark and can grow up to 100 feet tall.
+        The Hungarian Oak (Quercus frainetto) is an oak native to southeastern Europe including Greece. It has rough, dark gray bark and can grow up to 100 feet (30.48 meters) tall.
         This oak is slowly turning color.
     </History>
   </Identity>

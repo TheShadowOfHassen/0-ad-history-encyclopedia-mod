@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_gaia_tree">
   <Identity>
     <SpecificName>Ancient Acacia</SpecificName>
     <History>
-        Commonly known as thorn trees, the Acacia, part of the Mimosa subfamily, grows in a variety of open habitats, varying from tropical to subtropical. While 900 of the 1,200 trees live in Australia, the tree is also prevalent in Africa. The Acacia lives in dry climates so they have deep roots systems in order to draw water from the ground.
+        Commonly known as thorn trees, the Acacia, part of the Mimosa subfamily, grows in a variety of open habitats, varying from tropical to subtropical. While 900 of the 1,200 trees live in Australia, the tree is also prevalent in Africa. The Acacia lives in dry climates, so they have deep roots systems in order to draw water from the ground.
         This Acacia has lived for a long time and has grown very large.
     </History>
   </Identity>

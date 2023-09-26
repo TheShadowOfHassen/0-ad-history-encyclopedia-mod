@@ -5,6 +5,7 @@ default outpost: by ShadowOfHassen
 default sentry and defensive tower: Adapted from old defensive towers: By ShadowOfHassen
 template_structure_defensive_palisade.xml (all the palisades): by ShadowOfHassen
 
+forts: By ShadowOfHassen
 template_structure_economic_storehouse: Adapted from the old encyclopedia article (all the palisades): by ShadowOfHassen
 
 trader mixin: by Vantha
