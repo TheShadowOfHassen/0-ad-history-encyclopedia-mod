@@ -9,3 +9,5 @@ forts: By ShadowOfHassen
 template_structure_economic_storehouse: Adapted from the old encyclopedia article (all the palisades): by ShadowOfHassen
 
 trader mixin: by Vantha
+
+forge: https://craftskills.blog/blacksmithing/history-blacksmithing/evolution-blacksmithing/the-impact-of-blacksmithing-on-ancient-civilizations/ by Vantha
