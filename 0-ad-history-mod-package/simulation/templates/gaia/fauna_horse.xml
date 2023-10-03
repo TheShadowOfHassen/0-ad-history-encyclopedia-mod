@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_fauna_hunt_skittish">
   <Auras datatype="tokens">
     structures/corral_garrison_medium
@@ -15,7 +15,7 @@
     <SpecificName>Equus ferus caballus</SpecificName>
     <Icon>gaia/fauna_horse.png</Icon>
     <History>
-    Horses, while often performing lowly tasks such as plowing fields, were regarded as majestic creatures and were the mount of choice for kings. Horse size, shape, and color differed widely, as did their use. However, almost always, the horse was not used for meat or milk but mostly for riding or pulling.
+    Horses, while often performing lowly tasks such as plowing fields, were regarded as majestic creatures and were the mount of choice for kings. Horse size, shape, and color differed widely, as did their use. However, almost always, the horse was not used for meat or milk but for either a mount or a beast of burden.
     </History>
   </Identity>
   <Loot>
