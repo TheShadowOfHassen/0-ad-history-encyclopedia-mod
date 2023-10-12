@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
-    <History>
-        Various plants that grow in the tropics.
-    </History>
+   <Identity>
+       <History>
+           Various plants that grow in the tropics.
+       </History>
+    </Identity>
   <ResourceSupply>
     <Max>50</Max>
   </ResourceSupply>

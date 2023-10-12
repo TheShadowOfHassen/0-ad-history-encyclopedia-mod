@@ -30,6 +30,7 @@ Flaming Pig:https://en.wikipedia.org/wiki/War_pig#:~:text=Both%20writers%20repor
 Rabbit: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Sheep: Nature's Children Sheep by Dan Doyle Grolier Books ;Academic American Encyclopedia copyright 1993 Grolier inc.:  By ShadowOfHassen
 Tiger: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
+Wildebeest: https://en.wikipedia.org/wiki/Blue_wildebeest& https://www.aboutanimals.com/mammal/blue-wildebeest/: By ShadowOfHassen
 Whale: Nature's Children Whales by Judy Ross Grolier Books, Academic American Encyclopedia copyright 1993 Grolier inc.  DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited:  By ShadowOfHassen
 White Rhinoceros:  Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen
 Walrus: Hermies House Animals of the world & DK Smithsonian Animal the Definitive Guide copyright 2022 Dorling Kindersley Limited: By ShadowOfHassen

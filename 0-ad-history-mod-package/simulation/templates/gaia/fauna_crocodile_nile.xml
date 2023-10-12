@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_fauna_wild_defensive">
   <Attack>
     <Melee>
@@ -23,15 +23,16 @@
     <GenericName>Nile Crocodile</GenericName>
     <SpecificName>Crocodylus niloticus</SpecificName>
     <Icon>gaia/fauna_crocodile.png</Icon>
+    <!-- This history article starts with a quote from Herodotus-->
     <History>
         “Of the crocodile the nature is as follows:—during the four most wintry months this creature eats nothing: she has four feet and is an animal belonging to the land and the water both; for she produces and hatches eggs on the land, and the most part of the day she remains upon dry land, but the whole of the night in the river, for the water in truth is warmer than the unclouded open air and the dew. Of all the mortal creatures of which we have knowledge this grows to the greatest bulk from the smallest beginning; for the eggs which she produces are not much larger than those of geese and the newly-hatched young one is in proportion to the egg, but as he grows he becomes as much as seventeen cubits long and sometimes yet larger. He has eyes like those of a pig and teeth large and tusky, in proportion to the size of his body; but unlike all other beasts he grows no tongue, neither does he move his lower jaw, but brings the upper jaw towards the lower, being in this too unlike all other beasts. He has moreover strong claws and a scaly hide upon his back which cannot be pierced; and he is blind in the water, but in the air he is of very keen sight. Since he has his living in the water he keeps his mouth all full within of leeches; and whereas all other birds and beasts fly from him, the trochilus is a creature which is at peace with him, seeing that from her he receives benefit; for the crocodile having come out of the water to the land and then having opened his mouth (this he is wont to do generally towards the West Wind), the trochilus upon that enters into his mouth and swallows down the leeches, and he being benefited is pleased and does no harm to the trochilus. 
         Now for some of the Egyptians the crocodiles are sacred animals, and for others not so, but they treat them on the contrary as enemies: those however who dwell about Thebes and about the lake of Moiris hold them to be most sacred, and each of these two peoples keeps one crocodile selected from the whole number, which has been trained to tameness, and they put hanging ornaments of molten stone and of gold into the ears of these and anklets round the front feet, and they give them food appointed and victims of sacrifices and treat them as well as possible while they live, and after they are dead they bury them in sacred tombs, embalming them: but those who dwell about the city of Elephantine even eat them, not holding them to be sacred. They are called not crocodiles but champsai, and the Ionians gave them the name of crocodile, comparing their form to that of the crocodiles (lizards) which appear in their country in the stone walls. 
         There are many ways in use of catching them and of various kinds: I shall describe that which to me seems the most worthy of being told. A man puts the back of a pig upon a hook as bait, and lets it go into the middle of the river, while he himself upon the bank of the river has a young live pig, which he beats; and the crocodile hearing its cries makes for the direction of the sound, and when he finds the pig's back he swallows it down: then they pull, and when he is drawn out to land, first of all the hunter forthwith plasters up his eyes with mud, and having so done he very easily gets the mastery of him, but if he does not do so he has much trouble.” -- Herodotus Histories Book 2 Paragraphs 68-70
 
         Crocodiles are placed in the family Crocodylidae like their relatives, the Alligators and Caimans. They are large-bodied and have thick, scaly skin. Their short, powerful legs propel them both in water and on land at very fast speeds.
-        There are many species of crocodiles, and their sizes range from 5-foot dwarf crocodiles to 20-foot-long Nile crocodiles to the Saltwater crocodiles in India, which have grown up to 30 feet.
+        There are many species of crocodiles, and their sizes range from 5-foot dwarf crocodiles to 20-foot-long Nile crocodiles to the Saltwater crocodiles in India, which have grown up to 30 feet (9 meter).
         Unlike what Herodotus says, Crocodiles can see underwater thanks to a pair of transparent eyelids, and their eyes are not like a pig’s but rather a cat’s, which is helpful because crocodiles do most of their hunting at night.
-        Crocodiles have a powerful mouth filled with over 60 teeth, which they use to eat fish, birds and even large game.
+        Crocodiles have a powerful mouth filled with over 60 teeth, which they use to eat fish, birds, and even large game.
     </History>
   </Identity>
   <Loot>

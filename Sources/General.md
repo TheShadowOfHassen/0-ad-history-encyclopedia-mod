@@ -11,3 +11,4 @@ template_structure_economic_storehouse: Adapted from the old encyclopedia articl
 trader mixin: by Vantha
 
 forge: https://craftskills.blog/blacksmithing/history-blacksmithing/evolution-blacksmithing/the-impact-of-blacksmithing-on-ancient-civilizations/ by Vantha
+arsenal mixin: https://medievalheritage.eu/en/2019/07/03/ancient-and-medieval-war-machines-history-and-classification/ by Vantha
