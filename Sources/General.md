@@ -9,3 +9,5 @@ forts: By ShadowOfHassen
 template_structure_economic_storehouse: Adapted from the old encyclopedia article (all the palisades): by ShadowOfHassen
 
 trader mixin: by Vantha
+
+arsenal mixin: https://medievalheritage.eu/en/2019/07/03/ancient-and-medieval-war-machines-history-and-classification/ by Vantha
