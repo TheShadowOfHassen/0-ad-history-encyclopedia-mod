@@ -3,7 +3,7 @@
      Defines the set of actual entities that are part of the same wall construction system (i.e., towers,
      gates, wall segments of various length, etc.) using the WallSet component (to be overridden by child
      templates). -->
-<Entity>
+<Entity parent="|encyclopedia/encyclopedia_wall">
   <Identity>
     <Civ>gaia</Civ>
     <GenericName>Wall</GenericName>
