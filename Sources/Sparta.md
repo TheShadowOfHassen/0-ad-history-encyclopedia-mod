@@ -13,7 +13,7 @@ Brasidas:  https://en.wikipedia.org/wiki/Brasidas https://www.worldhistory.org/B
 Leonidas: https://en.m.wikipedia.org/wiki/Leonidas_I https://www.britannica.com/biography/Leonidas-king-of-Sparta https://www.history.com/topics/ancient-greece/leonidas By Vantha 
 Spartan Soldiers (Infantry Javelineer, Infantry Spearman, Cavalry Javelineer, Cavalry Spearman, Champion Infantry Spearman, Champion Infantry Pikeman, Champion Infantry Swordsman): https://www.spartareconsidered.com/perioikoi.html
 https://www.hellenicaworld.com/Greece/LX/en/Perioikoi.html https://www.worldhistory.org/hoplite/ https://en.m.wikipedia.org/wiki/Spartan_army https://www.britannica.com/topic/helot https://youtu.be/MSsUYZBd414 By Vantha
-Stable: https://www.greecehighdefinition.com/blog/the-significance-of-the-horse-in-ancient-greece & https://en.wikipedia.org/wiki/Hippeis: By ShadowOfHassen
+Stable: https://www.greecehighdefinition.com/blog/the-significance-of-the-horse-in-ancient-greece & https://en.wikipedia.org/wiki/Hippeis: written by ShadowOfHassen, edited by Vantha
 field: https://historylink101.com/2/greece3/jobs-farming.htm andhttps://www.greekboston.com/culture/ancient-history/agriculture/: by ShadowOfHassen
 farmstead: Adapted from old history: by ShadowOfHassen
 corral: https://historylink101.com/2/greece3/jobs-farming.htm andhttps://www.greekboston.com/culture/ancient-history/agriculture/: by ShadowOfHassen

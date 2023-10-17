@@ -8,9 +8,9 @@
     <SpecificName>Hippeús Symmakhikós</SpecificName>
     <Icon>units/spart/cavalry_spearman.png</Icon>
     <History>
-    The Spartans specialized in melee infantry combat. The soldiers had to buy their own equipment, and most could not afford horses. Because of that, the Spartans hardly used any cavalry in battles for centuries. Horsemen in the Spartan army were either allies or mercenaries.
-        The Spartans did recruit a few light-ranged cavalry units carrying javelins (mounted Perioikoi) themselves. However, they were neither well-trained nor well-equipped. Without allied or mercenary units, cavalry always was a very weak part of the Spartan formation.
-      </History>
+        The Spartans specialized in melee infantry combat. The soldiers had to buy their own equipment, and most could not afford horses. Because of that, the Spartans used hardly any cavalry of their own in battles. They heavily relied on their Greek allies to provide cavalrymen for their armies. Without allied or mercenary units, cavalry was always a big weakness in the Spartan army.
+        The typical Greek cavalryman who would fight for Sparta carried a spear that could be thrown like a javelin or used as a lance in close-range combat, as well as maybe a sword. Some wore different pieces of body armor. Their horses had no horseshoes, bridles, stirrups, or saddles—just a piece of cloth draped over their backs.
+    </History>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
