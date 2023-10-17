@@ -1,3 +1,5 @@
+Sparta Overview: https://www.britannica.com/place/Sparta & https://www.worldhistory.org/sparta/ based on the old overview: By ShadowOfHassen
+
 Civic center: Plutarch Life of lycurgus&  Daily Life of the Ancient Greeks By Robert Garland: ShadowOfHassen 
 Houses: Adapted from the old 0 A.D. houses.xml
 Female Citizens: Plutarch: By ShadowOfHassen
