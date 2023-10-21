@@ -7,6 +7,11 @@
     <Requirements>
       <Techs datatype="tokens">-phase_city iphicratean_reforms</Techs>
     </Requirements>
+    <History>
+        Besides ramming, boarding and taking over the enemy's ship was a common tactic in naval warfare. Consequently, each Athenian warship was garrisoned by a number of marines, depending on the circumstances. In addition to the 170 oarsmen on each trireme, around 15 to 30 marine soldiers were part of the ship's crew. It is estimated that around 2 out of 3 of those were naval hoplites (called “Epibatai”); the rest were archers, mostly mercenaries, for example, from Crete.
+        The “Epibatai” on the other hand, were Athenians. It seems like many of them were recruited from the fourth (and lowest) class of Athenian citizens, and a good few from the third social class as well, who usually fought as hoplites in the land army.
+        As mentioned above, the “Epibatai” also fought as hoplites, carrying a large round shield, a 2-meter-long spear, and a sword as a secondary weapon. Compared to those fighting on land, they were probably armed lighter to compensate for the need to move between ships and to enable them to swim should they fall overboard.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/infantry_swordsman_c.xml</Actor>
