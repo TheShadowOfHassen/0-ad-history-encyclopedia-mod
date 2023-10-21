@@ -30,6 +30,9 @@
     <Tooltip>Fish the waters for food.</Tooltip>
     <Classes datatype="tokens">-ConquestCritical</Classes>
     <VisibleClasses datatype="tokens">FishingBoat</VisibleClasses>
+    <History>
+        Fishing, like hunting, was a very convenient way of gathering food. All that was needed was a body of water and a way to get the fish out. Usually that was done by either spear, net, or some combination of string and hook (much like the modern fishing pole). The usage of the tool varied on the culture and the scale which the people fished.
+    </History>
   </Identity>
   <Loot>
     <wood>10</wood>
