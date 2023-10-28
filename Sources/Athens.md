@@ -7,3 +7,4 @@ Cretan Mercenary Archer: https://kmhistories.wordpress.com/2018/08/13/cretan-arc
 Scythian archers: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha
 Prodromoi: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha 
 Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html
+Spearman: https://www.warhistoryonline.com/war-articles/athenian-hoplites.html by Vantha
