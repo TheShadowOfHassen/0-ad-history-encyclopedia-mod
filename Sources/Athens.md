@@ -6,4 +6,5 @@ Female Citizens: Daily Life of the Ancient Greeks By Robert Garland & Eyewitness
 Cretan Mercenary Archer: https://kmhistories.wordpress.com/2018/08/13/cretan-archers/ by Vantha
 Scythian archers: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha
 Prodromoi: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha 
-Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html
+Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html by Vantha
+slinger: https://military-history.fandom.com/wiki/Psiloi by Vantha
