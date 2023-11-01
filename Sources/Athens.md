@@ -8,3 +8,4 @@ Scythian archers: https://www.thecollector.com/scythian-archers-ancient-athens/ 
 Prodromoi: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha 
 Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html by Vantha
 slinger: https://military-history.fandom.com/wiki/Psiloi by Vantha
+stable: https://stefanosskarmintzos.wordpress.com/2014/02/14/ancient-greek-cavalry-1000-350-bc/ by Vantha
