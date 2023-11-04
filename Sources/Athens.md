@@ -8,5 +8,8 @@ Wonder(Parthenon):  Daily Life of the Ancient Greeks By Robert Garland &https://
 Cretan Mercenary Archer: https://kmhistories.wordpress.com/2018/08/13/cretan-archers/ by Vantha
 Scythian archers: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha
 Prodromoi: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha 
+Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html
+Marine Champion: https://orca.cardiff.ac.uk/id/eprint/54643/1/U585032.pdf
+by Vantha
 Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html by Vantha
-slinger: https://military-history.fandom.com/wiki/Psiloi by Vantha
+slinger: https://military-history.fandom.com/wiki/Psiloi by Vantha main
