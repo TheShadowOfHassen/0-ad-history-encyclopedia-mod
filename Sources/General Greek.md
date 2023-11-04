@@ -27,3 +27,5 @@ by Vantha
 
 Athenian, Macedonian, Spartan healers:  https://www.britannica.com/biography/Hippocrates 
 by Vantha
+
+peltasts: https://www.worldhistory.org/Peltast/ by Vantha

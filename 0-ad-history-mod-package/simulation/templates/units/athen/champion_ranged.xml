@@ -4,6 +4,12 @@
     <GenericName>Scythian Archer</GenericName>
     <SpecificName>Toxótēs Skythikós</SpecificName>
     <Icon>units/athen/champion_ranged.png</Icon>
+    <History>
+        Everything we know about the Scythian Archers in Athens comes from ancient Greek literature and artwork. Although the evidence is scarce, it is enough to safely assume that they did indeed exist.
+        According to some sources, the state of Athens purchased Scythian slaves in the early 5th century and assigned them under the command of the eleven elected magistrates of Athens. In many texts, the Scythian Archers were called “speusinioi”, named after a certain “Speusis” or “Speusinos”, allegedly the founder of this Scythian force. The number of these Scythian Archers in Athens changed over time, ranging from 300 to over 1000. It was their duty to ensure public safety, enforce laws, arrest troublemakers, and guard the city of Athens itself. The Scythian Archers sort of acted like a police force in Athens.
+        The Scythians were a nomadic people who inhabited the vast steppe of Eurasia. While the Greeks esteemed their horsemanship and archery skills, they also regarded them as very barbarous, uncivilized, and cruel. The reason Athens employed such foreigners might be that, due to the xenophobia present in ancient Greek society, the Scythians intimidated the Athenian people more than a police force composed of locals would have.
+        It is doubtful that the Scythians were equipped with bows in the narrow and crowded streets of Athens. Moreover, the terms “Scythians” and “archers” might have been generic labels for any exotic foreigners. Any, as the Greeks called them, “barbaroi” (meaning exactly what it sounds like), not necessarily referring to actual Scythians or archers. Therefore, the Scythian Archers might very well neither have actually been Scythians nor archers.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/infantry_archer_c.xml</Actor>
