@@ -15,12 +15,12 @@ Cypress(Plain wild and windswept): Hermes House's Trees Of The World by Tony Rus
 Date Palm: Adapted from the old history: By ShadowOfHassen
 Dead Tree: By ShadowOfHassen
 Elm Tree: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-European Beech (Normal and Autumn Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
+European Beech (Normal and autumn Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 European Birch: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Fir(All of them): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen 
 Juniper Prickly: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Mangrove:Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-Maple Tree(Both normal and Autumn): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
+Maple Tree(Both normal and autumn): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Mediterranean Fan Palm: Adapted from the old History: ShadowOfHssen
 Oak(all Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Hungarian Oak (All Variants): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
@@ -29,7 +29,7 @@ Olive Tree: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler a
 Doum Palm: https://en.wikipedia.org/wiki/Hyphaene_thebaica: ByShadowOFHassen
 Palmyra Palm: https://en.wikipedia.org/wiki/Borassus_flabellifer: ShadowOfHassen
 Palm Tropic & Palm Tropical: Adapted from old History, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
-Pine & Winter Pine: Adapted from old history, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
+Pine & winter Pine: Adapted from old history, supplemented with Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Black Pine: Same as normal Pine: By ShadowOfHassen
 Pine Maritime( Both short and normal): Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
 Poplars and Poplar Lombardy: Hermes House's Trees Of The World by Tony Rustle, Catherine Cutler and Martin Walters: by ShadowOfHassen
