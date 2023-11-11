@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="bush|template_gaia_tree">
+  <Identity>
     <History>
         A deciduous bush commonly found in temperate forests and fields. It is winter, and the bush's limbs are bare and covered with snow. 
     </History>
+  </Identity>
   <ResourceSupply>
     <Max>50</Max>
   </ResourceSupply>

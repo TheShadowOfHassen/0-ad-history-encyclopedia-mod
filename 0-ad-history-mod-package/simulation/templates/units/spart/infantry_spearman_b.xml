@@ -14,11 +14,9 @@
     <SpecificName>Hoplítēs Períoikos</SpecificName>
     <Icon>units/spart/infantry_spearman.png</Icon>
     <History>
-        The Perioikoi were second-tier citizens of Sparta. Unlike the Spartan citizens, Perioikoi were not professional soldiers but produced weapons, food, and other goods.
-        In wartime, they fought for Sparta equipped as Hoplites, just like the Spartiates.
-        Hoplites were equipped with a large round shield with the Greek letter Λ (lambda) for Lacedaemon written on it. Their main weapon was a long spear, but they also carried a short sword as a secondary weapon for close-range melee combat. Those who could afford it also wore different parts of body armor.
-        The Perioikoi were not as well-trained as the Spartiates but played an important role in many battles for Sparta.
-      </History>
+        The Perioikoi formed the second tier of Spartan society. They were free, but not full citizens, and had the right to own land and slaves. Unlike full Spartan citizens, Perioikoi were not obligated to become professional soldiers but instead drove the Spartan economy by producing weapons, food, and other goods.
+        In wartime, Perioikoi fought alongside full-citzen Spartans. They had the financial means to purchase their own hoplite equipment, consisting of a shield, a spear, perhaps a sword and helmet, and, for those who could afford it, various armor pieces. While Perioikoi weren't as well equipped and trained as Spartan hoplites, they still formed a substantial and essential part of Sparta's hoplite force. Especially when the number of full-citizen Spartans declined, the importance shifted more and more towards the Perioikoi, with some even getting elevated to full-citizen status.     
+    </History>
   </Identity>
   <Promotion>
     <Entity>units/spart/infantry_spearman_a</Entity>
