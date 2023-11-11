@@ -9,6 +9,8 @@ Cretan Mercenary Archer: https://kmhistories.wordpress.com/2018/08/13/cretan-arc
 Scythian archers: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha
 Prodromoi: https://www.thecollector.com/scythian-archers-ancient-athens/ by Vantha 
 Sword Cavalry: https://www.hellenicaworld.com/Greece/LX/en/Hippeis.html
+Spear Champions (Epilektoi):
+https://core.ac.uk/download/pdf/38835916.pdf (I know it's German, but that's the best source I could find)
 Civic Center: https://en.wikipedia.org/wiki/Athenian_democracy & Daily Life of the Ancient Greeks By Robert Garland & https://www.thevintagenews.com/2017/01/23/in-ancient-athens-citizens-could-vote-to-banish-any-person-from-the-city-state-for-10-years/: By ShadowOfHassen
 Spearman: https://www.warhistoryonline.com/war-articles/athenian-hoplites.html by Vantha
 Fishing:  Daily Life of the Ancient Greeks By Robert Garland: By ShadowOfHassen
