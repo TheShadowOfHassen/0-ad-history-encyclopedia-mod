@@ -6,7 +6,9 @@
   <Identity>
     <Civ>athen</Civ>
     <GenericName>Athenians</GenericName>
-    <History>As the cradle of Western civilization and the birthplace of democracy, Athens was famed as a center for the arts, learning and philosophy. The Athenians were also powerful warriors, particularly at sea. At its peak, Athens dominated a large part of the Hellenic world for several decades.</History>
+    <History>
+        The Greek city state Athens is famous remembered a famed center for the arts, learning, and philosophy, as well as one of the earliest forms of democracy. However, they were also powerful warriors.
+        Ancient Athens rose and fell as an imperial power until 330 BC when they lost the Battle of Chaeronea to King Phillip II of Macedonia. While after that it never rose again to power, Athens still was renown for its learning and its scholars were well sought out as teachers.</History>
     <Icon>emblems/emblem_athenians.png</Icon>
   </Identity>
   <Player>
