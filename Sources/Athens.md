@@ -16,3 +16,6 @@ Spearman: https://www.warhistoryonline.com/war-articles/athenian-hoplites.html b
 Fishing:  Daily Life of the Ancient Greeks By Robert Garland: By ShadowOfHassen
 Marine Champion: https://orca.cardiff.ac.uk/id/eprint/54643/1/U585032.pdf
 by Vantha
+prytaneion:
+https://dbpedia.org/page/Prytaneion
+by Vantha
