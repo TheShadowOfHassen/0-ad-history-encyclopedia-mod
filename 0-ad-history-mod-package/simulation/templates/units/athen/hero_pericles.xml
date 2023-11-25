@@ -8,6 +8,12 @@
     <GenericName>Pericles</GenericName>
     <SpecificName>Periklēs</SpecificName>
     <Icon>units/athen/hero_pericles.png</Icon>
+    <History>
+        Pericles was one of, if not the single, most influential Athenian politician of his time. He governed Athens for multiple decades during its Golden Age, in the mid-5th century BC (between the Persian and Peloponnesian Wars), which is why this period is also often called the “Age of Pericles”. 
+        Pericles promoted art, literature, and philosophy and followed a radical pro-democracy and liberal policy. He had many temples built on the Acropolis, including the famed Parthenon. Pericles essentially formed the ancient Athens we know today: a center of thinking, learning, art, and democracy.
+        Under his rule, Athens' also gained more and more power over its Greek allies and other Greek city-states; the Delian League (an alliance of Greek city-states against Persia) turned into an Athenian empire. However, this was what would ultimately lead to the outbreak of the Peloponnesian War against Sparta. 
+        Pericles' strategy to defeat Sparta was simple: He evacuated the Athenian countryside to avoid engagement with Sparta's superior armies and brought the population into the Long Walls, protecting Athens and passage to its port, Piraeus. Athens' strong fleets were responsible to acquire necessary food supplies, as well as directly attack Sparta and its allies at sea. This strategy worked well, until a plague broke out and devastated a large part of Athens' population. Pericles himself grew ill as well and died. His loss might be one of the reasons Athens ultimately lost the war.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_infantry_spearman_pericles.xml</Actor>
