@@ -18,6 +18,10 @@ Spearman: https://www.warhistoryonline.com/war-articles/athenian-hoplites.html b
 Fishing:  Daily Life of the Ancient Greeks By Robert Garland: By ShadowOfHassen
 Marine Champion: https://orca.cardiff.ac.uk/id/eprint/54643/1/U585032.pdf by Vantha
 by Vantha
+Themistocles:
+https://www.worldhistory.org/Battle_of_Salamis/
+https://www.britannica.com/biography/Themistocles
+by Vantha
 Pericles: https://www.britannica.com/biography/Pericles-Athenian-statesman by Vantha
 Iphicrates:
 https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0084%3Abook%3D15%3Achapter%3D44%3Asection%3D4
