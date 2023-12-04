@@ -5,6 +5,13 @@
     <SelectionGroupName>units/han/support_healer_b</SelectionGroupName>
     <SpecificName>Yīshī</SpecificName>
     <Icon>units/han/support_healer.png</Icon>
+    <History>
+        Traditional Chinese Medicine is a widely practiced method today, and it already was over two millennia ago, in the times of the Han Dynasty.
+        The most important concept of Traditional Chinese Medicine is Qi, the vital energy embracing everything, material and energy, including the human body. The human body is in a constant state of flux of Qi; should this flux get disturbed, the body will sicken.
+        Another essential concept is Yinyang. Yinyang describes two complementary natural forces, Yin and Yang, forming the material and energy of the universe. Yin symbolizes darkness, passiveness, and retraction; Yang on the other hand, represents the opposite: light, activity, and expansion. Yinyang applies to everything we know and also appears in two-sided systems in nature, such as day and night, the two human sexes, and even colors and numbers (odd and even).
+        A third substantial concept is Wuxing. Wuxing names five elements that make up all matter in the universe: metal, earth, water, fire, and air. They complement, interact with, and influence each other. And they are, similar to Yinyang, linked to natural systems consisting of five components, such as the Five Virtues, organs, planets, colors, and tones.
+        Traditional Chinese Medicine is a complex and vast field, and, as you might have noticed, many of its methods and schemes are tied to religions like Taoism and Confucianism. The goal is to detect imbalances in these systems, be they Qi, Yinyang, Wuxing, or others, and to restore equilibrium, as it is believed that health derives from the harmony of nature's systems.
+    </History>
   </Identity>
   <Promotion>
     <Entity>units/han/support_healer_a</Entity>
