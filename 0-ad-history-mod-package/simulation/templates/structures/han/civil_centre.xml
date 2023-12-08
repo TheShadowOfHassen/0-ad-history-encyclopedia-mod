@@ -10,6 +10,12 @@
   <Identity>
     <Civ>han</Civ>
     <SpecificName>Guān Shǔ</SpecificName>
+    <History>
+         The Han empire was governed by an emperor, descending from the Han dynasty. He was the supreme authority in both legal and military matters. However, the emperor was assisted by a large, complex bureaucracy. This bureaucracy had many layers and institutions which were supposed to simplify political procedures without letting anyone (except the emperor) amass power. It is said to, in the 1st century BC, have been comprised of 130,000 officials. The system was structured as follows (simplified):
+         At the top were three officials: the Chancellor, The Grand Commandant, and the Imperial Secretary. These three were collectively called the Three Excellencies; each were responsible for a different domain: The Chancellor stood above the population and the lands and was responsible for the state's finances. The Grand Commandant held command over the empire's military. The Imperial Secretary had the duty of overseeing and monitoring the government and its officials.
+         Below these were nine ministries, which operated on different matters such as finance, justice, and ceremonies. Government service encompassed twelve total levels; the officials were classified and could rank up based on their capabilities and merit, not their ancestry, which was meant to helped prevent corruption.
+         The Han Empire was divided into different political units: into provinces, commanderies, counties, and districts, to facilitate administration across its vast lands. At each of these levels there were lower and lower governments who oversaw the different administrations.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="33.0" width="41.0"/>
