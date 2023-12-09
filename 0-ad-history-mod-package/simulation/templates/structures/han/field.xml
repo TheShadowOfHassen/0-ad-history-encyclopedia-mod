@@ -14,6 +14,9 @@
     <Civ>han</Civ>
     <SpecificName>Dàotián</SpecificName>
     <GenericName>Rice Paddy</GenericName>
+    <History>
+      Rice was the staple grain in Ancient China. It was eaten by everyone from the peasants to the emperor himself. Rice required a lot of water to grow so the Chinese flooded the rice paddies.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="18.0" width="18.0"/>
