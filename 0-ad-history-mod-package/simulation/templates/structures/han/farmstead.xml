@@ -15,6 +15,9 @@
   <Identity>
     <Civ>han</Civ>
     <SpecificName>Nóng Shè</SpecificName>
+    <History>
+        After the harvest, the Han stored grains such as rice and wheat granaries in case siege or famine.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="16.0" width="16.0"/>
