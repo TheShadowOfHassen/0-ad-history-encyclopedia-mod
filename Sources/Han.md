@@ -1,4 +1,7 @@
 
+Temple: https://totallyhistory.com/confucianism-during-the-han-dynasty/
+by Vantha
+
 Healer: https://www.britannica.com/science/traditional-Chinese-medicine by Vantha
 
 Civic Center: https://www.asiaculturaltravel.co.uk/political-reforms-of-the-han-dynasty/ by Vantha
@@ -7,7 +10,10 @@ Ministers: https://www.academia.edu/19589765/The_Administration_of_the_Later_Han
 Rice Paddy/ Field: See inside an ancient chinese town : by Shadow Of Hassen
 Civic Center: https://www.asiaculturaltravel.co.uk/political-reforms-of-the-han-dynasty/ by Vantha
 
+
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk
 by Vantha
+
+
 
 
