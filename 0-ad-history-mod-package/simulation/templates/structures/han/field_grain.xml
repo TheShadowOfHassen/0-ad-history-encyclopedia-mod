@@ -3,6 +3,9 @@
   <Identity>
     <Civ>han</Civ>
     <SpecificName>Tián</SpecificName>
+    <History>
+        While rice is the grain commonly associated with China, in the north it was more often to grow wheat and millet for grain or hemp for cloth.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/plot_field_chin.xml</Actor>
