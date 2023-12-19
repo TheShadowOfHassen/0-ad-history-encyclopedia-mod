@@ -10,6 +10,9 @@
   <Identity>
     <Civ>han</Civ>
     <SpecificName>Xù Lán</SpecificName>
+    <History>
+       The land in ancient China was well-suited for farming crops, and so that was what most farmers focused their efforts on. However, most farmers still kept animals. Smaller animals such as pigs, chickens, and goats were kept around the farm for eggs, milk, and meat. Larger animals took more resources to raise but a draft cow was invaluable when plowing.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="18.0" width="20.0"/>
