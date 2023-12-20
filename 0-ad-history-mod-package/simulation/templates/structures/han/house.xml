@@ -10,6 +10,10 @@
   <Identity>
     <Civ>han</Civ>
     <SpecificName>Mín Jū</SpecificName>
+    <History>
+        Houses in the ancient Han period were, like everywhere else in the world, separated into two different kinds. The squat, straw thatched houses of the poor. Or the sprawling compounds of the wealthy.
+        In ancient china the houses of the rich were, like a great deal of other things, constructed with an extreme function of order, almost even to extreme. The many buildings of the rich mansions were built running north-south. And  were laid out symmetrically around a main building, a style known as Siheyuan. The separate buildings were designated for different branches of the extended family. For example a wealthy merchant would have separate building for his parents,  another his children and their families and more for his wives,  servants. Other buildings could be shrines, or places to store food or prepare it. The buildings were connected by courtyards and the entire compound was surrounded by a wall.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="15.0" width="16"/>
