@@ -12,3 +12,8 @@ Ministers: https://www.academia.edu/19589765/The_Administration_of_the_Later_Han
 Rice Paddy/ Field: See inside an ancient chinese town : by Shadow Of Hassen
 Civic Center: https://www.asiaculturaltravel.co.uk/political-reforms-of-the-han-dynasty/ by Vantha
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
+
+Spearman: https://greatmingmilitary.blogspot.com/2018/05/evolution-of-shields-in-china-part-1.html?
+https://splinteredstaff.wordpress.com/2017/08/22/chinese-spear-king-of-the-battlefield-%E4%B8%AD%E5%9C%8B%E6%A7%8D-%E4%B8%AD%E5%9C%8B%E6%9E%AA-zhongguo-qiang/ by Vantha
+
+
