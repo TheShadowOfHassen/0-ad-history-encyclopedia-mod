@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="encyclopedia/encyclopedia_athens_walls|template_wallset">
+<Entity parent="template_wallset|encyclopedia/encyclopedia_athens_walls">
   <Identity>
     <Civ>athen</Civ>
     <SpecificName>Teichos</SpecificName>
