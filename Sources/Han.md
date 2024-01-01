@@ -15,9 +15,18 @@ Rice Paddy/ Field: See Inside an Ancient Chinese Town  : by Shadow Of Hassen
 
 Civic Center: https://www.asiaculturaltravel.co.uk/political-reforms-of-the-han-dynasty/ by Vantha
 
+trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
+
+Catapult: https://www.academia.edu/25685686/The_Traction_Trebuchet_A_Triumph_of_Four_Civilizations by Vantha
+
+
 Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
+
+
+
+
