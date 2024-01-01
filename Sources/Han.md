@@ -17,6 +17,9 @@ Civic Center: https://www.asiaculturaltravel.co.uk/political-reforms-of-the-han-
 
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
 
+Spearman: https://greatmingmilitary.blogspot.com/2018/05/evolution-of-shields-in-china-part-1.html?
+https://splinteredstaff.wordpress.com/2017/08/22/chinese-spear-king-of-the-battlefield-%E4%B8%AD%E5%9C%8B%E6%A7%8D-%E4%B8%AD%E5%9C%8B%E6%9E%AA-zhongguo-qiang/ by Vantha
+
 Catapult: https://www.academia.edu/25685686/The_Traction_Trebuchet_A_Triumph_of_Four_Civilizations by Vantha
 
 
@@ -24,9 +27,4 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
-
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
-
-
-
-
