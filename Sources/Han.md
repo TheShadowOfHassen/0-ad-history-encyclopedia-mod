@@ -28,3 +28,8 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 trader (Zhang Qian): https://youtube.com/watch?v=Fe5GisuuMdk by Vantha
+
+
+Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
+
+
