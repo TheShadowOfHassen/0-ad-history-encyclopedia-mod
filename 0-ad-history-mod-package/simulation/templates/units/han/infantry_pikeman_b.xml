@@ -23,6 +23,11 @@
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
+    <History>
+        The Ji was a very popular weapon in the Han dynasty. It consisted of two blades. The forward blade was sharpened on both sides and had a pointed tip. The second blade was sharpened similarly and was set at a 90-degree angle from the forward blade, and usually measured half the length of the first blade. The two blades of a Ji were forged as one piece and tied to the pole, with the second blade running through a hole in the pole to increase stability.
+        The Ji blade itself, as well as the pole it was attached to, came in all different sizes depending on their purpose. The chariots' Ji was held with both hands and had a long pole with only a small blade. The cavalry's Ji was shorter and had a larger blade. Some infantry used a similar one. However, foot soldiers wielded a Ji with a much shorter pole with one hand. This left the other hand free to carry a shield, or maybe a second Ji. The blade alone could also be used as a short-range weapon, like a dagger. The blade, on its own, was also light enough to be thrown like a knife.
+        The big strength of the Ji blade laid in its versatility. It could, like regular spear, for spearing and thrusting. But the forward blade, being sharp on its sides, also allowed for slashing and slicing. The sideward blade could be used for piercing strikes and was also sturdy enough for pushing or pulling. And unlike most spears, pikes, or halberds, the Ji was also very suitable for defense. While the pole and both blades could, of course, block incoming attacks, it was the shape of the blade itself that gave it its remarkable defensive capabilities. In the right angle between the forward and sidewards blades, the Ji could catch the enemy's weapon and redirect it.
+    </History>
   </Identity>
   <Promotion>
     <Entity>units/han/infantry_pikeman_a</Entity>
