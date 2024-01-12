@@ -38,5 +38,7 @@ Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
 
+Champion Spearman: https://www.academia.edu/19589765/The_Administration_of_the_Later_Han_Empire by Vantha
+
 
 
