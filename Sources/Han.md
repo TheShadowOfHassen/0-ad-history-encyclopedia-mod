@@ -39,4 +39,6 @@ Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
 
 
+Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samurai-archives.com/wiki/Mingtang & https://www.britannica.com/place/China/Rise-of-the-empress-Wuhou#ref589973: by Shadow of Hassen
 
+Imperial Pallace: By ShadowOfHassen
