@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_ship">
+<Entity parent="template_unit_ship" >
   <Cost>
     <BuildTime>20</BuildTime>
     <Resources>
@@ -16,6 +16,9 @@
   <Identity>
     <GenericName>Merchantman</GenericName>
     <SelectionGroupName>template_unit_ship_merchant</SelectionGroupName>
+    <History>
+        Trade on the high seas was a dangerous but lucrative activity. Merchants braved, rough seas, storms, and pirates, while traversing sea lanes that spanned empires. On the way the merchants and sailors did not only buy and sell goods, but spread news, customs, and ideas, enriching the societies they encountered. 
+    </History>
     <Tooltip>Trade between docks. Garrison a Trader aboard for additional profit (+20% for each garrisoned). Gather profitable aquatic treasures.</Tooltip>
     <Classes datatype="tokens">-ConquestCritical</Classes>
     <VisibleClasses datatype="tokens">Trader Bribable</VisibleClasses>
