@@ -38,5 +38,7 @@ Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
 
+tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha
+
 
 
