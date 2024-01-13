@@ -2,9 +2,9 @@
 <Entity>
   <Identity>
     <History>
-        The battering ram was one of the most popular siege weapons in the ancient world, and was used to damage walls or make them collapse.
-        A large pole was hung by ropes on a horizontal beam. It was pulled back and released. The pole swung forward, hitting the wall at maximum speed. The people operating the ram were protected by a roofed shell. The whole construction rolled on wheels because it was too heavy to be carried.
-        Defenders tried to stop battering rams by throwing heavy rocks at them or trying to set them on fire.
+        Battering rams are one of, if not the single, most popular siege engines of all time. They came in all different sizes and shapes and were generally very easy to construct. The earliest versions were just groups of soldiers carrying long poles, often tree logs, and ramming them against the targets.
+        However, during classical antiquity, 0 A.D.'s timeframe, battering rams had already been developed further: The pole was usually hung by ropes or chains. When ramming, it was pulled back and released. The pole then swung forward, its head, often reinforced with iron or steel, hitting the target. Because the entire heavy pole's force was concentrated on the tip, even small rams could break through strong gates and crack meter-thick walls.
+        The people operating the ram were protected from projectiles by a canopy, either carried by the soldiers themselves or rolling on wheels. Since it was normally made from wood, defenders often tried to set it on fire. To counter that, the construction was covered in nonflammable materials, wet hides, for example. Defenders also tried to immobilize or damage battering rams by dropping or throwing heavy rocks on them.
     </History>
   </Identity>
 </Entity>
