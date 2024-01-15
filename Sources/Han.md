@@ -36,7 +36,8 @@ Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 
 
-Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
 
+Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
+barracks: https://totallyhistory.com/han-dynasty-military/ by Vantha
 
 
