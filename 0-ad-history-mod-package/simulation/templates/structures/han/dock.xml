@@ -8,6 +8,11 @@
     <Civ>han</Civ>
     <SpecificName>Mǎtóu</SpecificName>
     <Icon>structures/dock.png</Icon>
+    <History>
+        While the Han dynasty can be denoted as primarily a land empire, especially in the East and South, they kept a presence at sea as well. Han merchants, for example, engaged in trade along the Maritime Silk Road along the southern and eastern coasts of Asia.
+        And the Han dynasty is considered the first in China's history to develop a capable navy. It mainly consisted of tower ships numbering 2,000 and employing 200,000 seamen. These fleets, however, were not suited for the high seas and operated only in riverine or coastal regions. An example is the series of conflicts with southern Minyue State in the late 2nd century BC, where the Han navy drove along the coast to reach the target. And the Han fleets proved superior, eventually putting down a rebellion and annexing the territory.
+        Although maritime activities were generally still of comparably low priority for the Han, they made important technical advancements such as inventing the stern rudder and building the first war junks, which laid the foundation for the dynasties to come.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="32.0" width="26.0"/>
