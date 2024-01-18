@@ -44,5 +44,7 @@ Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Van
 
 tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha
 
+Han cavalry in general (cavalry spearman): https://www.worldhistory.org/article/1142/cavalry-in-ancient-chinese-warfare/ by Vantha
+
 
 
