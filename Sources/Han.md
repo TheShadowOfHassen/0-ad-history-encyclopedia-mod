@@ -46,5 +46,7 @@ tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/2021091
 
 Champion Spearman: https://www.academia.edu/19589765/The_Administration_of_the_Later_Han_Empire by Vantha
 
+Tower ship: https://en.wikipedia.org/wiki/Louchuan by Vantha
+
 
 

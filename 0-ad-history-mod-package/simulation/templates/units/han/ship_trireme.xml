@@ -8,6 +8,12 @@
     <Civ>han</Civ>
     <SpecificName>Lóu Chuán</SpecificName>
     <Icon>units/han/ship_trireme.png</Icon>
+    <History>
+        The most common ships in Han fleets were the so-called tower or castle ships. They came in all different sizes, with the largest ones measuring over 110 feet (33 meters) in height. The larger ones formed the core of the fleet, while the smaller ones served as support ships. Tower ships are often described as floating fortresses, because they had multiple stories of wooden bulwarks, which looked identical to those on fortifications on land.  The largest variants comprised three stories, others only one or two.
+        There was one big weakness of this towering design: the ship's high center of gravity resulted in a low stability on the water, which meant the ships really couldn't sail on the high seas. However, this wasn't that big of a problem since the Han navy primarily operated in coastal or riverine regions.
+        The sides, once described as looking like city walls, had openings to shoot through projectiles. And to prevent it from catching fire, the outside was coated in wet or nonflammable materials. Tower ships also often carried large mangonels aboard, though the main tactics still remained boarding enemy ships.
+        Besides being an effective warship, giant tower ships probably were prestige items, showcasing the advanced shipbuilding capabilities.
+    <\History>
   </Identity>
   <Selectable>
     <Overlay>
