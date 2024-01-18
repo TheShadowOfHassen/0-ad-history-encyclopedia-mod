@@ -18,7 +18,7 @@
        The dagger-axe or “ge” had a dagger-like blade on a long handle. Due to its length, the dagger-axe could even reach enemy chariots. The chariot's crew wore various types of armor, like leather, and the horses too.
        Chariots were used for attack, defense, and pursuit, and there were different models for the different needs. Because chariots were vulnerable when surrounded, they were generally accompanied by infantry. When chariots were used to attack, they fought as shock units, charging at the enemy line at their full speed of around 13 mph (20 km/h). The enemy's  formations oftentimes could not withstand the impact and were broken up, this usually resulted in a defeat. In fact, for some time, a state's military power was mostly determined by the number of chariots it could deploy.
        However, the chariot's effectiveness was tied to flat terrain. A rugged battleground rendered chariots almost useless. They were also powerless against cavalrymen, who were not only much faster but also more flexible. Because of this, as the battle conditions changed over time, the chariot declined in importance. During the Han period, the presence of chariots on the battlefield had shrunk to almost nothing.
-    <\History>
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/han/chariot_archer_m.xml</Actor>
