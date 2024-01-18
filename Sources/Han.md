@@ -44,5 +44,7 @@ Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Van
 
 tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha
 
+stable: https://ecommons.cornell.edu/server/api/core/bitstreams/d2fd7955-8bbb-425c-874c-2b05ca3bb4de/content by Vantha
+
 
 
