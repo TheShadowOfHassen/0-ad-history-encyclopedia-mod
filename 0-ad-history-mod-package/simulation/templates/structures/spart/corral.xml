@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_resource_corral|encyclopedia/encyclopedia_greek_coral">
+<Entity parent="template_structure_resource_corral|encyclopedia/encyclopedia_greek_corral">
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Epaulos</SpecificName>
