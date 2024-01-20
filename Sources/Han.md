@@ -54,5 +54,10 @@ Tower ship: https://en.wikipedia.org/wiki/Louchuan by Vantha
 chariot: https://www.youtube.com/watch?v=ZaOMQpipQJ0 by Vantha
 
 
+Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samurai-archives.com/wiki/Mingtang & https://www.britannica.com/place/China/Rise-of-the-empress-Wuhou#ref589973: by Shadow of Hassen
 
+
+
+
+Imperial Pallace: By ShadowOfHassen
 
