@@ -33,13 +33,13 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
-
+Han Acadamy: https://en.wikipedia.org/wiki/Taixue by ShadowOfHassen
 
 
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
 
 
-
+Imperial ministry: Vantha's article on the Ministers & https://en.wikipedia.org/wiki/Nine_Courts: By ShadowOfHassen
 
 
 tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha

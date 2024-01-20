@@ -33,6 +33,9 @@
     <Requirements>
       <Techs datatype="tokens">-phase_village phase_city</Techs>
     </Requirements>
+    <History>
+        The Imperial academy or, Taixue, was the highest place of study in ancient imperial china. The academy taught students Confucianism and literature as well as preparing them to take jobs in the empire’s government. It was a large school, at its peak having over 30,000 students and facalty. 
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="22.0" width="22.0"/>
