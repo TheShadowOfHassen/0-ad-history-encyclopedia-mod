@@ -25,7 +25,7 @@
   <Identity>
     <Civ>han</Civ>
     <GenericName>Imperial Academy</GenericName>
-    <SpecificName>Dìguó Xuéyuàn</SpecificName>
+    <SpecificName>Taixue</SpecificName>
     <SelectionGroupName>structures/han/academy</SelectionGroupName>
     <Tooltip>Train Champions and research their technologies.</Tooltip>
     <VisibleClasses datatype="tokens">-Village City Academy</VisibleClasses>
