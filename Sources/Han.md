@@ -34,14 +34,10 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 
-
-
+barracks: https://totallyhistory.com/han-dynasty-military/ by Vantha
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
 
 dock: https://en.wikipedia.org/wiki/Military_of_the_Han_dynasty#Navy by Vantha
-
-
-
 
 
 tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha
