@@ -34,10 +34,23 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
 
-
-
-
-Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0
 barracks: https://totallyhistory.com/han-dynasty-military/ by Vantha
+Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
+
+dock: https://en.wikipedia.org/wiki/Military_of_the_Han_dynasty#Navy by Vantha
 
 
+tiger and leopard cavalry: https://www.bannedbook.org/en/bnews/lifebaike/20210917/1624875.html by Vantha
+
+horse in general(stable) and cavalry mounts (cavalry archer): https://ecommons.cornell.edu/server/api/core/bitstreams/d2fd7955-8bbb-425c-874c-2b05ca3bb4de/content by Vantha
+
+Champion Spearman: https://www.academia.edu/19589765/The_Administration_of_the_Later_Han_Empire by Vantha
+
+Tower ship: https://en.wikipedia.org/wiki/Louchuan by Vantha
+
+chariot: https://www.youtube.com/watch?v=ZaOMQpipQJ0 by Vantha
+
+
+Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samurai-archives.com/wiki/Mingtang & https://www.britannica.com/place/China/Rise-of-the-empress-Wuhou#ref589973: by Shadow of Hassen
+
+Imperial Pallace: By ShadowOfHassen

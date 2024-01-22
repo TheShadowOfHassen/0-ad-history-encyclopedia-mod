@@ -8,6 +8,12 @@
     <Requirements>
       <Techs datatype="tokens">-unlock_champion_cavalry phase_city</Techs>
     </Requirements>
+    <History>
+      The Tiger and Leopard Cavalry was an elite cavalry division belonging to the warlord Cao Cao, commanded by his cousin Cao Chu. At that time, during the late Han dynasty and the early Three Kingdoms era (meaning the first to third centuries BC), the use of cavalry had declined in importance, shifting away from the massed militia of the early Han dynasty and towards smaller, professional, corps. There were other, similar cavalry divisions to the Tiger and Leopard cavalry in the armies of other warlords as well.
+        Admission into this special force had high requirements; applicants, for example, had to command at least a hundred units to be eligible. Because of that, both the commander, Cao Chun, and the squadron itself were renown for their extreme discipline and physical capabilities.
+        The Tiger and Leopard Cavalry were outfitted with the best equipment. They fought with typical Chinese spears with leaf-shaped blades. They also carried a shield, and both the horses and riders were heavily armored.
+        Despite their heavy equipment, one of the Tiger and Leopard Cavalry's strengths was their high flexibility often travelling great distances in a comparably short amount of time. In battle, the Tiger and Leopard Cavalry fought as shock troops and, at the desired moment and place on the battlefield, charged the enemy, trying to break up or disorganize their formation, and they were good at their job. Although they were one of the smaller forces in Cao Cao's armies, they were the most lethal.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/han/cavalry_spearman_c_m.xml</Actor>
