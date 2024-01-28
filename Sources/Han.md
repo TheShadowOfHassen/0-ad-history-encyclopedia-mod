@@ -59,5 +59,8 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
-Battle of Gaixia: https://jwwnz.medium.com/return-in-a-swirl-of-dust-b376811d2671 by Vantha
+Battle of Gaixia: https://jwwnz.medium.com/return-in-a-swirl-of-dust-b376811d2671
+& 
+https://www.worldhistory.org/Battle_of_Gaixia/
+by Vantha
 
