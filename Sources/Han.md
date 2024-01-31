@@ -33,6 +33,13 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
+Han Acadamy: https://en.wikipedia.org/wiki/Taixue by ShadowOfHassen
+
+
+Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
+
+
+Imperial ministry: Vantha's article on the Ministers & https://en.wikipedia.org/wiki/Nine_Courts: By ShadowOfHassen
 
 barracks: https://totallyhistory.com/han-dynasty-military/ by Vantha
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
@@ -59,8 +66,14 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
+
 Battle of Gaixia: https://jwwnz.medium.com/return-in-a-swirl-of-dust-b376811d2671
 & 
 https://www.worldhistory.org/Battle_of_Gaixia/
 by Vantha
+
+
+Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han by Vantha & ShadowOfHassen
+
+
 
