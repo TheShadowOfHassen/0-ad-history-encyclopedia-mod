@@ -14,5 +14,5 @@ What then can I do?
 Ah, Yu [his wife], my Yu,
 What will your fate be?”
  
-The next day, Xiang Yu was even able to break through and flee; however, he was pursued and eventually took his own life.
+The next day, Xiang Yu was even able to break through and flee; however, he was pursued and shame of his devastating defeat took his own life.
 This battle sealed the Han victory and led to the foundation of the Han dynasty.
