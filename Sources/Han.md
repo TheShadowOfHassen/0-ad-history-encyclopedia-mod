@@ -66,9 +66,12 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
+walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
+
 battle of Jingxing: https://m.youtube.com/watch?si=4LQUXHRJ1EQNz58i&v=0rV-ZIS6aOM by Vantha
 
 
 Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han by Vantha & ShadowOfHassen
+
 
 
