@@ -67,6 +67,8 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
+Han Xin: https://m.youtube.com/watch?si=TEMmo5zO0kXfXxkw&v=Ljc3s1lk6ew by Vantha
+
 walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
 
 battle of Jingxing: https://m.youtube.com/watch?si=4LQUXHRJ1EQNz58i&v=0rV-ZIS6aOM by Vantha
