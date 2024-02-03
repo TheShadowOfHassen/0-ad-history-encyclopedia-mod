@@ -1,5 +1,6 @@
 Female Citizens:The Han Dynasty Myra Immell & https://asiasociety.org/education/women-traditional-china: by ShadowOfHassen
-Temple: https://totallyhistory.com/confucianism-during-the-han-dynasty/ by Vantha
+
+Temple: https://totallyhistory.com/confucianism-during-the-han-dynasty/ & https://totallyhistory.com/han-dynasty-religion/ & https://human.libretexts.org/Bookshelves/Religious_Studies/World_Religions_II_(Lumen)/04%3A_Confucianism_and_Daoism/4.03%3A_Religious_Practice_During_the_Qin_and_HanEmpires & https://en.wikipedia.org/wiki/Confucianism: orignally by Vantha, rewriteen by ShadowOfHassen
 
 Healer: https://www.britannica.com/science/traditional-Chinese-medicine by Vantha
 Houses: https://en.wikipedia.org/wiki/Traditional_Chinese_house_architecture &See Inside an Ancient Chinese Town  :By ShadowOfHassen 
