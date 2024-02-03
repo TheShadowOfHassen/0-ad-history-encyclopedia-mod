@@ -69,6 +69,9 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
+
+small ship: https://www.jstor.org/stable/i40089949 by Vantha
+
 Han Xin: https://m.youtube.com/watch?si=TEMmo5zO0kXfXxkw&v=Ljc3s1lk6ew by Vantha
 
 walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
@@ -77,6 +80,7 @@ walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
 
 
 Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han by Vantha & ShadowOfHassen
+
 
 
 

@@ -8,6 +8,9 @@
     <Civ>han</Civ>
     <SpecificName>Zhàn Chuán</SpecificName>
     <Icon>units/han/ship_bireme.png</Icon>
+  <History>
+      Even though the large and heavy tower ships were the more common in ancient China, that doesn't mean there weren't smaller ones too. The role of light and small ships at sea can be compared to that of light cavalry on land. The boats didn't have ramming power, and fewer men were stationed to board as apposed to larger ships, just as light cavalry lacked the force of heavier units. However, these heavy tower ships also were very bulky and lacked maneuverability. This left them extremely vulnerable to ramming or incendiary attacks. Small ships, in contrast, were, just like light cavalry, used as a mobile support force. They could perform surveillance or patrolling tasks, or carry out quick hit-and-run attacks to disrupt the enemy formation or their logistics by targeting supply lines.
+  </History>
   </Identity>
   <Selectable>
     <Overlay>
