@@ -1,5 +1,6 @@
 Female Citizens:The Han Dynasty Myra Immell & https://asiasociety.org/education/women-traditional-china: by ShadowOfHassen
-Temple: https://totallyhistory.com/confucianism-during-the-han-dynasty/ by Vantha
+
+Temple: https://totallyhistory.com/confucianism-during-the-han-dynasty/ & https://totallyhistory.com/han-dynasty-religion/ & https://human.libretexts.org/Bookshelves/Religious_Studies/World_Religions_II_(Lumen)/04%3A_Confucianism_and_Daoism/4.03%3A_Religious_Practice_During_the_Qin_and_HanEmpires & https://en.wikipedia.org/wiki/Confucianism: orignally by Vantha, rewriteen by ShadowOfHassen
 
 Healer: https://www.britannica.com/science/traditional-Chinese-medicine by Vantha
 Houses: https://en.wikipedia.org/wiki/Traditional_Chinese_house_architecture &See Inside an Ancient Chinese Town  :By ShadowOfHassen 
@@ -33,6 +34,13 @@ Archer: https://en.m.wikipedia.org/wiki/Chinese_archery by Vantha
 
 Crossbowman: https://m.youtube.com/watch?si=ixC29MEs3_276d_i& by Vantha
 
+Han Acadamy: https://en.wikipedia.org/wiki/Taixue by ShadowOfHassen
+
+
+Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
+
+
+Imperial ministry: Vantha's article on the Ministers & https://en.wikipedia.org/wiki/Nine_Courts: By ShadowOfHassen
 
 barracks: https://totallyhistory.com/han-dynasty-military/ by Vantha
 Swordsmen (cavalry and infantry): https://youtube.com/watch?v=xzIKiGCRhG0 by Vantha
@@ -59,5 +67,18 @@ Wonder: http://en.chinaculture.org/2014-12/01/content_579109.htm & https://samur
 
 Imperial Pallace: By ShadowOfHassen
 
+
 small ship: https://www.jstor.org/stable/i40089949 by Vantha
+
+Han Xin: https://m.youtube.com/watch?si=TEMmo5zO0kXfXxkw&v=Ljc3s1lk6ew by Vantha
+
+walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
+
+
+
+
+Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han by Vantha & ShadowOfHassen
+
+
+
 
