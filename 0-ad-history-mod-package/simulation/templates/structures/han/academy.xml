@@ -25,7 +25,7 @@
   <Identity>
     <Civ>han</Civ>
     <GenericName>Imperial Academy</GenericName>
-    <SpecificName>Taixue</SpecificName>
+    <SpecificName>Tàixué</SpecificName>
     <SelectionGroupName>structures/han/academy</SelectionGroupName>
     <Tooltip>Train Champions and research their technologies.</Tooltip>
     <VisibleClasses datatype="tokens">-Village City Academy</VisibleClasses>
@@ -33,6 +33,9 @@
     <Requirements>
       <Techs datatype="tokens">-phase_village phase_city</Techs>
     </Requirements>
+    <History>
+        The Imperial Academy, or Tàixué, was the highest place of study in ancient imperial China. The academy taught students Confucianism and literature as well as preparing them to take jobs in the empire’s government. It was a large school, at its peak having over 30,000 students and faculty.
+    </History>
   </Identity>
   <Obstruction>
     <Static depth="22.0" width="22.0"/>
