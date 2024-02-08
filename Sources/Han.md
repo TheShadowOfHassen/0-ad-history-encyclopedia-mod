@@ -84,6 +84,8 @@ walls: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
 
 Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han by Vantha & ShadowOfHassen
 
+Wei Qing: https://en.m.wikipedia.org/wiki/Wei_Qing by Vantha
+
 
 
 
