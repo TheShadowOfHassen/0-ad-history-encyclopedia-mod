@@ -86,6 +86,7 @@ Liu Bang: https://www.britannica.com/biography/Gaozu-emperor-of-Han-dynasty & ht
 
 Wei Qing: https://en.m.wikipedia.org/wiki/Wei_Qing by Vantha
 
-
+Han Xiognu War: https://youtube.com/watch?v=FwEkp4I75OA& by Vantha
+Battle of Mobei: https://en.wikipedia.org/wiki/Battle_of_Mobei
 
 
