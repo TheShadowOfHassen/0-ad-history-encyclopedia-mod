@@ -1,3 +1,5 @@
+Macidonian women: Daily Life in The Hellenistic Age by James Allan Evans & https://en.wikipedia.org/wiki/Olympias: By ShadowOfHassen
+
 Hemiolos (ship_bireme.xml):
 https://en.m.wikipedia.org/wiki/Hellenistic-era_warships
 by Vantha

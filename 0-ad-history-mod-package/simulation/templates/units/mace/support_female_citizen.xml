@@ -5,6 +5,10 @@
     <SpecificName>Gýnē Makedonikḗ</SpecificName>
     <GenericName>Macedonian Woman</GenericName>
     <Icon>units/hele/support_female_citizen.png</Icon>
+    <History>
+       	Hellenistic women had significantly more freedom than their counterparts during the Greek classical period. As before, they were expected to mostly bear their husbands’ children and to keep house. However, during the Hellenistic there are cases of young girls attending school, and the rights of women expanded to allow ownership of property. During the Helenistic period we find mentions of women poets and philosophers, unfortunately, though very little of their original works are left.
+       	It is also during this time that we see women participating in works of the state. Olympias, mother of Alexander held much influence going as far to invade Macidonia after her son’s death. Another wife of Philip II, Audata was said to have fought by Phillip’s side in battle.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/female_citizen.xml</Actor>

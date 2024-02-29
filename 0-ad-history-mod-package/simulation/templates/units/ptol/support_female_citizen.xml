@@ -11,6 +11,10 @@
     <SpecificName>Gýnē Aigýptia</SpecificName>
     <GenericName>Egyptian Woman</GenericName>
     <Icon>units/ptol/support_female_citizen.png</Icon>
+    <History>
+        	Egypt during the Ptolemaic empire had a direct contrast between the upper class Hellenistic women and the lower class native Egyptians. The Greek upper class were held to the standard Hellenistic, which although was an improvement compared to the Classical Greeks, a woman of Greek decent would not have as many legal privileges as her Egyptian counterpart.
+        	That said there were still plenty of opportunities for even a Greek woman. Most famous perhaps would be Cleopatra IV, the last ruler of the Ptolemies who was popular with both her Greek and Egyptian subjects.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/ptolemies/female_citizen.xml</Actor>
