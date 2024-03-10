@@ -4,6 +4,11 @@
     <Civ>ptol</Civ>
     <SpecificName>Bibliothēkē</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <History>
+        The Library of Alexandria is without a doubt the most famous library of classical antiquity, and not without reason. It was meant as a universal library to collect and conserve all books in the world. The library was constructed in the early decades of the Ptolemaic kingdom as part of the Alexandrian Mouseion, an institution for research and scholarship. 
+        Under Ptolemaic rule, the entire city of Alexandria grew into a famed metropolis, renown for knowledge and learning. Many of the most significant scholars at the time worked at or visited its library. According to modern estimations, the library, at its peak, stored several hundreds of thousands of works on papyrus scrolls—a gigantic amount. The building complex surrounding the library functioned as an academic university. There were living quarters, classrooms where lectures were held, meeting and dining rooms, laboratories, and gardens. 
+        The library's prestige and significance slowly declined from the second half of the 2nd century onwards due to a lack of maintenance and funding. It, unfortunately, fell victim to military conflicts and was likely destroyed before the 3rd century BC.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/ptolemies/library.xml</Actor>

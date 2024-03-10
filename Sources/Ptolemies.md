@@ -12,6 +12,8 @@ dock, market and merchant ship:
 https://www.academia.edu/42292064/The_Ptolemaic_Sea_Empire_2019_
 by Vantha
 
+library: https://www.worldhistory.org/Library_of_Alexandria/ by Vantha
+
 civic center:
 https://www.britannica.com/place/ancient-Egypt/Government-and-conditions-under-the-Ptolemies
 by Vantha
