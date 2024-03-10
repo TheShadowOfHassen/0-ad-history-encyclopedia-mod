@@ -1,3 +1,4 @@
+Ptolmic women: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
 Tesserakonteres (champion_juggernaut.xml):
 https://www.hellenicaworld.com/Greece/WS/en/Tesseraconteres.html#google_vignette http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Athenaeus/5C*.html
 by Vantha
@@ -13,4 +14,7 @@ by Vantha
 
 library: https://www.worldhistory.org/Library_of_Alexandria/ by Vantha
 
+civic center:
+https://www.britannica.com/place/ancient-Egypt/Government-and-conditions-under-the-Ptolemies
+by Vantha
 

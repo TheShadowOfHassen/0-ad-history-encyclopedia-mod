@@ -1,3 +1,5 @@
+Macidonian women: Daily Life in The Hellenistic Age by James Allan Evans & https://en.wikipedia.org/wiki/Olympias: By ShadowOfHassen
+
 Hemiolos (ship_bireme.xml):
 https://en.m.wikipedia.org/wiki/Hellenistic-era_warships
 by Vantha
@@ -8,4 +10,8 @@ by Vantha
 
 dock, merchant ship:
 http://history-of-macedonia.com/2007/03/12/greek-navy-in-alexanders-campaign/
+by Vantha
+
+civic center:
+https://medium.com/@christoss200/ancient-macedonia-political-institutions-be975b9d0f57
 by Vantha
