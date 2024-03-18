@@ -18,3 +18,5 @@ civic center:
 https://www.britannica.com/place/ancient-Egypt/Government-and-conditions-under-the-Ptolemies
 by Vantha
 
+Lighthouse: https://www.britannica.com/topic/lighthouse-of-Alexandria  by Vantha
+
