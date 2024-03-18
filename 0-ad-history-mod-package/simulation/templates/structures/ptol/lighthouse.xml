@@ -28,6 +28,12 @@
     <Classes datatype="tokens">CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Lighthouse</VisibleClasses>
     <Icon>structures/lighthouse.png</Icon>
+    <History>
+        The Lighthouse of Alexandria was located on a small island called Pharos, just off the coast of Alexandria. Construction was commissioned by Ptolemy I Soter, the founder of the Ptolemaic kingdom, and lasted multiple decades, costing 800 talents (equivalent to some tens of millions of modern-day US dollars) in total.
+        The building itself had a 90-by-90-foot (30-meter) base and was divided into three parts. The bottom block was square- the middle block octagonal- and the top part circularly shaped. Including an alleged statue at the top, the lighthouse was said to measure over 300 feet (100 meters) in height, making it the second-tallest man-made structure at the time—only behind the pyramids of Giza.
+        Not only in terms of size but also architecture and engineering, the lighthouse marked an impressive achievement and it became a famed landmark for the metropolis of Alexandria. It is not without reason counted towards the Seven Wonders of the Ancient World.
+        And the structure proved very resilient: The Lighthouse of Alexandria survived over 1600 years before, damaged by multiple earthquakes, collapsing, or being taken down.
+    </History>
   </Identity>
   <Loot>
     <stone>40</stone>
