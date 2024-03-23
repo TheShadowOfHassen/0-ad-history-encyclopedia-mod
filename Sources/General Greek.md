@@ -29,3 +29,5 @@ by Vantha
 
 
 peltasts: https://www.worldhistory.org/Peltast/ by Vantha
+
+Houses for Macidonia and the Secluids : Daily Life in the Hellenistic Age by James Allan Evans & https://www.britannica.com/art/Western-architecture/Hellenistic-period:based of the athenian house: By ShadowOfHassen
