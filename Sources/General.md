@@ -18,3 +18,5 @@ Fishing Boat: By ShadowOfHassen
 
 Ram mixin:https://en.wikipedia.org/wiki/Battering_ram by Vanta
 siege tower mixin: https://www.youtube.com/watch?v=HUP_npBgj64 by Vantha
+
+elephant stable, war elephant, unused elephants_in_the_hellenistic_world: https://www.youtube.com/watch?v=PomKkHgsE7U by Vantha
