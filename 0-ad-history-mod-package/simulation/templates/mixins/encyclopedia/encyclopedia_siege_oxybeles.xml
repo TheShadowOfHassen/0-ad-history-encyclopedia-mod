@@ -2,8 +2,9 @@
 <Entity>
   <Identity>
     <History>
-        Engineers in Ancient Greece, trying to improve the traditional bow, developed the gastraphetes, a crossbow. However, they wanted an even more powerful weapon, and in the 4th century B.C., the oxybeles was invented.
-        The oxybeles was just a very big gastraphetes (crossbow). It was mounted on a tripod with a swivel joint and fired big arrows or javelins. Just like the gastraphetes, the oxybeles was made from horn, wood, and sinew. Even though it had greater power, range, and accuracy than most weapons at that time, it was not strong enough to take down buildings or walls. But still, the oxybeles was a very dangerous weapon, and it could pierce any soldier's shield and armor from hundreds of feet away.
+        The oxybeles was a type of ancient Greek bolt-shooting device developed sometime around the 4th century BC. A predecessor of the ballista, the oxybeles was basically an oversized crossbow (gastraphetes) mounted on a tripod. As the name (translating to “sharp arrow”) suggests, it fired big arrows or javelins. The oxybeles' immense draw weight was pulled with the help of a winch mechanism. While this slowed down reloading times, it also equipped the weapon with enormous power. Its range exceeded several hundred feet (hundreds of meters) and was capable of piercing any soldier's shield, armor, and, at close range, even his body. Without a doubt, the oxybeles was the most dangerous anti-personnel weapon of its time.
+ 
+However, there were trade-offs for its power. Besides the long reloading time, it was also very heavy, inflexible, and cumbersome. Transportation required a lot of effort.
     </History>
   </Identity>
 </Entity>
