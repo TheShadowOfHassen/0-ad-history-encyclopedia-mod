@@ -3,6 +3,9 @@
   <Identity>
     <Civ>ptol</Civ>
     <SpecificName>Agros</SpecificName>
+    <History>
+        Farming in Egypt under the Ptolemaic dynasty was, as it always had been, reliant on the Nile. Every summer the Nile flooded, covering the farm fields, with water, and new, rich soil. Because of Egypt's dry climate, the Egyptians also dug canals in order to store excess water for use of watering the growing crops.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/plot_field_medit.xml</Actor>
