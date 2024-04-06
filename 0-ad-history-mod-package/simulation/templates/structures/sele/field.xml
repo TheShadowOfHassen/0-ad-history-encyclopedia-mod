@@ -3,6 +3,9 @@
   <Identity>
     <Civ>sele</Civ>
     <SpecificName>Agros</SpecificName>
+    <History>
+        Grains such as wheat and barely were staples for any ancient society. They were cheap, easy to grow crops that were a staple in the diets of all but the richest individuals.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>structures/plot_field_medit.xml</Actor>

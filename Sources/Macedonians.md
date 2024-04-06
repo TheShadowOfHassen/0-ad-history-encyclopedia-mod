@@ -19,3 +19,7 @@ by Vantha
 gastraphetes: https://www.comitatus.net/greekbellybow.html by Vantha
 
 
+Temple: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
+
+
+Wonder: https://www.palaceofpella.gr/ancient-pella-history/?lang=en & https://whc.unesco.org/en/list/780/ & https://en.wikipedia.org/wiki/Battle_of_Pydna :By ShadowOfHassen

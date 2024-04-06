@@ -6,6 +6,9 @@
   <Identity>
     <Civ>sele</Civ>
     <SpecificName>Epoikion</SpecificName>
+    <History>
+        The Seleucids stored excess grains in preperation for siege or famine.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="18.0" depth="15.0"/>
