@@ -16,4 +16,7 @@ civic center:
 https://medium.com/@christoss200/ancient-macedonia-political-institutions-be975b9d0f57
 by Vantha
 
+Temple: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
 
+
+Wonder: https://www.palaceofpella.gr/ancient-pella-history/?lang=en & https://whc.unesco.org/en/list/780/ & https://en.wikipedia.org/wiki/Battle_of_Pydna :By ShadowOfHassen
