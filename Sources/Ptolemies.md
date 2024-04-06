@@ -21,3 +21,5 @@ by Vantha
 
 Farming ( Farmstead, Field) https://www.bbc.co.uk/bitesize/articles/zkkywty#zdgfydm & https://www.worldhistory.org/article/997/ancient-egyptian-agriculture/ & Signs and Seasons by Jay Ryan
 Lighthouse: https://www.britannica.com/topic/lighthouse-of-Alexandria  by Vantha
+
+Temples: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
