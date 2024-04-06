@@ -16,6 +16,9 @@ civic center:
 https://medium.com/@christoss200/ancient-macedonia-political-institutions-be975b9d0f57
 by Vantha
 
+gastraphetes: https://www.comitatus.net/greekbellybow.html by Vantha
+
+
 Temple: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
 
 
