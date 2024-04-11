@@ -23,3 +23,5 @@ Temple: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHass
 
 
 Wonder: https://www.palaceofpella.gr/ancient-pella-history/?lang=en & https://whc.unesco.org/en/list/780/ & https://en.wikipedia.org/wiki/Battle_of_Pydna :By ShadowOfHassen
+
+Battle of Gaugamela: https://www.youtube.com/watch?v=xwunu9gJyas by Vantha
