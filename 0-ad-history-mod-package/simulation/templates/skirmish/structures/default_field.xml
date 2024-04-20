@@ -2,6 +2,9 @@
 <Entity parent="template_structure_resource_field">
   <Identity>
     <Civ>skirm</Civ>
+    <History>
+        Grains such as wheat and barley were staples for any ancient society. They were cheap, easy-to-grow crops that were a staple in the diets of all but the richest individuals.
+    </History>
   </Identity>
   <SkirmishReplacer>
     <general>structures/{civ}/field</general>
