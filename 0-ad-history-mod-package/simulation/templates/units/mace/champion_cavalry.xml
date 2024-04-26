@@ -7,6 +7,15 @@
     <SpecificName>Hetaîros</SpecificName>
     <Icon>units/mace/champion_cavalry.png</Icon>
     <SelectionGroupName>units/mace/champion_cavalry</SelectionGroupName>
+    <History>
+        The companion cavalry was a special cavalry unit in the Macedonian army. It was, as the name suggests, composed of companions (“Hetairoi”), the aristocratic elite of Macedonian society, the king's close advisors, but also his bodyguards and comrades-in-arms in battle. In its early days, the regiment numbered 600 cavalrymen, but, over the course of Philip II's and Alexander the Great's campaigns, rose to a size of around 3600.
+        Unlike other contemporary cavalry forces, on the battlefield, the companion cavalry functioned primarily as shock troopers. They carried a nine-to-twelve-foot (three to four meters)-long lance and also a sword as a secondary weapon. Often opening the battle, they conducted aggressive, full-scale charges at weak points in the enemy formation, usually in a triangular wedge formation.
+        However, in comparison to later shock cavalry like cataphracts, companion cavalrymen and their horses wore relatively light protection and didn't even carry a shield. And stirrups hadn't been invented yet. 
+        While this enhanced their speed, it also required riders and horses to be very well-trained for fighting in this manner. 
+        Because of this very offensive setting, the companion cavalry oftentimes suffered significantly higher losses than other parts of the army. 
+        However, it paid off: the companion cavalry proved essential for Macedonian military success. In pivotal battles at Charonea (338 BC), Granicus (334 BC), Gaugamela (331 BC), and the Hydaspes (326 BC), they performed deciding maneuvers, turning around the battle for Macedonia. 
+        Companion cavalry was a revolutionary step for cavalry warfare at the time and place. As a result, similar forces were developed all around the Hellenistic world.
+    </History>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/cavalry_spearman_c_m.xml</Actor>
