@@ -26,4 +26,10 @@ Wonder: https://www.palaceofpella.gr/ancient-pella-history/?lang=en & https://wh
 
 Battle of Gaugamela: https://www.youtube.com/watch?v=xwunu9gJyas by Vantha
 
+
 companion cavalry: https://www.youtube.com/watch?si=pPSbM64BpBeqxIxs&v=bbLnrGGqyWY by Vantha
+
+silver shields: https://www.youtube.com/watch?si=e-B-VW5GZlsjuAIV&v=csw9uSRjUz8 by Vantha
+
+hypaspists: https://www.worldhistory.org/Hypaspist/ by Vantha
+

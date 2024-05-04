@@ -8,4 +8,6 @@ civic center:
 https://www.linkedin.com/pulse/history-taxation-seleucid-state-digital-tax-technologies
 by Vantha
 
+general cavalry: https://www.youtube.com/watch?v=beRE2IKqXYQ by Vantha
+
 Farming (Farmstead, Field) https://en.wikipedia.org/wiki/Seleucid_agriculture: By ShadowOfHassen
