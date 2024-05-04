@@ -29,6 +29,13 @@
   <Identity>
     <VisibleClasses datatype="tokens">Slinger</VisibleClasses>
     <GenericName>Slinger</GenericName>
+    <History>
+        Slingers were highly mobile skirmishing units used to a much lesser extent than archers or javelineers on antique battlefields. 
+        Firing a sling accurately required skill and a lot of training (more than a bow or javelin). Slings were therefore only carried on the battlefield by experienced users who had practiced the use of this weapon since childhood.
+        They were said to achieve slinging speeds faster than 100 mph (160 kmh) and ranges of over 1300 feet (400 meters), outclassing most archers. Reloading was another big advantage because it required nothing more than just putting a new projectile into the cradle. Skilled slingers could easily fire over 10 shots per minute. And that (unlike bows) from one hand, on rugged terrain, and while on the run. A good hit guaranteed a serious injury, if not death. Slings, in no way, were less lethal when compared  to bows. Ancient sources even claim projectiles heat up from friction to start melting in mid-flight, as well as being able to fully pierce armor. Both of which are likely exaggerations but underline the recognized danger of a sling.
+        However, the psychological effect of slingers should not be underestimated either. Ancient sources mention how soldiers were much more afraid of a hail of stones than arrows. There are even tales of slingers bringing down entire ships by continuously launching heavy stones at them. Very small sling bullets were invisible to the eye while flying through the air. And archeological evidence suggests that some of those (Roman) bullets had holes drilled into them to instead make an intimidating buzzing or whistling sound when whizzing towards their target.
+        All in all, slingers were therefore actually way more formidable units than today often credited with.
+    </History>
   </Identity>
   <Loot>
     <stone>3</stone>
