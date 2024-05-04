@@ -8,6 +8,9 @@
     <Civ>ptol</Civ>
     <SpecificName>Klērouchia</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <History>
+        The Ptolemaic empire granted veteran Greek troops land in colonies, in the empire. These pockets of Greek culture spread throughout the traditional Egyptian land giving shape to the Hellenistic kingdom.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="32" depth="31"/>
