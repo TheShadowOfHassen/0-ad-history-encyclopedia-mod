@@ -26,4 +26,4 @@ Temples: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHas
 
 Wonder: https://www.ancient-egypt.co.uk/edfu_main_temple/ & https://www.ancient-egypt.co.uk/edfu_main_temple/ : By ShadowOfHassen
 
-Military Colony: Based of the Selecluid article. https://en.wikipedia.org/wiki/Ptolemaic_Kingdom : By ShadowOfHassen
+Military Colony: Based of the Selecluid article. https://en.wikipedia.org/wiki/Ptolemaic_Kingdom : By WowGetOffYourPhone & ShadowOfHassen
