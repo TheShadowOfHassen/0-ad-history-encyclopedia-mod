@@ -7,6 +7,10 @@
   <Identity>
     <Civ>sele</Civ>
     <SpecificName>Hieron tou Apollōnos Pythiou</SpecificName>
+    <History>
+        The Seleucid dynasty claimed to be descendant from Apollo. They claimed that Apollo visited the mother of the first ruler, Seleucus I, and spent the night with her, leaving as proof a ring engraved with an anchor. When he was born, Seleucus I had a matching birthmark on his thigh. The Seleucid dynasty claimed the heirs as well bore the mark.
+        Seleucus I built the temple of Pythian Apollo, dedicated to his alleged father, in Daphne.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="27.0" depth="57.0"/>

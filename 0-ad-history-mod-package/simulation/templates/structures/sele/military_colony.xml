@@ -8,6 +8,9 @@
     <Civ>sele</Civ>
     <SpecificName>Klērouchia</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <History>
+        The Seleucid empire invited Greek colonists to settle their eastern lands. Although they were a small part of the empire’s vast people, the Greeks were the backbone of the empire, serving both as the primary forces for the army and aids in the goverment. As well as providing a way to Hellenize the rest of the empire
+    </History>
   </Identity>
   <Obstruction>
     <Static width="29" depth="29"/>
