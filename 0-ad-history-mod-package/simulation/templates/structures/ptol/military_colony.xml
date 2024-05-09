@@ -8,6 +8,9 @@
     <Civ>ptol</Civ>
     <SpecificName>Klērouchia</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <History>
+        The Greco-Macedonian pharaohs of the Ptolemaic dynasty granted plots of land to all veteran Greek soldiers who would settle within the borders of the empire. These veterans and their descendants would then be called upon by the pharaoh to serve in the imperial army during times of war or rebellion. The pockets of Greek culture created by these settlements would influence and give shape to the traditional native Egyptian culture, creating a unique syncretism we today call the Hellenistic culture.
+    </History>
   </Identity>
   <Obstruction>
     <Static width="32" depth="31"/>

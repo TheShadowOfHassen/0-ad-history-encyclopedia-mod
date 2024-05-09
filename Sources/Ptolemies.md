@@ -25,3 +25,5 @@ Lighthouse: https://www.britannica.com/topic/lighthouse-of-Alexandria  by Vantha
 Temples: Daily Life in The Hellenistic Age by James Allan Evans : By ShadowOfHassen
 
 Wonder: https://www.ancient-egypt.co.uk/edfu_main_temple/ & https://www.ancient-egypt.co.uk/edfu_main_temple/ : By ShadowOfHassen
+
+Military Colony: Based of the Selecluid article. https://en.wikipedia.org/wiki/Ptolemaic_Kingdom : By WowGetOffYourPhone & ShadowOfHassen
